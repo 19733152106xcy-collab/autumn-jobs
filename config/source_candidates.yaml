@@ -1,0 +1,41 @@
+candidates:
+  - id: cadg
+    name: 中国建筑设计研究院
+    url: https://hr.cadg.com.cn/
+    group: official_hr
+  - id: biad
+    name: 北京市建筑设计研究院
+    url: https://www.biad.com.cn/view/id/233/
+    group: design_firm
+  - id: brdr
+    name: 北京市住宅建筑设计研究院
+    url: https://www.brdr.com.cn/html/renliziyuan/zhiyeshengya/index.html
+    group: design_firm
+  - id: ccdc
+    name: 中国中建设计研究院
+    url: https://ccdc.cscec.com/rlzy/xyzp/
+    group: central_soe
+  - id: cscec
+    name: 中国建筑校园招聘
+    url: "https://recruit.cscec.com/recruit/#/portal_job_list?job_class=campus"
+    group: official_hr
+  - id: xauat
+    name: 西安建筑科技大学就业信息网
+    url: https://job.xauat.edu.cn/
+    group: university
+  - id: tongji
+    name: 同济大学学生就业信息网
+    url: https://tj91.tongji.edu.cn/
+    group: university
+  - id: seu
+    name: 东南大学就业信息网
+    url: https://job.seu.edu.cn/
+    group: university
+  - id: ncss24365
+    name: 国家24365大学生就业服务平台
+    url: https://www.24365.ncss.cn/
+    group: aggregator
+  - id: zju
+    name: 浙江大学就业服务平台
+    url: https://www.career.zju.edu.cn/
+    group: university

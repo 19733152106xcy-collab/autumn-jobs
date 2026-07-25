@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** 以 5 个异构真实来源打通抓取、筛选、去重、安全合并、公开数据生成、极简网页和 GitHub Pages 发布，并在用户验收后扩展至约 10 个高价值来源。
+**Goal:** 以 5 个异构真实来源先打通抓取、筛选、去重、安全合并、公开数据生成、极简网页和 GitHub Pages 发布，再在同一实施周期扩展至约 10 个高价值来源。
 
 **Architecture:** Python 包负责来源抓取、结构化、规则匹配、去重、链接检查和状态合并；岗位业务状态与每次运行状态严格分离。`site/` 是唯一发布目录，前端使用原生 HTML/CSS/JavaScript 读取公开 JSON。HTTP 优先，只有动态站点才使用 Playwright。
 
@@ -792,7 +792,7 @@ git add docs/phase-one-demo.md artifacts/source-health.json artifacts/sample-pub
 git commit -m "docs: record five-source vertical slice demo"
 ```
 
-## Task 14：验收后扩展到约 10 个来源
+## Task 14：扩展到约 10 个来源
 
 **Files:**
 - Modify: `config/sources.yaml`

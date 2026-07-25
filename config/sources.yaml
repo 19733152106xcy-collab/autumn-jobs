@@ -1,0 +1,11 @@
+sources:
+  - {id: cadg, company: 中国建筑设计研究院, url: https://hr.cadg.com.cn/, enabled: true, priority: official, max_items: 10}
+  - {id: biad, company: 北京市建筑设计研究院, url: https://www.biad.com.cn/view/id/233/, enabled: true, priority: official, max_items: 10}
+  - {id: brdr, company: 北京市住宅建筑设计研究院, url: https://www.brdr.com.cn/html/renliziyuan/zhiyeshengya/index.html, enabled: true, priority: official, max_items: 10}
+  - {id: ccdc, company: 中国中建设计研究院, url: https://ccdc.cscec.com/rlzy/xyzp/, enabled: true, priority: official, max_items: 10}
+  - {id: cscec, company: 中国建筑, url: "https://recruit.cscec.com/recruit/#/portal_job_list?job_class=campus", enabled: true, priority: official, max_items: 10}
+  - {id: xauat, company: 高校就业信息网, url: https://job.xauat.edu.cn/, enabled: true, priority: university, max_items: 10}
+  - {id: tongji, company: 高校就业信息网, url: https://tj91.tongji.edu.cn/, enabled: true, priority: university, max_items: 10}
+  - {id: zju, company: 高校就业信息网, url: https://www.career.zju.edu.cn/, enabled: true, priority: university, max_items: 10}
+  - {id: chinaconstruction, company: 中国建筑, url: https://chinaconstruction.cscec.com/rlzy/xyzp/, enabled: true, priority: central_soe, max_items: 10}
+  - {id: cccec, company: 中国建筑土木建设有限公司, url: https://www.cccec.com.cn/xyzp, enabled: true, priority: central_soe, max_items: 10}

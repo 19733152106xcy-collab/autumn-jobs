@@ -1,0 +1,9 @@
+.venv/
+.playwright-browsers/
+.playwright-cli/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+artifacts/
+data/runtime/

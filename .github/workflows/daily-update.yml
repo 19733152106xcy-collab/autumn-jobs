@@ -1,0 +1,83 @@
+name: Daily job update
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: autumn-jobs-update
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      publish: ${{ steps.changed.outputs.publish }}
+      state_changed: ${{ steps.changed.outputs.state_changed }}
+      commit_sha: ${{ steps.commit.outputs.commit_sha }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -e ".[dev]"
+      - run: python -m pytest -v
+      - run: python scripts/crawl.py --all --summary artifacts/source-health.json
+      - id: changed
+        run: |
+          if git diff --quiet -- site/data data/state/jobs.json; then
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            echo "No public job business changes." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+            echo "Public job data changed." >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if git diff --quiet -- data/state/source_status.json; then
+            echo "state_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "state_changed=true" >> "$GITHUB_OUTPUT"
+            echo "Source-health state updated; Pages deployment is not required." >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-health
+          path: artifacts/source-health.json
+          retention-days: 30
+      - id: commit
+        if: steps.changed.outputs.publish == 'true' || steps.changed.outputs.state_changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data data/state/jobs.json data/state/source_status.json
+          if [ "${{ steps.changed.outputs.publish }}" = "true" ]; then
+            git commit -m "data: update autumn jobs"
+          else
+            git commit -m "state: update source health"
+          fi
+          git push
+          echo "commit_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+  deploy:
+    needs: crawl
+    if: needs.crawl.outputs.publish == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.crawl.outputs.commit_sha }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

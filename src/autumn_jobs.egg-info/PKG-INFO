@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: autumn-jobs
+Version: 0.1.0
+Summary: A practical personal index of public autumn recruitment jobs
+Requires-Python: <3.15,>=3.12
+Requires-Dist: httpx<0.29,>=0.28
+Requires-Dist: pydantic<3,>=2.13
+Requires-Dist: PyYAML<7,>=6.0
+Requires-Dist: selectolax<0.5,>=0.4
+Requires-Dist: tenacity<10,>=9.1
+Requires-Dist: rapidfuzz<4,>=3.14
+Requires-Dist: python-dateutil<3,>=2.9
+Requires-Dist: tzdata<2027,>=2025.2
+Provides-Extra: dynamic
+Requires-Dist: playwright<2,>=1.61; extra == "dynamic"
+Provides-Extra: dev
+Requires-Dist: pytest<10,>=9.1; extra == "dev"
+Requires-Dist: pytest-cov<8,>=7.1; extra == "dev"
+Requires-Dist: respx<0.24,>=0.23; extra == "dev"
+Requires-Dist: ruff<0.17,>=0.16; extra == "dev"
