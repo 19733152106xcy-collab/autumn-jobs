@@ -8,3 +8,4 @@ __pycache__/
 *.egg-info/
 artifacts/
 data/runtime/
+config/profile.local.yaml
