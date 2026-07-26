@@ -28,3 +28,11 @@ def test_manual_dispatch_deploys_without_forcing_a_data_commit():
         "if: steps.changed.outputs.business_changed == 'true' || "
         "steps.changed.outputs.state_changed == 'true'"
     ) in workflow
+
+
+def test_daily_workflow_uses_node24_action_versions():
+    workflow = Path(".github/workflows/daily-update.yml").read_text(encoding="utf-8")
+
+    assert "actions/checkout@v6" in workflow
+    assert "actions/setup-python@v6" in workflow
+    assert "actions/upload-artifact@v6" in workflow

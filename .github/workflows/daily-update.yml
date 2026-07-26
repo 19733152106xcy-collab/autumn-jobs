@@ -25,8 +25,8 @@ jobs:
       state_changed: ${{ steps.changed.outputs.state_changed }}
       commit_sha: ${{ steps.current.outputs.commit_sha }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: python -m pip install -e ".[dev]"
@@ -57,7 +57,7 @@ jobs:
             echo "state_changed=true" >> "$GITHUB_OUTPUT"
             echo "Source-health state updated; Pages deployment is not required." >> "$GITHUB_STEP_SUMMARY"
           fi
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: source-health
           path: artifacts/source-health.json
@@ -85,7 +85,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: ${{ needs.crawl.outputs.commit_sha }}
       - uses: actions/configure-pages@v5
