@@ -2,88 +2,88 @@
   "cadg": {
     "status": "ok",
     "discovered": 1,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "biad": {
     "status": "ok",
     "discovered": 0,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "brdr": {
     "status": "ok",
     "discovered": 2,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "ccdc": {
     "status": "ok",
     "discovered": 4,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "cscec": {
     "status": "ok",
     "discovered": 0,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "xauat": {
     "status": "ok",
     "discovered": 0,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "tongji": {
     "status": "ok",
     "discovered": 0,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "zju": {
     "status": "ok",
     "discovered": 0,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "chinaconstruction": {
     "status": "ok",
     "discovered": 1,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "cccec": {
     "status": "failed",
     "discovered": 0,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
     "last_success": null,
-    "consecutive_failures": 5,
+    "consecutive_failures": 6,
     "last_error": "ReadTimeout"
   },
   "cscec8": {
     "status": "ok",
     "discovered": 10,
-    "last_run": "2026-07-26T22:24:23.785313+08:00",
-    "last_success": "2026-07-26T22:24:23.785313+08:00",
+    "last_run": "2026-07-26T23:06:47.558355+08:00",
+    "last_success": "2026-07-26T23:06:47.558355+08:00",
     "consecutive_failures": 0,
     "last_error": null
   }
