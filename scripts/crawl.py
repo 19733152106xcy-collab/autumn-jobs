@@ -6,8 +6,12 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import httpx
+
+from autumn_jobs.adapters.cscec8 import crawl_cscec8_jobs, load_cscec8_job_ids
 from autumn_jobs.pipeline import run_pipeline
 from autumn_jobs.sources import (
+    SourceHealth,
     crawl_configured_sources,
     health_payload,
     load_verified_jobs,
@@ -21,6 +25,19 @@ def main() -> None:
     parser.add_argument("--summary", type=Path, default=Path("artifacts/source-health.json"))
     args = parser.parse_args()
     source_jobs, health = crawl_configured_sources(Path("config/sources.yaml"))
+    try:
+        cscec8_jobs = crawl_cscec8_jobs(load_cscec8_job_ids(Path("config/cscec8.yaml")))
+        source_jobs["cscec8"] = cscec8_jobs
+        health.append(SourceHealth(source_id="cscec8", status="ok", discovered=len(cscec8_jobs)))
+    except httpx.HTTPError as error:
+        health.append(
+            SourceHealth(
+                source_id="cscec8",
+                status="failed",
+                discovered=0,
+                error=error.__class__.__name__,
+            )
+        )
     for job in load_verified_jobs(Path("config/verified_jobs.yaml")):
         source_jobs.setdefault(job.source_id, []).append(job)
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()

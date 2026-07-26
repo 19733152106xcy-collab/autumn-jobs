@@ -82,6 +82,14 @@ def test_social_recruitment_title_is_excluded_even_when_description_is_incomplet
     assert match_job("社会招聘", "建筑设计相关工作").included is False
 
 
+def test_2027_campus_job_is_kept_when_portal_also_labels_social_recruitment():
+    from autumn_jobs.matching import match_job
+
+    result = match_job("中建八局三公司2027届校园招聘", "全国 社招全职，校招 本科及以上 建筑设计")
+
+    assert result.included is True
+
+
 def test_research_student_requirement_is_excluded_for_an_undergraduate_candidate():
     from autumn_jobs.matching import match_job
 
@@ -95,6 +103,14 @@ def test_postgraduate_preferred_is_kept_as_a_match():
 
     assert result.included is True
     assert result.level == "A"
+
+
+def test_required_postgraduate_is_not_overridden_by_an_unrelated_preference():
+    from autumn_jobs.matching import match_job
+
+    result = match_job("建筑设计管培生", "硕士及以上学历，党员优先")
+
+    assert result.included is False
 
 
 def test_unrelated_sales_is_not_kept_as_c_match():

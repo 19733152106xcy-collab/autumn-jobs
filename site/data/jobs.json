@@ -2,6 +2,22 @@
   "updated_date": "2026-07-26",
   "jobs": [
     {
+      "fingerprint": "327c2fa299631665be31089e3a1a8b6ab8649d9e211e2ca4a307cc85e69605ac",
+      "company": "中建科技集团",
+      "title": "中建科技集团有限公司2027届校园招聘",
+      "location": [
+        "广东"
+      ],
+      "deadline": null,
+      "publish_date": "2026-06-18",
+      "first_seen": "2026-07-26",
+      "category": "工程管理",
+      "match_level": "B",
+      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2765",
+      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2765",
+      "status": "active"
+    },
+    {
       "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
       "company": "中建八局设计管理总院",
       "title": "设计管理总院2027届校园招聘",
@@ -15,6 +31,88 @@
       "match_level": "B",
       "apply_url": "https://job.cscec8b.com.cn/8bsjzy",
       "detail_url": "https://job.cscec8b.com.cn/8bsjzy",
+      "status": "active"
+    },
+    {
+      "fingerprint": "4723dc5b12da65e6ab062a4f497974432c1bece5867c7af5f92f2eb315017512",
+      "company": "中建八局浙江建设",
+      "title": "浙江公司2027届校园招聘",
+      "location": [
+        "上海",
+        "江苏",
+        "浙江"
+      ],
+      "deadline": null,
+      "publish_date": "2026-06-18",
+      "first_seen": "2026-07-26",
+      "category": "智能建造",
+      "match_level": "B",
+      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2753",
+      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2753",
+      "status": "active"
+    },
+    {
+      "fingerprint": "f0a744ff20720aca0221454a90bed583d0a6a18a966271d5980914c04cb2cfbf",
+      "company": "中建八局华中建设",
+      "title": "华中公司2027届校园招聘",
+      "location": [
+        "安徽",
+        "江西",
+        "河南",
+        "湖北",
+        "湖南"
+      ],
+      "deadline": null,
+      "publish_date": "2026-06-19",
+      "first_seen": "2026-07-26",
+      "category": "工程管理",
+      "match_level": "B",
+      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2781",
+      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2781",
+      "status": "active"
+    },
+    {
+      "fingerprint": "9e8eafc25b17101a90e6fa7b38af429d08caf4615594ee5afc3b8d20f06a3711",
+      "company": "中国建筑第八工程局有限公司上海分公司",
+      "title": "上海公司2027届校园招聘",
+      "location": [
+        "上海",
+        "宁夏",
+        "广东",
+        "江苏",
+        "浙江",
+        "福建",
+        "贵州"
+      ],
+      "deadline": null,
+      "publish_date": "2026-06-18",
+      "first_seen": "2026-07-26",
+      "category": "智能建造",
+      "match_level": "B",
+      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2786",
+      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2786",
+      "status": "active"
+    },
+    {
+      "fingerprint": "2a19bbe6877745834c70ca519c599e76815c34d59cedc4ecf6a5a016b3585b58",
+      "company": "中国建筑土木建设",
+      "title": "土木公司2027届校园招聘",
+      "location": [
+        "全国",
+        "刚果（金）",
+        "喀麦隆",
+        "埃及",
+        "泰国",
+        "马来西亚",
+        "马达加斯加"
+      ],
+      "deadline": null,
+      "publish_date": "2026-06-22",
+      "first_seen": "2026-07-26",
+      "category": "智能建造",
+      "match_level": "B",
+      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2787",
+      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2787",
       "status": "active"
     }
   ]

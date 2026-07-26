@@ -33,14 +33,19 @@ def match_job(title: str, description: str) -> MatchResult:
     text = f"{title} {description}"
     rules = _keywords()
     requirements = _requirements(text)
+    postgraduate_preferred = bool(
+        re.search(r"(?:硕士|博士|研究生).{0,6}优先|优先.{0,6}(?:硕士|博士|研究生)", text)
+    )
     hard_postgraduate = ("博士" in text or "硕士" in text or "研究生" in text) and any(
         token in text for token in ("必须", "仅限", "仅招", "硕士及以上", "博士及以上")
-    ) and "优先" not in text
+    ) and not postgraduate_preferred
     degree_field_requires_postgraduate = bool(
         re.search(r"(?:学历|学位).{0,6}(?:硕士|博士|研究生)|(?:硕士|博士|研究生).{0,6}(?:学历|学位)", text)
-    ) and "优先" not in text
+    ) and not postgraduate_preferred
     wrong_year = any(year in text for year in ("2025届", "2026届", "已毕业")) and "2027" not in text
-    social_recruitment = any(marker in text for marker in ("社会招聘", "社招"))
+    social_recruitment = any(marker in text for marker in ("社会招聘", "社招")) and not (
+        "2027" in text and any(marker in text for marker in ("校园招聘", "校招"))
+    )
     if (
         hard_postgraduate
         or degree_field_requires_postgraduate
