@@ -36,3 +36,11 @@ def test_daily_workflow_uses_node24_action_versions():
     assert "actions/checkout@v6" in workflow
     assert "actions/setup-python@v6" in workflow
     assert "actions/upload-artifact@v6" in workflow
+
+
+def test_pages_workflow_uses_node24_action_versions():
+    workflow = Path(".github/workflows/daily-update.yml").read_text(encoding="utf-8")
+
+    assert "actions/configure-pages@v6" in workflow
+    assert "actions/upload-pages-artifact@v5" in workflow
+    assert "actions/deploy-pages@v5" in workflow
