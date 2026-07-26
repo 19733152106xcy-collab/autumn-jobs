@@ -29,6 +29,14 @@ def test_enabled_source_configuration_is_valid_yaml():
     assert all(source["url"].startswith("https://") for source in config["sources"])
 
 
+def test_legacy_cccec_source_is_disabled_when_cscec8_adapter_covers_it():
+    config = yaml.safe_load(Path("config/sources.yaml").read_text(encoding="utf-8"))
+    cccec = next(source for source in config["sources"] if source["id"] == "cccec")
+
+    assert cccec["enabled"] is False
+    assert Path("config/cscec8.yaml").exists()
+
+
 def test_extract_role_rows_turns_a_recruitment_table_into_specific_jobs():
     from autumn_jobs.sources import extract_role_rows
 
