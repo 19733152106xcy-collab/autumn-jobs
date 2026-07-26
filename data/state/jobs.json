@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
+    "source_id": "cscec8_design",
+    "source_job_id": null,
+    "company": "中建八局设计管理总院",
+    "title": "设计管理总院2027届校园招聘",
+    "location": [
+      "上海浦东新区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-26",
+    "category": "设计管理",
+    "match_level": "B",
+    "match_reasons": [
+      "设计管理"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/8bsjzy",
+    "detail_url": "https://job.cscec8b.com.cn/8bsjzy",
+    "alternate_sources": [],
+    "status": "active"
+  }
+]

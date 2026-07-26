@@ -142,6 +142,12 @@ def crawl_configured_sources(config_path: Path) -> tuple[dict[str, list[RawJob]]
     return dict(jobs), health
 
 
+def load_verified_jobs(config_path: Path) -> list[RawJob]:
+    """Load small, manually verified official entries for dynamic-only portals."""
+    config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
+    return [RawJob.model_validate(row) for row in config.get("jobs", [])]
+
+
 def health_payload(rows: list[SourceHealth]) -> list[dict[str, object]]:
     return [asdict(row) for row in rows]
 

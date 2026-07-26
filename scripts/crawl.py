@@ -7,7 +7,12 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from autumn_jobs.pipeline import run_pipeline
-from autumn_jobs.sources import crawl_configured_sources, health_payload, update_source_status
+from autumn_jobs.sources import (
+    crawl_configured_sources,
+    health_payload,
+    load_verified_jobs,
+    update_source_status,
+)
 
 
 def main() -> None:
@@ -16,6 +21,8 @@ def main() -> None:
     parser.add_argument("--summary", type=Path, default=Path("artifacts/source-health.json"))
     args = parser.parse_args()
     source_jobs, health = crawl_configured_sources(Path("config/sources.yaml"))
+    for job in load_verified_jobs(Path("config/verified_jobs.yaml")):
+        source_jobs.setdefault(job.source_id, []).append(job)
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()
     result = run_pipeline(source_jobs, Path("data/state"), Path("site"), today)
     update_source_status(Path("data/state/source_status.json"), health, datetime.now(ZoneInfo("Asia/Shanghai")))
