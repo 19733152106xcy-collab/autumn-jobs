@@ -49,7 +49,11 @@ function render(jobs, state) {
 }
 
 async function boot() {
-  const [jobsResponse, statusResponse] = await Promise.all([fetch("data/jobs.json"), fetch("data/update_status.json")]);
+  const requestOptions = { cache: "no-store" };
+  const [jobsResponse, statusResponse] = await Promise.all([
+    fetch("data/jobs.json", requestOptions),
+    fetch("data/update_status.json", requestOptions),
+  ]);
   if (!jobsResponse.ok) throw new Error("jobs data unavailable");
   const payload = await jobsResponse.json();
   const status = statusResponse.ok ? await statusResponse.json() : { updated_date: "未更新" };

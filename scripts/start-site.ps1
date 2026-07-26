@@ -42,4 +42,5 @@ if (-not (Test-JobSiteRunning)) {
     }
 }
 
-Start-Process $url
+$refreshUrl = "$url/?refresh=$([DateTimeOffset]::UtcNow.ToUnixTimeMilliseconds())"
+Start-Process $refreshUrl
