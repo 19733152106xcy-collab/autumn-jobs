@@ -3,6 +3,7 @@
 .playwright-cli/
 .pytest_cache/
 .ruff_cache/
+.worktrees/
 __pycache__/
 *.py[cod]
 *.egg-info/
