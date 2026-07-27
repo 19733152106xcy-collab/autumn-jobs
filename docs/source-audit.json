@@ -138,5 +138,19 @@
     "sample_job_count": 0,
     "error_code": null,
     "note": "HTTP 200; text/html; charset=utf-8"
+  },
+  {
+    "source_id": "cscec8",
+    "final_url": "https://job.cscec8b.com.cn/cscec8b/data/names.json",
+    "checked_at": "2026-07-27T19:49:01+08:00",
+    "access": "public",
+    "page_type": "json_api",
+    "public_list": true,
+    "public_detail": true,
+    "requires_login_to_apply": false,
+    "robots_checked": true,
+    "sample_job_count": 31,
+    "error_code": null,
+    "note": "Public unit directory exposes 30 jobApi endpoints; 31 records explicitly identify the 2027 cohort."
   }
 ]
