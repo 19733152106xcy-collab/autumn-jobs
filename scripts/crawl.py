@@ -41,7 +41,12 @@ def main() -> None:
     for job in load_verified_jobs(Path("config/verified_jobs.yaml")):
         source_jobs.setdefault(job.source_id, []).append(job)
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()
-    successful_source_ids = {row.source_id for row in health if row.status == "ok"}
+    source_status = update_source_status(
+        Path("data/state/source_status.json"), health, datetime.now(ZoneInfo("Asia/Shanghai"))
+    )
+    successful_source_ids = {
+        source_id for source_id, row in source_status.items() if row["status"] == "ok"
+    }
     result = run_pipeline(
         source_jobs,
         successful_source_ids,
@@ -49,7 +54,6 @@ def main() -> None:
         Path("site"),
         today,
     )
-    update_source_status(Path("data/state/source_status.json"), health, datetime.now(ZoneInfo("Asia/Shanghai")))
     args.summary.parent.mkdir(parents=True, exist_ok=True)
     args.summary.write_text(json.dumps(health_payload(health), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"publish_required": result.publish_required, "jobs": result.jobs_count, "health": health_payload(health)}, ensure_ascii=False))
