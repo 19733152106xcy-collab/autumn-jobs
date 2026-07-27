@@ -5,7 +5,7 @@ import respx
 
 from autumn_jobs.adapters.cscec8 import (
     crawl_cscec8_jobs,
-    load_cscec8_job_ids,
+    load_cscec8_settings,
     parse_cscec8_job,
 )
 
@@ -34,22 +34,53 @@ def test_parse_cscec8_job_extracts_business_fields():
     assert "建筑学专业" in job.description
 
 
+DIRECTORY_BODY = """
+{
+  "list": [
+    {"id": "1000", "jobApi": "/api/job/getIndexPublishJob.json?company=28"},
+    {"id": "1001", "jobApi": ""}
+  ]
+}
+"""
+
+LIST_BODY = """
+{
+  "errno": 200,
+  "data": {
+    "list": [
+      {
+        "job_id": "3001",
+        "job_name_show": "设计管理总院2027届校园招聘",
+        "ws_company_orgnize_id_user_name": "中建八局设计管理总院",
+        "job_address_name": "上海",
+        "show_time": "2026-07-01",
+        "job_desc": "2027届本科，建筑学及相关专业"
+      }
+    ]
+  }
+}
+"""
+
+
 @respx.mock
-def test_crawl_cscec8_jobs_fetches_detail_and_description():
-    respx.get("https://job.cscec8b.com.cn/recruitment/job/detail/id/2757").mock(
-        return_value=httpx.Response(200, text=DETAIL_HTML)
+def test_crawl_cscec8_jobs_discovers_jobs_from_each_public_unit():
+    respx.get("https://job.cscec8b.com.cn/cscec8b/data/names.json").mock(
+        return_value=httpx.Response(200, text=DIRECTORY_BODY)
     )
-    respx.get("https://job.cscec8b.com.cn/headhunter/showjobdesc/id/2757").mock(
-        return_value=httpx.Response(200, text="<p>招聘专业：建筑学专业</p>")
+    respx.get("https://job.cscec8b.com.cn/api/job/getIndexPublishJob.json?company=28").mock(
+        return_value=httpx.Response(200, text=LIST_BODY)
     )
 
-    jobs = crawl_cscec8_jobs([2757])
+    jobs = crawl_cscec8_jobs({"max_companies": 100})
 
-    assert [job.source_job_id for job in jobs] == ["2757"]
+    assert [job.source_job_id for job in jobs] == ["3001"]
+    assert jobs[0].detail_url == "https://job.cscec8b.com.cn/recruitment/job/detail/id/3001"
+    assert jobs[0].apply_url == jobs[0].detail_url
+    assert jobs[0].official_status == "open"
 
 
-def test_load_cscec8_job_ids_reads_configured_official_ids(tmp_path):
+def test_load_cscec8_settings_reads_public_adapter_limits(tmp_path):
     path = tmp_path / "cscec8.yaml"
-    path.write_text("job_ids: [2753, 2757]\n", encoding="utf-8")
+    path.write_text("max_companies: 50\n", encoding="utf-8")
 
-    assert load_cscec8_job_ids(path) == [2753, 2757]
+    assert load_cscec8_settings(path) == {"max_companies": 50}

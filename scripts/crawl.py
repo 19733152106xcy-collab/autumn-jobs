@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 
 import httpx
 
-from autumn_jobs.adapters.cscec8 import crawl_cscec8_jobs, load_cscec8_job_ids
+from autumn_jobs.adapters.cscec8 import crawl_cscec8_jobs, load_cscec8_settings
 from autumn_jobs.pipeline import run_pipeline
 from autumn_jobs.sources import (
     SourceHealth,
@@ -26,10 +26,10 @@ def main() -> None:
     args = parser.parse_args()
     source_jobs, health = crawl_configured_sources(Path("config/sources.yaml"))
     try:
-        cscec8_jobs = crawl_cscec8_jobs(load_cscec8_job_ids(Path("config/cscec8.yaml")))
+        cscec8_jobs = crawl_cscec8_jobs(load_cscec8_settings(Path("config/cscec8.yaml")))
         source_jobs["cscec8"] = cscec8_jobs
         health.append(SourceHealth(source_id="cscec8", status="ok", discovered=len(cscec8_jobs)))
-    except httpx.HTTPError as error:
+    except (httpx.HTTPError, TypeError) as error:
         health.append(
             SourceHealth(
                 source_id="cscec8",
