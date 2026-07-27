@@ -2,6 +2,7 @@ from pathlib import Path
 
 import yaml
 
+
 def test_audit_requires_evidence_for_every_candidate():
     from autumn_jobs.audit import load_audit
 
