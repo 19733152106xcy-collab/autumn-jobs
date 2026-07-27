@@ -55,6 +55,14 @@ LIST_BODY = """
         "job_address_name": "上海",
         "show_time": "2026-07-01",
         "job_desc": "2027届本科，建筑学及相关专业"
+      },
+      {
+        "job_id": "3002",
+        "job_name_show": "项目经理",
+        "ws_company_orgnize_id_user_name": "中建八局设计管理总院",
+        "job_address_name": "上海",
+        "show_time": "2026-07-01",
+        "job_desc": "社会招聘，五年工作经验"
       }
     ]
   }

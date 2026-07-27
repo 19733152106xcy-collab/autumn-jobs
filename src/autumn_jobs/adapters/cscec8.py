@@ -110,6 +110,8 @@ def discover_cscec8_jobs(client: httpx.Client, max_companies: int) -> list[RawJo
             if not isinstance(row, dict) or not row.get("job_id") or not row.get("job_name_show"):
                 continue
             job = _raw_cscec8_job(row)
+            if "2027" not in f"{job.title} {job.description}":
+                continue
             if job.source_job_id in seen_ids:
                 continue
             seen_ids.add(job.source_job_id or "")
