@@ -26,6 +26,7 @@ class RawJob(BaseModel):
     description: str = ""
     deadline: date | None = None
     publish_date: date | None = None
+    official_status: Literal["open", "closed", "unknown", "suspect"] = "unknown"
 
 
 class JobBusiness(BaseModel):
