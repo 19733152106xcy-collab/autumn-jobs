@@ -41,7 +41,14 @@ def main() -> None:
     for job in load_verified_jobs(Path("config/verified_jobs.yaml")):
         source_jobs.setdefault(job.source_id, []).append(job)
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()
-    result = run_pipeline(source_jobs, Path("data/state"), Path("site"), today)
+    successful_source_ids = {row.source_id for row in health if row.status == "ok"}
+    result = run_pipeline(
+        source_jobs,
+        successful_source_ids,
+        Path("data/state"),
+        Path("site"),
+        today,
+    )
     update_source_status(Path("data/state/source_status.json"), health, datetime.now(ZoneInfo("Asia/Shanghai")))
     args.summary.parent.mkdir(parents=True, exist_ok=True)
     args.summary.write_text(json.dumps(health_payload(health), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

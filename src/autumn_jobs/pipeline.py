@@ -4,6 +4,7 @@ import json
 from datetime import date
 from pathlib import Path
 
+from autumn_jobs.availability import is_active_job
 from autumn_jobs.deduplication import deduplicate_jobs
 from autumn_jobs.matching import match_job
 from autumn_jobs.models import JobBusiness, PipelineResult, RawJob
@@ -18,6 +19,8 @@ from autumn_jobs.state import load_jobs, write_jobs
 
 
 def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
+    if not is_active_job(raw, today):
+        return None
     matched = match_job(raw.title, raw.description)
     if not matched.included:
         return None
@@ -53,7 +56,13 @@ def _public_payload(jobs: list[JobBusiness], today: date) -> dict[str, object]:
     return {"updated_date": today.isoformat(), "jobs": rows}
 
 
-def run_pipeline(source_jobs: dict[str, list[RawJob]], state_dir: Path, site_dir: Path, today: date) -> PipelineResult:
+def run_pipeline(
+    source_jobs: dict[str, list[RawJob]],
+    successful_source_ids: set[str],
+    state_dir: Path,
+    site_dir: Path,
+    today: date,
+) -> PipelineResult:
     state_path = state_dir / "jobs.json"
     previous = load_jobs(state_path)
     previous_first_seen = {job.fingerprint: job.first_seen for job in previous}
@@ -63,8 +72,7 @@ def run_pipeline(source_jobs: dict[str, list[RawJob]], state_dir: Path, site_dir
         if job.fingerprint in previous_first_seen:
             current[index] = job.model_copy(update={"first_seen": previous_first_seen[job.fingerprint]})
     current = deduplicate_jobs(current)
-    current_sources = {job.source_id for job in current}
-    preserved = [job for job in previous if job.source_id not in current_sources]
+    preserved = [job for job in previous if job.source_id not in successful_source_ids]
     combined = deduplicate_jobs(preserved + current)
     payload = _public_payload(combined, today)
     public_path = site_dir / "data" / "jobs.json"
