@@ -33,6 +33,11 @@ class SourceHealth:
     error: str | None = None
 
 
+def configured_listing_urls(source: dict[str, object]) -> list[str]:
+    urls = [str(source["url"]), *(str(url) for url in source.get("archive_urls", []))]
+    return list(dict.fromkeys(urls))
+
+
 def _is_current_recruitment_candidate(text: str, url: str) -> bool:
     """Avoid treating service/project showcase navigation as a job listing."""
     combined = f"{text} {url}"
@@ -104,9 +109,22 @@ def crawl_configured_sources(config_path: Path) -> tuple[dict[str, list[RawJob]]
                 continue
             source_id = source["id"]
             try:
-                root = client.get(source["url"])
-                root.raise_for_status()
-                links = extract_job_links(str(root.url), root.text, int(source.get("max_items", 10)))
+                max_items = int(source.get("max_items", 10))
+                links: list[tuple[str, str]] = []
+                seen_urls: set[str] = set()
+                for listing_url in configured_listing_urls(source):
+                    response = client.get(listing_url)
+                    response.raise_for_status()
+                    for title, detail_url in extract_job_links(str(response.url), response.text, max_items):
+                        if detail_url in seen_urls:
+                            continue
+                        seen_urls.add(detail_url)
+                        links.append((title, detail_url))
+                        if len(links) >= max_items:
+                            break
+                    if len(links) >= max_items:
+                        break
+                source_rows: list[RawJob] = []
                 for title, detail_url in links:
                     try:
                         description = _page_text(client, detail_url)
@@ -115,7 +133,7 @@ def crawl_configured_sources(config_path: Path) -> tuple[dict[str, list[RawJob]]
                     role_rows = extract_role_rows(description)
                     if role_rows:
                         for role_title, role_description in role_rows:
-                            jobs[source_id].append(
+                            source_rows.append(
                                 RawJob(
                                     source_id=source_id,
                                     company=source["company"],
@@ -126,7 +144,7 @@ def crawl_configured_sources(config_path: Path) -> tuple[dict[str, list[RawJob]]
                                 )
                             )
                     elif title not in GENERIC_RECRUITMENT_TITLES:
-                        jobs[source_id].append(
+                        source_rows.append(
                             RawJob(
                                 source_id=source_id,
                                 company=source["company"],
@@ -136,6 +154,7 @@ def crawl_configured_sources(config_path: Path) -> tuple[dict[str, list[RawJob]]
                                 description=description,
                             )
                         )
+                jobs[source_id].extend(source_rows)
                 health.append(SourceHealth(source_id=source_id, status="ok", discovered=len(links)))
             except httpx.HTTPError as error:
                 health.append(SourceHealth(source_id=source_id, status="failed", discovered=0, error=error.__class__.__name__))

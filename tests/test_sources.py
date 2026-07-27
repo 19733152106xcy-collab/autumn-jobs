@@ -22,6 +22,24 @@ def test_extract_job_links_prefers_recruitment_anchors():
     ]
 
 
+def test_configured_listing_urls_combines_root_and_declared_archive_urls():
+    from autumn_jobs.sources import configured_listing_urls
+
+    source = {
+        "url": "https://official.example/campus",
+        "archive_urls": [
+            "https://official.example/campus?page=2",
+            "https://official.example/campus?page=3",
+        ],
+    }
+
+    assert configured_listing_urls(source) == [
+        "https://official.example/campus",
+        "https://official.example/campus?page=2",
+        "https://official.example/campus?page=3",
+    ]
+
+
 def test_enabled_source_configuration_is_valid_yaml():
     config = yaml.safe_load(Path("config/sources.yaml").read_text(encoding="utf-8"))
 
