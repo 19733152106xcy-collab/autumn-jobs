@@ -46,9 +46,11 @@ def match_job(title: str, description: str) -> MatchResult:
     social_recruitment = any(marker in text for marker in ("社会招聘", "社招")) and not (
         "2027" in text and any(marker in text for marker in ("校园招聘", "校招"))
     )
+    doctoral_only = any(marker in text for marker in ("博士专项", "博士后", "博士研究生"))
     if (
         hard_postgraduate
         or degree_field_requires_postgraduate
+        or doctoral_only
         or wrong_year
         or social_recruitment
         or requirements.experience_required
