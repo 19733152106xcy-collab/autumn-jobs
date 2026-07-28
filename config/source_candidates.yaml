@@ -39,3 +39,27 @@ candidates:
     name: 浙江大学就业服务平台
     url: https://www.career.zju.edu.cn/
     group: university
+  - id: bucea
+    name: 北京建筑大学毕业生就业网
+    url: https://job.bucea.edu.cn/front/zph.jspa?tid=113010
+    group: university
+  - id: guopinleida
+    name: 国聘雷达
+    url: https://guopinleida.com/
+    group: public_aggregator
+  - id: zhaopin_public
+    name: 智联招聘公开校园招聘页
+    url: https://www.zhaopin.com/
+    group: job_board
+  - id: job51_public
+    name: 前程无忧校园招聘页
+    url: https://campus.51job.com/
+    group: job_board
+  - id: liepin_public
+    name: 猎聘公开职位页
+    url: https://www.liepin.com/
+    group: job_board
+  - id: boss_public
+    name: BOSS直聘公开职位页
+    url: https://www.zhipin.com/
+    group: job_board

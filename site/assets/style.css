@@ -13,5 +13,8 @@ th, td { padding: 14px 16px; text-align: left; border-bottom: 1px solid #eef1f3;
 th { color: #68737d; font-size: 14px; font-weight: 600; }
 .apply { color: #fff; background: #176b5b; text-decoration: none; padding: 8px 12px; border-radius: 6px; white-space: nowrap; }
 .badge { margin-left: 8px; color: #176b5b; background: #e1f3ee; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
+.verification-official, .verification-pending { margin-left: 8px; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
+.verification-official { color: #256029; background: #e8f5e9; }
+.verification-pending { color: #8a5300; background: #fff4df; }
 #empty, #error { margin: 18px 0; padding: 14px; background: #fff4df; border-radius: 8px; }
 @media (max-width: 760px) { .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); } #search { grid-column: span 2; } th, td { padding: 12px; } }

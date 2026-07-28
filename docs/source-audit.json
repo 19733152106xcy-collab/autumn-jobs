@@ -2,7 +2,7 @@
   {
     "source_id": "cadg",
     "final_url": "https://hr.cadg.com.cn/",
-    "checked_at": "2026-07-25T14:56:26.731692+00:00",
+    "checked_at": "2026-07-28T10:16:25.025719+00:00",
     "access": "partial",
     "page_type": "html",
     "public_list": true,
@@ -16,7 +16,7 @@
   {
     "source_id": "biad",
     "final_url": "https://www.biad.com.cn/view/id/233/",
-    "checked_at": "2026-07-25T14:56:27.748458+00:00",
+    "checked_at": "2026-07-28T10:16:26.140829+00:00",
     "access": "partial",
     "page_type": "dynamic",
     "public_list": true,
@@ -30,7 +30,7 @@
   {
     "source_id": "brdr",
     "final_url": "https://www.brdr.com.cn/html/renliziyuan/zhiyeshengya/index.html",
-    "checked_at": "2026-07-25T14:56:28.584803+00:00",
+    "checked_at": "2026-07-28T10:16:26.537368+00:00",
     "access": "public",
     "page_type": "dynamic",
     "public_list": true,
@@ -39,12 +39,12 @@
     "robots_checked": true,
     "sample_job_count": 0,
     "error_code": null,
-    "note": "HTTP 200; text/html"
+    "note": "Public anonymous /api/jobs list supports 27届 pagination; enabled as a pending-verification discovery source."
   },
   {
     "source_id": "ccdc",
     "final_url": "https://ccdc.cscec.com/rlzy/xyzp/",
-    "checked_at": "2026-07-25T14:56:29.286184+00:00",
+    "checked_at": "2026-07-28T10:16:27.204418+00:00",
     "access": "partial",
     "page_type": "dynamic",
     "public_list": true,
@@ -58,7 +58,7 @@
   {
     "source_id": "cscec",
     "final_url": "https://recruit.cscec.com/recruit/#/portal_job_list?job_class=campus",
-    "checked_at": "2026-07-25T14:56:29.794172+00:00",
+    "checked_at": "2026-07-28T10:16:27.782641+00:00",
     "access": "partial",
     "page_type": "dynamic",
     "public_list": true,
@@ -72,7 +72,7 @@
   {
     "source_id": "xauat",
     "final_url": "https://job.xauat.edu.cn/",
-    "checked_at": "2026-07-25T14:56:30.806556+00:00",
+    "checked_at": "2026-07-28T10:16:28.457518+00:00",
     "access": "partial",
     "page_type": "dynamic",
     "public_list": true,
@@ -86,7 +86,7 @@
   {
     "source_id": "tongji",
     "final_url": "https://tj91.tongji.edu.cn/",
-    "checked_at": "2026-07-25T14:56:31.416471+00:00",
+    "checked_at": "2026-07-28T10:16:29.080415+00:00",
     "access": "partial",
     "page_type": "dynamic",
     "public_list": true,
@@ -100,7 +100,7 @@
   {
     "source_id": "seu",
     "final_url": "https://job.seu.edu.cn/",
-    "checked_at": "2026-07-25T14:56:31.806157+00:00",
+    "checked_at": "2026-07-28T10:16:29.527168+00:00",
     "access": "blocked",
     "page_type": "unknown",
     "public_list": false,
@@ -114,7 +114,7 @@
   {
     "source_id": "ncss24365",
     "final_url": "https://www.24365.ncss.cn/",
-    "checked_at": "2026-07-25T14:56:36.811164+00:00",
+    "checked_at": "2026-07-28T10:16:34.547157+00:00",
     "access": "blocked",
     "page_type": "unknown",
     "public_list": false,
@@ -128,7 +128,7 @@
   {
     "source_id": "zju",
     "final_url": "https://www.career.zju.edu.cn/",
-    "checked_at": "2026-07-25T14:56:37.115435+00:00",
+    "checked_at": "2026-07-28T10:16:34.836431+00:00",
     "access": "public",
     "page_type": "dynamic",
     "public_list": true,
@@ -152,5 +152,89 @@
     "sample_job_count": 31,
     "error_code": null,
     "note": "Public unit directory exposes 30 jobApi endpoints; 31 records explicitly identify the 2027 cohort."
+  },
+  {
+    "source_id": "bucea",
+    "final_url": "https://job.bucea.edu.cn/front/zph.jspa?tid=113010",
+    "checked_at": "2026-07-28T10:16:35.735106+00:00",
+    "access": "public",
+    "page_type": "dynamic",
+    "public_list": true,
+    "public_detail": true,
+    "requires_login_to_apply": false,
+    "robots_checked": true,
+    "sample_job_count": 0,
+    "error_code": null,
+    "note": "HTTP 200; text/html;charset=utf-8"
+  },
+  {
+    "source_id": "guopinleida",
+    "final_url": "https://guopinleida.com/",
+    "checked_at": "2026-07-28T10:16:36.656496+00:00",
+    "access": "public",
+    "page_type": "html",
+    "public_list": true,
+    "public_detail": true,
+    "requires_login_to_apply": false,
+    "robots_checked": true,
+    "sample_job_count": 0,
+    "error_code": null,
+    "note": "HTTP 200; text/html"
+  },
+  {
+    "source_id": "zhaopin_public",
+    "final_url": "https://www.zhaopin.com/",
+    "checked_at": "2026-07-28T10:16:37.307414+00:00",
+    "access": "public",
+    "page_type": "html",
+    "public_list": true,
+    "public_detail": true,
+    "requires_login_to_apply": false,
+    "robots_checked": true,
+    "sample_job_count": 0,
+    "error_code": null,
+    "note": "HTTP 200; text/html"
+  },
+  {
+    "source_id": "job51_public",
+    "final_url": "https://www.51job.com/in/missing.php",
+    "checked_at": "2026-07-28T10:16:37.424536+00:00",
+    "access": "partial",
+    "page_type": "dynamic",
+    "public_list": true,
+    "public_detail": false,
+    "requires_login_to_apply": true,
+    "robots_checked": true,
+    "sample_job_count": 0,
+    "error_code": null,
+    "note": "HTTP 200; text/html;charset=utf-8"
+  },
+  {
+    "source_id": "liepin_public",
+    "final_url": "https://www.liepin.com/",
+    "checked_at": "2026-07-28T10:16:38.315623+00:00",
+    "access": "partial",
+    "page_type": "dynamic",
+    "public_list": true,
+    "public_detail": false,
+    "requires_login_to_apply": true,
+    "robots_checked": true,
+    "sample_job_count": 0,
+    "error_code": null,
+    "note": "HTTP 200; text/html;charset=utf-8"
+  },
+  {
+    "source_id": "boss_public",
+    "final_url": "https://www.zhipin.com/",
+    "checked_at": "2026-07-28T10:16:38.609244+00:00",
+    "access": "partial",
+    "page_type": "dynamic",
+    "public_list": true,
+    "public_detail": false,
+    "requires_login_to_apply": true,
+    "robots_checked": true,
+    "sample_job_count": 0,
+    "error_code": null,
+    "note": "HTTP 200; text/html;charset=utf-8"
   }
 ]

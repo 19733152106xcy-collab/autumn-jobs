@@ -85,6 +85,10 @@ def _raw_cscec8_job(row: dict[str, object]) -> RawJob:
         publish_date=_published_date(row.get("show_time")),
         description=description,
         official_status=_official_status(row),
+        source_type="official",
+        verification_status="official",
+        source_name="中国建筑第八工程局招聘系统",
+        official_apply_url=detail_url,
     )
 
 
