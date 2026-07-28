@@ -13,6 +13,8 @@
 ## File structure
 
 - `config/source_candidates.yaml` — first-wave source audit candidates.
+- `src/autumn_jobs/audit.py` — merge new source-audit rows with existing evidence.
+- `scripts/audit_sources.py` — execute a candidate audit without overwriting prior records.
 - `config/sources.yaml` — enabled public source definitions with priority metadata.
 - `src/autumn_jobs/models.py` — source type and verification fields.
 - `src/autumn_jobs/normalization.py` — source-priority comparison helpers.
@@ -22,6 +24,61 @@
 - `site/index.html`, `site/assets/app.js`, `site/assets/style.css` — verification badge and filter.
 - `tests/test_models.py`, `tests/test_deduplication.py`, `tests/test_sources.py`, `tests/test_pipeline.py` — regression coverage.
 - `docs/source-audit.json` — audit evidence for every candidate and enabled source.
+
+### Task 0: Merge audit results instead of overwriting existing source evidence
+
+**Files:**
+- Modify: `src/autumn_jobs/audit.py`
+- Modify: `scripts/audit_sources.py`
+- Test: `tests/test_source_audit.py`
+
+- [ ] **Step 1: Write the failing merge test**
+
+```python
+def test_merge_audit_replaces_only_reaudited_source_ids():
+    previous = [
+        AuditRow("cscec8", "https://official.example/c8", "2026-07-27T00:00:00+00:00", "public", "json_api", True, True, False, True),
+        AuditRow("cadg", "https://official.example/cadg", "2026-07-27T00:00:00+00:00", "partial", "html", True, False, True, True),
+    ]
+    current = [
+        AuditRow("bucea", "https://job.bucea.edu.cn/", "2026-07-28T00:00:00+00:00", "public", "html", True, True, False, True),
+        AuditRow("cadg", "https://official.example/cadg/new", "2026-07-28T00:00:00+00:00", "public", "html", True, True, False, True),
+    ]
+    merged = merge_audit(previous, current)
+    assert [row.source_id for row in merged] == ["cscec8", "cadg", "bucea"]
+    assert next(row for row in merged if row.source_id == "cadg").final_url.endswith("/new")
+```
+
+- [ ] **Step 2: Run the test to verify it fails**
+
+Run: `python -m pytest tests/test_source_audit.py::test_merge_audit_replaces_only_reaudited_source_ids -q`
+
+Expected: FAIL because `merge_audit` does not exist.
+
+- [ ] **Step 3: Implement ordered audit merging and wire it into the script**
+
+```python
+def merge_audit(previous: list[AuditRow], current: list[AuditRow]) -> list[AuditRow]:
+    current_by_id = {row.source_id: row for row in current}
+    merged = [current_by_id.pop(row.source_id, row) for row in previous]
+    merged.extend(current_by_id.values())
+    return merged
+```
+
+In `scripts/audit_sources.py`, rename `--input` to `--candidates`, read the existing output with `load_audit` when it exists, then call `write_audit(merge_audit(previous, audit_candidates(args.candidates)), args.output)`.
+
+- [ ] **Step 4: Run the audit test suite**
+
+Run: `python -m pytest tests/test_source_audit.py -q; python -m ruff check src/autumn_jobs/audit.py scripts/audit_sources.py tests/test_source_audit.py`
+
+Expected: PASS with both old and new source IDs present in the output.
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add src/autumn_jobs/audit.py scripts/audit_sources.py tests/test_source_audit.py
+git commit -m "fix: preserve existing source audit evidence"
+```
 
 ### Task 1: Audit the exact first-wave public sources before enabling any of them
 
