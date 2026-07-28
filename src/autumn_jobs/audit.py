@@ -33,6 +33,13 @@ def load_audit(path: Path) -> list[AuditRow]:
     return [AuditRow(**row) for row in json.loads(path.read_text(encoding="utf-8"))]
 
 
+def merge_audit(previous: list[AuditRow], current: list[AuditRow]) -> list[AuditRow]:
+    current_by_id = {row.source_id: row for row in current}
+    merged = [current_by_id.pop(row.source_id, row) for row in previous]
+    merged.extend(current_by_id.values())
+    return merged
+
+
 def _robots_checked(url: str) -> bool:
     robots = RobotFileParser(urljoin(url, "/robots.txt"))
     try:
