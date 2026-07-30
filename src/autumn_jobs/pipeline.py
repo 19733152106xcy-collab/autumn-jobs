@@ -39,6 +39,7 @@ def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
         first_seen=today,
         category=matched.category or "其他",
         match_level=matched.level or "C",
+        job_group=matched.job_group or "other",
         match_reasons=matched.reasons,
         requirements=matched.requirements,
         apply_url=normalize_url(raw.apply_url) if raw.apply_url else None,
@@ -55,7 +56,7 @@ def _public_payload(jobs: list[JobBusiness], today: date) -> dict[str, object]:
     public_fields = [
         "fingerprint", "company", "title", "location", "deadline", "publish_date", "first_seen",
         "category", "match_level", "apply_url", "detail_url", "source_type", "verification_status",
-        "source_name", "official_apply_url", "opportunity_type", "status",
+        "source_name", "official_apply_url", "opportunity_type", "job_group", "status",
     ]
     rows = [{field: job.model_dump(mode="json")[field] for field in public_fields} for job in jobs if job.status == "active"]
     rows.sort(key=lambda row: (row["first_seen"], row["company"], row["title"]), reverse=True)
