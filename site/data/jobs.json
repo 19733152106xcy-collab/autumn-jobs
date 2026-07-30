@@ -21,6 +21,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -43,6 +45,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -65,6 +69,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -88,6 +94,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -110,6 +118,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -140,6 +150,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -162,6 +174,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -184,6 +198,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -206,6 +222,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -228,6 +246,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -250,6 +270,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -272,6 +294,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -294,6 +318,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -316,6 +342,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -338,6 +366,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -360,6 +390,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -382,6 +414,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -404,6 +438,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -426,6 +462,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -448,6 +486,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -470,6 +510,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -492,6 +534,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -514,6 +558,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -536,6 +582,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -558,6 +606,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -580,6 +630,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -602,6 +654,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -624,6 +678,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -675,6 +731,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -698,6 +756,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -722,6 +782,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -750,6 +812,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -778,6 +842,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -806,6 +872,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -828,6 +896,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -850,6 +920,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -872,6 +944,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -894,6 +968,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -918,6 +994,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -944,6 +1022,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -966,6 +1046,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -988,6 +1070,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1013,6 +1097,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1036,6 +1122,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1062,6 +1150,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1090,6 +1180,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1112,6 +1204,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1136,6 +1230,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1158,6 +1254,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1182,6 +1280,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1225,6 +1325,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1247,6 +1349,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1269,6 +1373,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1293,6 +1399,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1315,6 +1423,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1337,6 +1447,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1359,6 +1471,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1381,6 +1495,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1405,6 +1521,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1427,6 +1545,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1449,6 +1569,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1471,6 +1593,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1493,6 +1617,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1524,6 +1650,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1551,6 +1679,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1577,6 +1707,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1601,6 +1733,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1623,6 +1757,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1645,6 +1781,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1667,6 +1805,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1689,6 +1829,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1716,6 +1858,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1744,6 +1888,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1767,6 +1913,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1789,6 +1937,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1815,6 +1965,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1838,6 +1990,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1863,6 +2017,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -1892,6 +2048,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1918,6 +2076,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1946,6 +2106,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1970,6 +2132,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -1997,6 +2161,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2029,6 +2195,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2055,6 +2223,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2080,6 +2250,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2102,6 +2274,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2124,6 +2298,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2146,6 +2322,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2170,6 +2348,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2194,6 +2374,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2218,6 +2400,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2242,6 +2426,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2266,6 +2452,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2297,6 +2485,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2319,6 +2509,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2342,6 +2534,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2365,6 +2559,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2389,6 +2585,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2412,6 +2610,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2438,6 +2638,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2460,6 +2662,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2483,6 +2687,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2506,6 +2712,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2528,6 +2736,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2550,6 +2760,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2572,6 +2784,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2597,6 +2811,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2619,6 +2835,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2648,6 +2866,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2670,6 +2890,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2695,6 +2917,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2728,6 +2952,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2751,6 +2977,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2773,6 +3001,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2795,6 +3025,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2817,6 +3049,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2839,6 +3073,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2868,6 +3104,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -2890,6 +3128,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2912,6 +3152,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2941,6 +3183,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -2970,6 +3214,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3000,6 +3246,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3023,6 +3271,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3056,6 +3306,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3086,6 +3338,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3108,6 +3362,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3131,6 +3387,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3153,6 +3411,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3176,6 +3436,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3199,6 +3461,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3224,6 +3488,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3248,6 +3514,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3270,6 +3538,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3292,6 +3562,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3314,6 +3586,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3344,6 +3618,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3366,6 +3642,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3388,6 +3666,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3412,6 +3692,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3434,6 +3716,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3548,6 +3832,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3571,6 +3857,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3593,6 +3881,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3615,6 +3905,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3642,6 +3934,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3668,6 +3962,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3692,6 +3988,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3716,6 +4014,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3742,6 +4042,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3766,6 +4068,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3792,6 +4096,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3814,6 +4120,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3836,6 +4144,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3872,6 +4182,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3897,6 +4209,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3919,6 +4233,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -3941,6 +4257,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3963,6 +4281,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -3991,6 +4311,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4017,6 +4339,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4039,6 +4363,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4064,6 +4390,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4090,6 +4418,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4112,6 +4442,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4135,6 +4467,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4159,6 +4493,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4182,6 +4518,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4208,6 +4546,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4231,6 +4571,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4257,6 +4599,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4283,6 +4627,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4311,6 +4657,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4362,6 +4710,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4395,6 +4745,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4420,6 +4772,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4444,6 +4798,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4466,6 +4822,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4494,6 +4852,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4516,6 +4876,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4552,6 +4914,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4574,6 +4938,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4597,6 +4963,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4619,6 +4987,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4642,6 +5012,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4664,6 +5036,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4686,6 +5060,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4709,6 +5085,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4734,6 +5112,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4762,6 +5142,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4792,6 +5174,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -4817,6 +5201,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4839,6 +5225,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4903,6 +5291,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4932,6 +5322,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4956,6 +5348,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -4987,6 +5381,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5018,6 +5414,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5053,6 +5451,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5075,6 +5475,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5099,6 +5501,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5131,6 +5535,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5154,6 +5560,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5176,6 +5584,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5202,6 +5612,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5227,6 +5639,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5249,6 +5663,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5290,6 +5706,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5314,6 +5732,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5338,6 +5758,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5363,6 +5785,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5393,6 +5817,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5417,6 +5843,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5450,6 +5878,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5474,6 +5904,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5511,6 +5943,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5533,6 +5967,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5555,6 +5991,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5579,6 +6017,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5604,6 +6044,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5626,6 +6068,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5648,6 +6092,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5671,6 +6117,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5699,6 +6147,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5735,6 +6185,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5757,6 +6209,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -5779,6 +6233,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5803,6 +6259,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5829,6 +6287,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5851,6 +6311,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5873,6 +6335,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5906,6 +6370,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5928,6 +6394,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5950,6 +6418,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5972,6 +6442,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -5994,6 +6466,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6016,6 +6490,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6038,6 +6514,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6061,6 +6539,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6083,6 +6563,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6133,6 +6615,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6158,6 +6642,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6180,6 +6666,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6204,6 +6692,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6226,6 +6716,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6250,6 +6742,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6272,6 +6766,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6297,6 +6793,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6320,6 +6818,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6343,6 +6843,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6375,6 +6877,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6399,6 +6903,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6422,6 +6928,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6450,6 +6958,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6477,6 +6987,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6499,6 +7011,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6521,6 +7035,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6545,6 +7061,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6569,6 +7087,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6597,6 +7117,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6620,6 +7142,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6642,6 +7166,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6679,6 +7205,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6707,6 +7235,8 @@
       "official_apply_url": null,
       "opportunity_type": "mixed",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6730,6 +7260,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6758,6 +7290,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6802,6 +7336,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6845,6 +7381,8 @@
       "official_apply_url": null,
       "opportunity_type": "full_time",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6871,6 +7409,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6893,6 +7433,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6923,6 +7465,8 @@
       "official_apply_url": null,
       "opportunity_type": "internship",
       "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
       "status": "active"
     },
     {
@@ -6945,6 +7489,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2766",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -6967,6 +7513,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -6989,6 +7537,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
       "opportunity_type": "internship",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -7011,6 +7561,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2754",
       "opportunity_type": "mixed",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7033,6 +7585,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2753",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7055,6 +7609,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2771",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7077,6 +7633,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2781",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7099,6 +7657,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -7121,6 +7681,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     },
     {
@@ -7143,6 +7705,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2786",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7165,6 +7729,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2787",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7187,6 +7753,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2765",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
       "status": "active"
     },
     {
@@ -7209,6 +7777,8 @@
       "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
       "opportunity_type": "full_time",
       "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
       "status": "active"
     }
   ]

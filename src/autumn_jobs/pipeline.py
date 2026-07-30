@@ -18,6 +18,21 @@ from autumn_jobs.normalization import (
 from autumn_jobs.state import load_jobs, write_jobs
 
 
+def _priority(matched, raw: RawJob) -> tuple[int, str]:
+    if (
+        matched.job_group == "architecture"
+        and matched.level == "A"
+        and raw.opportunity_type == "full_time"
+        and raw.verification_status in {"official", "verified"}
+    ):
+        return 1, "优先投"
+    if matched.job_group == "architecture" and raw.opportunity_type != "internship":
+        return 2, "值得投"
+    if matched.job_group == "other":
+        return 3, "跨行尝试"
+    return 4, "备选关注"
+
+
 def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
     if not is_active_job(raw, today):
         return None
@@ -27,6 +42,7 @@ def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
     company = normalize_company(raw.company)
     title = normalize_title(raw.title)
     locations = normalize_locations(raw.location)
+    priority_rank, priority_label = _priority(matched, raw)
     return JobBusiness(
         fingerprint=make_fingerprint(company, title, locations),
         source_id=raw.source_id,
@@ -40,6 +56,8 @@ def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
         category=matched.category or "其他",
         match_level=matched.level or "C",
         job_group=matched.job_group or "other",
+        priority_rank=priority_rank,
+        priority_label=priority_label,
         match_reasons=matched.reasons,
         requirements=matched.requirements,
         apply_url=normalize_url(raw.apply_url) if raw.apply_url else None,
@@ -56,7 +74,8 @@ def _public_payload(jobs: list[JobBusiness], today: date) -> dict[str, object]:
     public_fields = [
         "fingerprint", "company", "title", "location", "deadline", "publish_date", "first_seen",
         "category", "match_level", "apply_url", "detail_url", "source_type", "verification_status",
-        "source_name", "official_apply_url", "opportunity_type", "job_group", "status",
+        "source_name", "official_apply_url", "opportunity_type", "job_group", "priority_rank",
+        "priority_label", "status",
     ]
     rows = [{field: job.model_dump(mode="json")[field] for field in public_fields} for job in jobs if job.status == "active"]
     rows.sort(key=lambda row: (row["first_seen"], row["company"], row["title"]), reverse=True)
