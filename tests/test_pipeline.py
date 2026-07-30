@@ -43,6 +43,7 @@ def test_pipeline_filters_deduplicates_and_writes_public_json(tmp_path):
     assert payload["jobs"][0]["official_apply_url"] == "https://official.example.cn/apply/1"
     assert payload["jobs"][0]["verification_status"] == "official"
     assert payload["jobs"][0]["source_name"] == "Official example system"
+    assert payload["jobs"][0]["opportunity_type"] == "full_time"
     assert "description" not in payload["jobs"][0]
 
 

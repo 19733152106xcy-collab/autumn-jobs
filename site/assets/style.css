@@ -16,5 +16,9 @@ th { color: #68737d; font-size: 14px; font-weight: 600; }
 .verification-official, .verification-pending { margin-left: 8px; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
 .verification-official { color: #256029; background: #e8f5e9; }
 .verification-pending { color: #8a5300; background: #fff4df; }
+.opportunity-full_time, .opportunity-internship, .opportunity-mixed { margin-left: 8px; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
+.opportunity-full_time { color: #256029; background: #e8f5e9; }
+.opportunity-internship { color: #315f9a; background: #e2efff; }
+.opportunity-mixed { color: #71509a; background: #f0e5ff; }
 #empty, #error { margin: 18px 0; padding: 14px; background: #fff4df; border-radius: 8px; }
 @media (max-width: 760px) { .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); } #search { grid-column: span 2; } th, td { padding: 12px; } }

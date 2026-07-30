@@ -1,42 +1,5 @@
 [
   {
-    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
-    "source_id": "cscec8",
-    "source_job_id": "2757",
-    "company": "中建八局设计管理总院",
-    "title": "设计管理总院2027届校园招聘",
-    "location": [
-      "上海浦东新区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-26",
-    "category": "建筑设计",
-    "match_level": "A",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "alternate_sources": [
-      "https://job.cscec8b.com.cn/8bsjzy"
-    ],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "status": "active"
-  },
-  {
     "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
     "source_id": "cscec8",
     "source_job_id": "2751",
@@ -70,6 +33,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -106,6 +70,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2754",
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -140,6 +105,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2787",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -175,6 +141,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -211,6 +178,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2753",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -246,6 +214,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -279,6 +248,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2786",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -314,6 +284,43 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2771",
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
+    "source_id": "cscec8",
+    "source_job_id": "2757",
+    "company": "中建八局设计管理总院",
+    "title": "设计管理总院2027届校园招聘",
+    "location": [
+      "上海浦东新区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-26",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -349,6 +356,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2781",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -384,6 +392,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2766",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -420,6 +429,7 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -453,6 +463,938 @@
     "verification_status": "official",
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2765",
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "aafce6ea14a26a8b1b491a7d31e1e0ec8c0494e373046b2b4d38b0dad5436096",
+    "source_id": "bucea",
+    "source_job_id": "124835:23829",
+    "company": "广东军辉达进出口贸易",
+    "title": "数据运营岗",
+    "location": [
+      "广东省东莞"
+    ],
+    "deadline": null,
+    "publish_date": "2026-07-23",
+    "first_seen": "2026-07-30",
+    "category": "数据运营",
+    "match_level": "C",
+    "match_reasons": [
+      "数据运营",
+      "专业不限"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23829&zpxxId=124835",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "91b3b8e0262dfafa13bb0a9b5e2b1d1aa70ee68203cc8f8ea8637687c71e25a3",
+    "source_id": "bucea",
+    "source_job_id": "124812:23561",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "铁路及建筑设计师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划",
+      "建筑可视化"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23561&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "08b9df6f2d31b9ec35e38c8299272d2f7e4a0a7ac6d3e6b3dac114b09a37c58f",
+    "source_id": "bucea",
+    "source_job_id": "124812:23707",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "空轨交通设计院行车专业设计助理工程师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "项目实施",
+    "match_level": "C",
+    "match_reasons": [
+      "项目实施",
+      "工程"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23707&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "09244af15c740ff803325ffae3764fd98cb172238d00c98afbb4ea3afaa09012",
+    "source_id": "bucea",
+    "source_job_id": "124812:23719",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "助理建筑可视化动画设计师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "建筑可视化",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑可视化"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23719&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "221b2c44f5e915121f0d527690d3c8e60a8e20ce86c84798161d2203f67171d7",
+    "source_id": "bucea",
+    "source_job_id": "124812:23721",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "港航助理设计师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "项目实施",
+    "match_level": "C",
+    "match_reasons": [
+      "项目实施",
+      "工程"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23721&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "3be7c825c990c029f860c1e55c8ba08737287b11083b782928d1509e57b15697",
+    "source_id": "bucea",
+    "source_job_id": "124812:23693",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "计划经营部助理工程师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "BIM",
+    "match_level": "B",
+    "match_reasons": [
+      "BIM",
+      "项目管理",
+      "工程管理",
+      "招投标"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23693&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "65199d1d56b27af884b0d9f7db38218a780d57b190a0025401ee03f56abf4b22",
+    "source_id": "bucea",
+    "source_job_id": "124812:23697",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "行车专业设计助理工程师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "项目实施",
+    "match_level": "C",
+    "match_reasons": [
+      "项目实施",
+      "工程"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23697&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "d2964a687c0f00b9e64d75c7d8e343e4f54702e1a3f0d7463946f0a512d32065",
+    "source_id": "bucea",
+    "source_job_id": "124812:23713",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "助理规划设计师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "城乡规划",
+    "match_level": "A",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23713&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "add4ec3a6bc49c5744aaeed0dfe46c21007d9764d5018e4a4dc1fe0a18cfc4c1",
+    "source_id": "bucea",
+    "source_job_id": "124812:23717",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "助理建筑设计师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计",
+      "效果图"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23717&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "32527645b50c037eda8e54530754dcd144f7d499a643639b0ca55891e232db8b",
+    "source_id": "bucea",
+    "source_job_id": "124812:23722",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "助理造价工程师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "招投标",
+    "match_level": "B",
+    "match_reasons": [
+      "招投标"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23722&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "65df73543ea0150cf8e97b349b5f43a149e0aa3ec62047609f2216fd3bc98e94",
+    "source_id": "bucea",
+    "source_job_id": "124812:23723",
+    "company": "中经城投建设集团空轨设计研究",
+    "title": "工程咨询院助理设计师",
+    "location": [
+      "北京丰台区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "工程咨询",
+    "match_level": "B",
+    "match_reasons": [
+      "工程咨询"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=23723&zpxxId=124812",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "83b5522d48cdc10b0fc430b78cf513dd7ffc32183f9c2cec48c0fcdb994353b8",
+    "source_id": "bucea",
+    "source_job_id": "124758:24223",
+    "company": "北京恒石道路科技集团",
+    "title": "北京恒石道路科技集团有限公司",
+    "location": [
+      "北京朝阳区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-03",
+    "first_seen": "2026-07-30",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "专业不限"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24223&zpxxId=124758",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "0cbf2f72bee24e51b4ab2c66dfbc78eb504b470660ed2910db5085188b0c905a",
+    "source_id": "bucea",
+    "source_job_id": "124753:24222",
+    "company": "北京空港经济开发",
+    "title": "规划设计岗",
+    "location": [
+      "北京顺义区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-02",
+    "first_seen": "2026-07-30",
+    "category": "景观设计",
+    "match_level": "A",
+    "match_reasons": [
+      "景观设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24222&zpxxId=124753",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "6f44e3f95ab361083cd989d9d430a4876f33b5947b4dec29c657c8b26f8dc369",
+    "source_id": "bucea",
+    "source_job_id": "124729:24218",
+    "company": "北京招商局物业管理",
+    "title": "项目管理岗、工程管理岗",
+    "location": [
+      "北京朝阳区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-28",
+    "first_seen": "2026-07-30",
+    "category": "项目管理",
+    "match_level": "B",
+    "match_reasons": [
+      "项目管理",
+      "工程管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24218&zpxxId=124729",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "b07fd8db3d6fbdf12351483097cb64ff3a2fa4753d06984c21a918b7cbf31ee7",
+    "source_id": "bucea",
+    "source_job_id": "124662:24197",
+    "company": "中国建筑设计研究院",
+    "title": "建筑设计师",
+    "location": [
+      "北京西城区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-20",
+    "first_seen": "2026-07-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计",
+      "文化遗产",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24197&zpxxId=124662",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "8fddd31753073148c5b38ea374c865144e8cb4a649a9b8b616ac99c072d58a8e",
+    "source_id": "bucea",
+    "source_job_id": "124654:24188",
+    "company": "中国大地财产保险股份有限公司北京分公司",
+    "title": "管培生",
+    "location": [
+      "北京西城区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-19",
+    "first_seen": "2026-07-30",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "产品"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24188&zpxxId=124654",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "dbf309ee5297761136cf35cb589181314e0837a12704a99590b050bc467ece91",
+    "source_id": "bucea",
+    "source_job_id": "124653:24191",
+    "company": "北京恒森基业工程咨询",
+    "title": "投标助理",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-19",
+    "first_seen": "2026-07-30",
+    "category": "招投标",
+    "match_level": "B",
+    "match_reasons": [
+      "招投标"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24191&zpxxId=124653",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "4991831de6f32a3d46b96fdc52c10f998691491947f7cb88d7b9f31709a19bdd",
+    "source_id": "bucea",
+    "source_job_id": "124653:24190",
+    "company": "北京恒森基业工程咨询",
+    "title": "管培生（预算工程师）",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-19",
+    "first_seen": "2026-07-30",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24190&zpxxId=124653",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "8a3d75b9106f8a8c76a872109a66ffee9ed19eec640231ff565b91ad7a5e57ed",
+    "source_id": "bucea",
+    "source_job_id": "124646:24184",
+    "company": "中建三局上海",
+    "title": "项目管理岗",
+    "location": [
+      "上海杨浦区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-18",
+    "first_seen": "2026-07-30",
+    "category": "城市更新",
+    "match_level": "A",
+    "match_reasons": [
+      "城市更新",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24184&zpxxId=124646",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "5f398c2a60e8283cb8217279d1b76c7eb00392d825e55e6587139406476bbd0d",
+    "source_id": "bucea",
+    "source_job_id": "124579:24165",
+    "company": "森特士兴集团",
+    "title": "营销工程师",
+    "location": [
+      "北京大兴区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-08",
+    "first_seen": "2026-07-30",
+    "category": "工程管理",
+    "match_level": "B",
+    "match_reasons": [
+      "工程管理"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24165&zpxxId=124579",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "f35272a1e956350a7f195c7618d5983916ef1ce89017ac0852786a445d119cc7",
+    "source_id": "bucea",
+    "source_job_id": "124579:24164",
+    "company": "森特士兴集团",
+    "title": "项目工程师",
+    "location": [
+      "北京大兴区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-08",
+    "first_seen": "2026-07-30",
+    "category": "工程管理",
+    "match_level": "B",
+    "match_reasons": [
+      "工程管理"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24164&zpxxId=124579",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "9d5b50e76771c3619d64f0bdf9b124e03b8a202969d5f8249cd50afcb00ee08f",
+    "source_id": "bucea",
+    "source_job_id": "124577:24168",
+    "company": "中国农业大学烟台研究院",
+    "title": "城乡规划学专业教师岗位",
+    "location": [
+      "山东省烟台高新技术产业开发区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-08",
+    "first_seen": "2026-07-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划",
+      "景观设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24168&zpxxId=124577",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "9d5b50e76771c3619d64f0bdf9b124e03b8a202969d5f8249cd50afcb00ee08f",
+    "source_id": "bucea",
+    "source_job_id": "124577:24167",
+    "company": "中国农业大学烟台研究院",
+    "title": "城乡规划学专业教师岗位",
+    "location": [
+      "山东省烟台高新技术产业开发区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-08",
+    "first_seen": "2026-07-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划",
+      "景观设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24167&zpxxId=124577",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "dc5878a8b2ef163cbabd582c0ac384d3811d57108ec5253e80c470fbed9d7153",
+    "source_id": "bucea",
+    "source_job_id": "124559:24143",
+    "company": "北京多义景观规划设计事务所",
+    "title": "景观设计师",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-06",
+    "first_seen": "2026-07-30",
+    "category": "景观设计",
+    "match_level": "A",
+    "match_reasons": [
+      "景观设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24143&zpxxId=124559",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "234c87e0ccfd9abc0287a715133fd43b8624ec5b9e05cfcb7dcaac550a08cff7",
+    "source_id": "bucea",
+    "source_job_id": "124559:24142",
+    "company": "北京多义景观规划设计事务所",
+    "title": "助理景观设计师",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-06",
+    "first_seen": "2026-07-30",
+    "category": "景观设计",
+    "match_level": "A",
+    "match_reasons": [
+      "景观设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24142&zpxxId=124559",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "98f6d079223742fa2c04bdca98a67ac0cbf2242fe858b8fde7e4e48d89bcb2b6",
+    "source_id": "bucea",
+    "source_job_id": "124554:24155",
+    "company": "北京市西城区保障性住房运营管理",
+    "title": "水暖工程岗",
+    "location": [
+      "北京西城区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-06",
+    "first_seen": "2026-07-30",
+    "category": "设计管理",
+    "match_level": "B",
+    "match_reasons": [
+      "设计管理",
+      "项目管理",
+      "工程管理"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24155&zpxxId=124554",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -501,6 +1443,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -534,6 +1477,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -570,6 +1514,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -603,6 +1548,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -640,6 +1586,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -695,6 +1642,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -730,6 +1678,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -774,6 +1723,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -813,6 +1763,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -852,6 +1803,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -886,6 +1838,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -922,6 +1875,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -957,6 +1911,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -991,6 +1946,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -1025,6 +1981,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1060,6 +2017,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1094,6 +2052,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1129,6 +2088,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -1163,6 +2123,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1200,6 +2161,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -1234,6 +2196,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -1270,6 +2233,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1303,6 +2267,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1340,6 +2305,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1377,6 +2343,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1411,6 +2378,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1451,6 +2419,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1492,6 +2461,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1537,6 +2507,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1571,6 +2542,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1605,6 +2577,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -1641,6 +2614,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1682,6 +2656,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1723,6 +2698,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1756,6 +2732,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1790,6 +2767,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -1828,6 +2806,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -1865,6 +2844,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1909,6 +2889,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -1946,6 +2927,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -1991,6 +2973,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2025,6 +3008,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2073,6 +3057,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2115,6 +3100,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2150,6 +3136,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2183,6 +3170,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2219,6 +3207,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2280,6 +3269,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2313,6 +3303,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2350,6 +3341,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2386,6 +3378,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2426,6 +3419,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2470,6 +3464,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2505,6 +3500,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2539,6 +3535,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2574,6 +3571,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2611,6 +3609,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2645,6 +3644,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2678,6 +3678,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2714,6 +3715,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2755,6 +3757,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2791,6 +3794,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -2825,6 +3829,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2864,6 +3869,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2912,6 +3918,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -2946,6 +3953,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -2980,6 +3988,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3015,6 +4024,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -3048,6 +4058,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3084,6 +4095,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -3124,6 +4136,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3160,6 +4173,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3194,6 +4208,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -3227,6 +4242,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3262,6 +4278,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3296,6 +4313,41 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "0533e702fafa65818d9194721a534bfde703c4bd28cf54a254bad055d6b2c5be",
+    "source_id": "guopinleida",
+    "source_job_id": "74095709-5071-467d-bdc8-e091b0e9051e",
+    "company": "上汽安吉物流",
+    "title": "上汽安吉物流2026暑期实习生持续招聘中",
+    "location": [
+      "上海"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-30",
+    "category": "技术管理",
+    "match_level": "B",
+    "match_reasons": [
+      "技术管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/DnnA4gAz9tIGdz_ZGW6igQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3329,6 +4381,43 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "688b2248ee318f3722e363604bd12bf1e1ab7a022dc1a80904dc0a021db91264",
+    "source_id": "guopinleida",
+    "source_job_id": "cb5b56d4-8c8a-444f-abb6-c5af0147b924",
+    "company": "湖北省电力规划设计研究院",
+    "title": "湖北省电力规划设计研究院2027届“启明星计划”实习生招聘",
+    "location": [
+      "武汉"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-15",
+    "first_seen": "2026-07-28",
+    "category": "城乡规划",
+    "match_level": "A",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/uq6ZLhtpFNyim08q612TQA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3366,76 +4455,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "534e695143008bf03550f5b42610eb33146f86c02595a87f3a25f0f1c444999c",
-    "source_id": "guopinleida",
-    "source_job_id": "0bc84ef4-0570-4e63-b581-2983c17b5520",
-    "company": "苏州科达",
-    "title": "苏州科达2027届实习生招聘（ 可转正）",
-    "location": [
-      "上海",
-      "苏州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-15",
-    "first_seen": "2026-07-28",
-    "category": "AI应用",
-    "match_level": "C",
-    "match_reasons": [
-      "AI应用",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/9djVMHxRBg9HVMRhSXJayQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "688b2248ee318f3722e363604bd12bf1e1ab7a022dc1a80904dc0a021db91264",
-    "source_id": "guopinleida",
-    "source_job_id": "cb5b56d4-8c8a-444f-abb6-c5af0147b924",
-    "company": "湖北省电力规划设计研究院",
-    "title": "湖北省电力规划设计研究院2027届“启明星计划”实习生招聘",
-    "location": [
-      "武汉"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-15",
-    "first_seen": "2026-07-28",
-    "category": "城乡规划",
-    "match_level": "A",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/uq6ZLhtpFNyim08q612TQA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -3475,6 +4495,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3517,6 +4538,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -3555,6 +4577,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -3589,6 +4612,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -3625,6 +4649,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3660,6 +4685,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3693,6 +4719,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3726,6 +4753,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3760,6 +4788,42 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "45a4a2f2b3514f3849ddd8ea6abacae936142c71ef5f3108301291b994e85341",
+    "source_id": "guopinleida",
+    "source_job_id": "a77d7c0a-be8c-4205-b71c-dd2f3a50e517",
+    "company": "工大卫星",
+    "title": "工大卫星27届校园招聘正式启动",
+    "location": [
+      "北京",
+      "哈尔滨"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-08",
+    "first_seen": "2026-07-30",
+    "category": "项目管理",
+    "match_level": "B",
+    "match_reasons": [
+      "项目管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/KWBu6Bo_l1bAHRpwEfc_Nw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -3798,6 +4862,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3832,6 +4897,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -3865,6 +4931,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3900,6 +4967,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -3937,6 +5005,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -3970,6 +5039,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4011,6 +5081,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4047,6 +5118,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4086,6 +5158,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4120,6 +5193,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4157,6 +5231,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4191,6 +5266,42 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "02c0c936fe6a5a65e07a08a85c8338c76a03844268ffa7b4d849337482d0202e",
+    "source_id": "guopinleida",
+    "source_job_id": "7d61a3b8-a954-4c53-8726-03b4e6cb2a1b",
+    "company": "同花顺",
+    "title": "同花顺2026春招末班车（26补录/27提前批），抢先投递锁定offer～",
+    "location": [
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-27",
+    "first_seen": "2026-07-30",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "管培生"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/DLq3ZoZmMpTZmKAsVG0zMg?scene=1",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4228,6 +5339,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4261,6 +5373,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4300,6 +5413,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4333,6 +5447,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4369,6 +5484,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4402,6 +5518,154 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "937c936ab726b1532647c9b45a455a9c904544ba7451cf18fc77fe73aecf4e1e",
+    "source_id": "guopinleida",
+    "source_job_id": "92e848af-61fe-4725-82e9-a4d9a27917dd",
+    "company": "华为",
+    "title": "华为2027届AI实习生招聘 | 终端BG",
+    "location": [
+      "上海",
+      "东莞",
+      "北京",
+      "南京",
+      "成都",
+      "杭州",
+      "武汉",
+      "深圳",
+      "西安"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-21",
+    "first_seen": "2026-07-30",
+    "category": "AI应用",
+    "match_level": "C",
+    "match_reasons": [
+      "AI应用",
+      "专业不限"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "http://mp.weixin.qq.com/s/RTNy37fhbi3DeYA_iLkJkA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "c06e7d007705fdfd360a6221ef6fe01ca9d4009fbbb61d7b9941275324891a6c",
+    "source_id": "guopinleida",
+    "source_job_id": "126bd5b0-2a5e-4ea1-9829-df6202557ba7",
+    "company": "浙江省交通投资集团",
+    "title": "浙江省交通集团暑期实习生招聘",
+    "location": [
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-23",
+    "first_seen": "2026-07-28",
+    "category": "项目管理",
+    "match_level": "B",
+    "match_reasons": [
+      "项目管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "http://mp.weixin.qq.com/s?__biz=MzU5NjU4ODUwMw%3D%3D&mid=2247616335&idx=2&sn=abe15bf44f549da5251c431aa3ba96e3&chksm=fe6325f7c914ace129a1bd55fe5ad04f48a6fbf3060e5936b45b2fce8fe836a7f2d793b681ac",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "6557f090337fa26901e0800dc2c5c7dda8408b98bbf3738c296ac977c9b2eaa8",
+    "source_id": "guopinleida",
+    "source_job_id": "d2637411-726b-4e1d-af94-f75df204ffc7",
+    "company": "中邮资管",
+    "title": "中邮资管2026年度暑期实习生招聘",
+    "location": [
+      "北京"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-21",
+    "first_seen": "2026-07-28",
+    "category": "AI应用",
+    "match_level": "C",
+    "match_reasons": [
+      "AI应用",
+      "AI"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/QltZRUxdY6u93ttHtW7eNg?click_id=36",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "4a9153bccace4dbd050fec57b1d8a6c5ea3d16b288e0b811c4e2fd6f475f1b09",
+    "source_id": "guopinleida",
+    "source_job_id": "631a36f8-71ed-45ac-807f-e3c47a1e98a7",
+    "company": "菇娘家",
+    "title": "菇娘家 | 2026春招启动，请速速上车",
+    "location": [
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-23",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "管培生"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://www.xiaohongshu.com/explore/6a117f6a0000000035021eca?note_flow_source=wechat&xsec_token=CBMpEZjCPJOgxvbfH3FiNsd-QW95rcJhBb5fYwkyUzgUM%3D",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4441,107 +5705,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "4a9153bccace4dbd050fec57b1d8a6c5ea3d16b288e0b811c4e2fd6f475f1b09",
-    "source_id": "guopinleida",
-    "source_job_id": "631a36f8-71ed-45ac-807f-e3c47a1e98a7",
-    "company": "菇娘家",
-    "title": "菇娘家 | 2026春招启动，请速速上车",
-    "location": [
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-23",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "管培生"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://www.xiaohongshu.com/explore/6a117f6a0000000035021eca?note_flow_source=wechat&xsec_token=CBMpEZjCPJOgxvbfH3FiNsd-QW95rcJhBb5fYwkyUzgUM%3D",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "c06e7d007705fdfd360a6221ef6fe01ca9d4009fbbb61d7b9941275324891a6c",
-    "source_id": "guopinleida",
-    "source_job_id": "126bd5b0-2a5e-4ea1-9829-df6202557ba7",
-    "company": "浙江省交通投资集团",
-    "title": "浙江省交通集团暑期实习生招聘",
-    "location": [
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-23",
-    "first_seen": "2026-07-28",
-    "category": "项目管理",
-    "match_level": "B",
-    "match_reasons": [
-      "项目管理"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "http://mp.weixin.qq.com/s?__biz=MzU5NjU4ODUwMw%3D%3D&mid=2247616335&idx=2&sn=abe15bf44f549da5251c431aa3ba96e3&chksm=fe6325f7c914ace129a1bd55fe5ad04f48a6fbf3060e5936b45b2fce8fe836a7f2d793b681ac",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "6557f090337fa26901e0800dc2c5c7dda8408b98bbf3738c296ac977c9b2eaa8",
-    "source_id": "guopinleida",
-    "source_job_id": "d2637411-726b-4e1d-af94-f75df204ffc7",
-    "company": "中邮资管",
-    "title": "中邮资管2026年度暑期实习生招聘",
-    "location": [
-      "北京"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-21",
-    "first_seen": "2026-07-28",
-    "category": "AI应用",
-    "match_level": "C",
-    "match_reasons": [
-      "AI应用",
-      "AI"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/QltZRUxdY6u93ttHtW7eNg?click_id=36",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -4580,6 +5744,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4617,6 +5782,41 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "f86d86e8b2e4bca633605e5acd9ec118a99a6c45911c1c8fd4fdb79a7d6aaea8",
+    "source_id": "guopinleida",
+    "source_job_id": "3fcccb7d-120e-4df6-827d-f4c3f807afcc",
+    "company": "韶音科技",
+    "title": "韶音科技2027届提前批校园招聘启动！",
+    "location": [
+      "深圳"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-19",
+    "first_seen": "2026-07-28",
+    "category": "项目管理",
+    "match_level": "B",
+    "match_reasons": [
+      "项目管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/IiTOvrWb19QazzOnA-3LVA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4651,39 +5851,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "f86d86e8b2e4bca633605e5acd9ec118a99a6c45911c1c8fd4fdb79a7d6aaea8",
-    "source_id": "guopinleida",
-    "source_job_id": "3fcccb7d-120e-4df6-827d-f4c3f807afcc",
-    "company": "韶音科技",
-    "title": "韶音科技2027届提前批校园招聘启动！",
-    "location": [
-      "深圳"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-19",
-    "first_seen": "2026-07-28",
-    "category": "项目管理",
-    "match_level": "B",
-    "match_reasons": [
-      "项目管理"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/IiTOvrWb19QazzOnA-3LVA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4717,6 +5885,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4765,6 +5934,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4800,6 +5970,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4837,6 +6008,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4872,6 +6044,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -4905,6 +6078,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -4944,6 +6118,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -4978,6 +6153,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -5012,6 +6188,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5058,6 +6235,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -5099,6 +6277,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5134,6 +6313,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -5169,6 +6349,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5203,6 +6384,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5243,6 +6425,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5276,6 +6459,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5310,6 +6494,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5346,6 +6531,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5380,6 +6566,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5414,6 +6601,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5451,6 +6639,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5484,6 +6673,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -5527,41 +6717,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "465d1a53de11bca9acb9bfc87e3778adac8f614397c61235550d55883ba86a8d",
-    "source_id": "guopinleida",
-    "source_job_id": "1d3bc949-fa7d-4dcc-945a-bcd9c5c45830",
-    "company": "大华股份",
-    "title": "大华股份2027届转正实习招聘正式启动",
-    "location": [
-      "全国",
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-04-27",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Jow5GI-7e-RhhiwlCCl1Qg",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5603,6 +6759,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5638,40 +6795,43 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
-    "fingerprint": "bcd363d363842f47aa7538fb847e071c56f6c00c0025afa854ec423260f3bd27",
+    "fingerprint": "465d1a53de11bca9acb9bfc87e3778adac8f614397c61235550d55883ba86a8d",
     "source_id": "guopinleida",
-    "source_job_id": "a74bef25-152a-4a27-9859-30313fc3908a",
-    "company": "理想汽车",
-    "title": "理想汽车整车电动26届春招及实习热招岗位特辑",
+    "source_job_id": "1d3bc949-fa7d-4dcc-945a-bcd9c5c45830",
+    "company": "大华股份",
+    "title": "大华股份2027届转正实习招聘正式启动",
     "location": [
-      "上海",
-      "北京"
+      "全国",
+      "杭州"
     ],
     "deadline": null,
-    "publish_date": "2026-04-26",
+    "publish_date": "2026-04-27",
     "first_seen": "2026-07-28",
-    "category": "技术管理",
-    "match_level": "B",
+    "category": "管培生",
+    "match_level": "C",
     "match_reasons": [
-      "技术管理"
+      "管培生",
+      "工程"
     ],
     "requirements": {
       "education": null,
-      "graduation_year": null,
+      "graduation_year": 2027,
       "majors": [],
       "experience_required": false,
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/daoPesbGSL65BahzkUU2Gw",
+    "detail_url": "https://mp.weixin.qq.com/s/Jow5GI-7e-RhhiwlCCl1Qg",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5725,6 +6885,42 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "bcd363d363842f47aa7538fb847e071c56f6c00c0025afa854ec423260f3bd27",
+    "source_id": "guopinleida",
+    "source_job_id": "a74bef25-152a-4a27-9859-30313fc3908a",
+    "company": "理想汽车",
+    "title": "理想汽车整车电动26届春招及实习热招岗位特辑",
+    "location": [
+      "上海",
+      "北京"
+    ],
+    "deadline": null,
+    "publish_date": "2026-04-26",
+    "first_seen": "2026-07-28",
+    "category": "技术管理",
+    "match_level": "B",
+    "match_reasons": [
+      "技术管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/daoPesbGSL65BahzkUU2Gw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5768,6 +6964,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -5804,6 +7001,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -5840,6 +7038,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5876,6 +7075,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -5913,6 +7113,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -5946,6 +7147,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -5979,6 +7181,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6020,6 +7223,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6083,6 +7287,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -6117,6 +7322,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -6155,6 +7361,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6192,83 +7399,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "cb2af45b465871f81f1f4076d7f6f7d7ef3859d6720456802eeaf6fde4ef784b",
-    "source_id": "guopinleida",
-    "source_job_id": "b180eaad-6914-4e73-8923-e19a1de25a9b",
-    "company": "庭宇",
-    "title": "庭宇2027秋储实习生校园招聘正式启动",
-    "location": [
-      "北京",
-      "南京",
-      "广州",
-      "杭州",
-      "海外"
-    ],
-    "deadline": null,
-    "publish_date": "2026-04-14",
-    "first_seen": "2026-07-28",
-    "category": "AI产品",
-    "match_level": "C",
-    "match_reasons": [
-      "AI产品",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/BepEg1frSkvEnJ3uRECWZg?scene=1&click_id=11",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "372630c91b70ca14beb8754d0abaa4b5b11393a9b455bafbbc43ee0d8b0e9b90",
-    "source_id": "guopinleida",
-    "source_job_id": "2f5af164-a9ca-469d-b3f0-b2179c8daf66",
-    "company": "英科再生",
-    "title": "英科再生实习生招聘正式启动！",
-    "location": [
-      "上海",
-      "六安",
-      "济南",
-      "淄博",
-      "镇江",
-      "青岛"
-    ],
-    "deadline": null,
-    "publish_date": "2026-04-14",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/d5ulkJBg2bYC98rYKdanOQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6308,6 +7439,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6342,6 +7474,86 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "cb2af45b465871f81f1f4076d7f6f7d7ef3859d6720456802eeaf6fde4ef784b",
+    "source_id": "guopinleida",
+    "source_job_id": "b180eaad-6914-4e73-8923-e19a1de25a9b",
+    "company": "庭宇",
+    "title": "庭宇2027秋储实习生校园招聘正式启动",
+    "location": [
+      "北京",
+      "南京",
+      "广州",
+      "杭州",
+      "海外"
+    ],
+    "deadline": null,
+    "publish_date": "2026-04-14",
+    "first_seen": "2026-07-28",
+    "category": "AI产品",
+    "match_level": "C",
+    "match_reasons": [
+      "AI产品",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/BepEg1frSkvEnJ3uRECWZg?scene=1&click_id=11",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "372630c91b70ca14beb8754d0abaa4b5b11393a9b455bafbbc43ee0d8b0e9b90",
+    "source_id": "guopinleida",
+    "source_job_id": "2f5af164-a9ca-469d-b3f0-b2179c8daf66",
+    "company": "英科再生",
+    "title": "英科再生实习生招聘正式启动！",
+    "location": [
+      "上海",
+      "六安",
+      "济南",
+      "淄博",
+      "镇江",
+      "青岛"
+    ],
+    "deadline": null,
+    "publish_date": "2026-04-14",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/d5ulkJBg2bYC98rYKdanOQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6376,6 +7588,42 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "64ff7d02c269829e6a24f05f873e258f5a6a93f84262466bcb68a04356c3c1be",
+    "source_id": "guopinleida",
+    "source_job_id": "5cbe8f4a-e5bd-4aa2-a478-d908c2008509",
+    "company": "青岛新东方",
+    "title": "青岛新东方实习留用，2027 届管培生速投！",
+    "location": [
+      "青岛"
+    ],
+    "deadline": null,
+    "publish_date": "2026-04-07",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "管培生"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/PF5QrZulAAv6yg5nz-7yAg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6413,40 +7661,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "64ff7d02c269829e6a24f05f873e258f5a6a93f84262466bcb68a04356c3c1be",
-    "source_id": "guopinleida",
-    "source_job_id": "5cbe8f4a-e5bd-4aa2-a478-d908c2008509",
-    "company": "青岛新东方",
-    "title": "青岛新东方实习留用，2027 届管培生速投！",
-    "location": [
-      "青岛"
-    ],
-    "deadline": null,
-    "publish_date": "2026-04-07",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "管培生"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/PF5QrZulAAv6yg5nz-7yAg",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6482,6 +7697,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -6521,6 +7737,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -6556,6 +7773,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6591,6 +7809,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6634,6 +7853,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6670,6 +7890,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -6706,6 +7927,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -6740,6 +7962,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -6783,6 +8006,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6823,6 +8047,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -6859,6 +8084,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -6894,6 +8120,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -6931,6 +8158,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -6971,42 +8199,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "fca26bfa432b2c2dcb46ae5f4c9166255f3168045d078a52b9655dae68fff179",
-    "source_id": "guopinleida",
-    "source_job_id": "4a9587f8-316d-407f-8772-bab7d2133a73",
-    "company": "作业帮",
-    "title": "作业帮2027届暑期实习生招聘正式启动（有转正）",
-    "location": [
-      "上海",
-      "北京",
-      "西安"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-24",
-    "first_seen": "2026-07-28",
-    "category": "AI应用",
-    "match_level": "C",
-    "match_reasons": [
-      "AI应用",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/XXmGdWiYs4DQv7ueMlEYWQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -7041,49 +8234,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "fed6fccae18a27ebff4a69dc3a5fac012e9ca1b05bbf635cf9119ca29f88c2d6",
-    "source_id": "guopinleida",
-    "source_job_id": "4e912547-bb51-4a89-9edc-370a9b8bd364",
-    "company": "华为",
-    "title": "华为实习生招聘 | 半导体业务部",
-    "location": [
-      "上海",
-      "东莞",
-      "北京",
-      "南京",
-      "成都",
-      "杭州",
-      "武汉",
-      "深圳",
-      "苏州",
-      "西安"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-22",
-    "first_seen": "2026-07-28",
-    "category": "AI应用",
-    "match_level": "C",
-    "match_reasons": [
-      "AI应用",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/XxZ6y7veQRg1DqbTFkcdgQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7160,6 +8311,124 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "fca26bfa432b2c2dcb46ae5f4c9166255f3168045d078a52b9655dae68fff179",
+    "source_id": "guopinleida",
+    "source_job_id": "4a9587f8-316d-407f-8772-bab7d2133a73",
+    "company": "作业帮",
+    "title": "作业帮2027届暑期实习生招聘正式启动（有转正）",
+    "location": [
+      "上海",
+      "北京",
+      "西安"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-24",
+    "first_seen": "2026-07-28",
+    "category": "AI应用",
+    "match_level": "C",
+    "match_reasons": [
+      "AI应用",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/XXmGdWiYs4DQv7ueMlEYWQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "fed6fccae18a27ebff4a69dc3a5fac012e9ca1b05bbf635cf9119ca29f88c2d6",
+    "source_id": "guopinleida",
+    "source_job_id": "4e912547-bb51-4a89-9edc-370a9b8bd364",
+    "company": "华为",
+    "title": "华为实习生招聘 | 半导体业务部",
+    "location": [
+      "上海",
+      "东莞",
+      "北京",
+      "南京",
+      "成都",
+      "杭州",
+      "武汉",
+      "深圳",
+      "苏州",
+      "西安"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-22",
+    "first_seen": "2026-07-28",
+    "category": "AI应用",
+    "match_level": "C",
+    "match_reasons": [
+      "AI应用",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/XxZ6y7veQRg1DqbTFkcdgQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "2d2d41d39d0455ce2bd9362359155189466cd64e992889ffd7ceffe5396c829c",
+    "source_id": "guopinleida",
+    "source_job_id": "f942cf62-efe4-45d4-a93c-c081a04bdd2d",
+    "company": "吉比特",
+    "title": "吉比特&雷霆游戏2026春招及暑期实习生招聘启动！",
+    "location": [
+      "厦门",
+      "深圳"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-22",
+    "first_seen": "2026-07-28",
+    "category": "产品运营",
+    "match_level": "C",
+    "match_reasons": [
+      "产品运营",
+      "设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/VXTx0jYcg9N4dkwHjuYUmg?scene=1",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -7194,6 +8463,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -7234,6 +8504,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7269,6 +8540,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -7308,26 +8580,64 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
-    "fingerprint": "2d2d41d39d0455ce2bd9362359155189466cd64e992889ffd7ceffe5396c829c",
+    "fingerprint": "11ab47c6733d407b27de5ac913af116714619590b653140237eb4f2c27db0fbf",
     "source_id": "guopinleida",
-    "source_job_id": "f942cf62-efe4-45d4-a93c-c081a04bdd2d",
-    "company": "吉比特",
-    "title": "吉比特&雷霆游戏2026春招及暑期实习生招聘启动！",
+    "source_job_id": "af6f685c-eb9d-47ac-8c03-4f7af345e244",
+    "company": "筑境设计",
+    "title": "筑境设计 2026-2027 校园招聘全面启动",
     "location": [
-      "厦门",
-      "深圳"
+      "上海",
+      "杭州"
     ],
     "deadline": null,
-    "publish_date": "2026-03-22",
+    "publish_date": "2026-03-17",
     "first_seen": "2026-07-28",
-    "category": "产品运营",
+    "category": "建筑设计",
+    "match_level": "A",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/m00sywsJGvFlmQV_i0OGpQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "status": "active"
+  },
+  {
+    "fingerprint": "2211e6aba28406e5c1af6ca87146df1cc41f9ef121b219a54c6c599fca7b00a4",
+    "source_id": "guopinleida",
+    "source_job_id": "5d52deb7-5677-4b42-8f65-9faee727dd7f",
+    "company": "网鱼",
+    "title": "网鱼春招|春天第一份Offer，我想去一家能“玩”出梦想的公司。",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-17",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
     "match_level": "C",
     "match_reasons": [
-      "产品运营",
-      "设计"
+      "管培生",
+      "专业不限"
     ],
     "requirements": {
       "education": null,
@@ -7337,12 +8647,13 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/VXTx0jYcg9N4dkwHjuYUmg?scene=1",
+    "detail_url": "https://mp.weixin.qq.com/s/P6BIUpYj-dhvgRotoPKmnw",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7377,6 +8688,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -7425,77 +8737,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "11ab47c6733d407b27de5ac913af116714619590b653140237eb4f2c27db0fbf",
-    "source_id": "guopinleida",
-    "source_job_id": "af6f685c-eb9d-47ac-8c03-4f7af345e244",
-    "company": "筑境设计",
-    "title": "筑境设计 2026-2027 校园招聘全面启动",
-    "location": [
-      "上海",
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-17",
-    "first_seen": "2026-07-28",
-    "category": "建筑设计",
-    "match_level": "A",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/m00sywsJGvFlmQV_i0OGpQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "2211e6aba28406e5c1af6ca87146df1cc41f9ef121b219a54c6c599fca7b00a4",
-    "source_id": "guopinleida",
-    "source_job_id": "5d52deb7-5677-4b42-8f65-9faee727dd7f",
-    "company": "网鱼",
-    "title": "网鱼春招|春天第一份Offer，我想去一家能“玩”出梦想的公司。",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-17",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "专业不限"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/P6BIUpYj-dhvgRotoPKmnw",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7539,80 +8781,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "077140fb67beb1a4ff4c4eb219ff7b3796be1994390d94403f081f56e1ed6c63",
-    "source_id": "guopinleida",
-    "source_job_id": "cbcf5e39-05ab-4d59-bc3d-45cf7cb1b118",
-    "company": "腾讯云智研发公司",
-    "title": "云智研发公司2026春季校园招聘启动（含暑期实习）",
-    "location": [
-      "厦门",
-      "武汉",
-      "西安",
-      "重庆",
-      "长沙"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-16",
-    "first_seen": "2026-07-28",
-    "category": "项目管理",
-    "match_level": "B",
-    "match_reasons": [
-      "项目管理"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/cMJ6izmZg8X4AUFS16XDJQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "b3415db739d8cddbd79b2f48d5b770d4a78d38b0653d14a29103f5c8851f8071",
-    "source_id": "guopinleida",
-    "source_job_id": "d60cce3d-b295-4b5c-8bb1-829c1931b6ad",
-    "company": "迪普科技",
-    "title": "迪普科技2026届校园招聘暨2027届实习生招聘",
-    "location": [
-      "全国",
-      "北京",
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-12",
-    "first_seen": "2026-07-28",
-    "category": "AI应用",
-    "match_level": "C",
-    "match_reasons": [
-      "AI应用",
-      "管培生",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/2U-UaR2lX5-QzeXFuW1aHw",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7647,6 +8816,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -7687,6 +8857,83 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "077140fb67beb1a4ff4c4eb219ff7b3796be1994390d94403f081f56e1ed6c63",
+    "source_id": "guopinleida",
+    "source_job_id": "cbcf5e39-05ab-4d59-bc3d-45cf7cb1b118",
+    "company": "腾讯云智研发公司",
+    "title": "云智研发公司2026春季校园招聘启动（含暑期实习）",
+    "location": [
+      "厦门",
+      "武汉",
+      "西安",
+      "重庆",
+      "长沙"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-16",
+    "first_seen": "2026-07-28",
+    "category": "项目管理",
+    "match_level": "B",
+    "match_reasons": [
+      "项目管理"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/cMJ6izmZg8X4AUFS16XDJQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "b3415db739d8cddbd79b2f48d5b770d4a78d38b0653d14a29103f5c8851f8071",
+    "source_id": "guopinleida",
+    "source_job_id": "d60cce3d-b295-4b5c-8bb1-829c1931b6ad",
+    "company": "迪普科技",
+    "title": "迪普科技2026届校园招聘暨2027届实习生招聘",
+    "location": [
+      "全国",
+      "北京",
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-12",
+    "first_seen": "2026-07-28",
+    "category": "AI应用",
+    "match_level": "C",
+    "match_reasons": [
+      "AI应用",
+      "管培生",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/2U-UaR2lX5-QzeXFuW1aHw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -7726,6 +8973,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -7759,6 +9007,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -7802,6 +9051,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7840,64 +9090,67 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
-    "fingerprint": "cba0738d671410a474f12dac2816431aac36fd0b9c8e81c76f0f3134129f180f",
+    "fingerprint": "72fd6f5e3325172821a143993e5ff6853feee2fdbd8836dd7df7a485490e0303",
     "source_id": "guopinleida",
-    "source_job_id": "5a1a7f5c-9ecf-4d7c-8b0f-a4e885623a14",
-    "company": "字节跳动",
-    "title": "抖音2026校园招聘&ByteIntern实习生热招！Offer 量充足，转正机会大 ~",
+    "source_job_id": "e70a8d32-d289-4604-9aa2-dc39ecea78a3",
+    "company": "安克创新",
+    "title": "安克创新2027届校招储备实习生招聘正式启动！",
     "location": [
       "上海",
       "北京",
       "杭州",
-      "深圳"
+      "深圳",
+      "长沙"
     ],
     "deadline": null,
-    "publish_date": "2026-03-09",
+    "publish_date": "2026-03-08",
     "first_seen": "2026-07-28",
-    "category": "产品运营",
-    "match_level": "C",
+    "category": "项目管理",
+    "match_level": "B",
     "match_reasons": [
-      "产品运营",
-      "设计"
+      "项目管理"
     ],
     "requirements": {
       "education": null,
-      "graduation_year": null,
+      "graduation_year": 2027,
       "majors": [],
       "experience_required": false,
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "http://mp.weixin.qq.com/s?__biz=MzIzMTIzMTUwOQ%3D%3D&mid=2650108085&idx=4&sn=58d1b97d39a5ef8ad6194cc2d1a9b70f&chksm=f16b95f1757f4c70bf4eddda9843e663c31b54e7d0a8287ba199072b72227b14f13401459a80&scene=0",
+    "detail_url": "https://mp.weixin.qq.com/s/EXjIARLLuZNk6xQPvmNNfA",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
-    "fingerprint": "d5d584362fbb1d23a515f94de9e1e0b1c0a67f01a142b5010b05174ef4c2f3da",
+    "fingerprint": "9a278aa23f2a1dee3b2c85e0c2b35bfb8f0333b3d2cef84e28cae813ef7ebbe2",
     "source_id": "guopinleida",
-    "source_job_id": "3145d5c2-fac8-4bba-a6e9-b3a5bccde9b6",
-    "company": "申洲国际",
-    "title": "申洲2026春季全球校园招聘正式启动！",
+    "source_job_id": "2f11c5a8-2298-483c-8513-f66fbbae5c14",
+    "company": "快手",
+    "title": "快手2026春季校园招聘 | 26届补录+27届实习",
     "location": [
-      "宁波",
-      "安庆",
-      "西宁"
+      "上海",
+      "北京",
+      "广州",
+      "杭州",
+      "深圳"
     ],
     "deadline": null,
-    "publish_date": "2026-03-10",
+    "publish_date": "2026-03-11",
     "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
+    "category": "项目管理",
+    "match_level": "B",
     "match_reasons": [
-      "管培生",
-      "专业不限"
+      "项目管理"
     ],
     "requirements": {
       "education": null,
@@ -7907,12 +9160,13 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Zm1HOqFP8OmhG_xcwCVHGw",
+    "detail_url": "https://mp.weixin.qq.com/s/Vy0W4CkhJ3IJtZSWaLMwPw",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -7949,6 +9203,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -7988,65 +9243,29 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
-    "fingerprint": "72fd6f5e3325172821a143993e5ff6853feee2fdbd8836dd7df7a485490e0303",
+    "fingerprint": "cba0738d671410a474f12dac2816431aac36fd0b9c8e81c76f0f3134129f180f",
     "source_id": "guopinleida",
-    "source_job_id": "e70a8d32-d289-4604-9aa2-dc39ecea78a3",
-    "company": "安克创新",
-    "title": "安克创新2027届校招储备实习生招聘正式启动！",
+    "source_job_id": "5a1a7f5c-9ecf-4d7c-8b0f-a4e885623a14",
+    "company": "字节跳动",
+    "title": "抖音2026校园招聘&ByteIntern实习生热招！Offer 量充足，转正机会大 ~",
     "location": [
       "上海",
       "北京",
-      "杭州",
-      "深圳",
-      "长沙"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-08",
-    "first_seen": "2026-07-28",
-    "category": "项目管理",
-    "match_level": "B",
-    "match_reasons": [
-      "项目管理"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/EXjIARLLuZNk6xQPvmNNfA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "9a278aa23f2a1dee3b2c85e0c2b35bfb8f0333b3d2cef84e28cae813ef7ebbe2",
-    "source_id": "guopinleida",
-    "source_job_id": "2f11c5a8-2298-483c-8513-f66fbbae5c14",
-    "company": "快手",
-    "title": "快手2026春季校园招聘 | 26届补录+27届实习",
-    "location": [
-      "上海",
-      "北京",
-      "广州",
       "杭州",
       "深圳"
     ],
     "deadline": null,
-    "publish_date": "2026-03-11",
+    "publish_date": "2026-03-09",
     "first_seen": "2026-07-28",
-    "category": "项目管理",
-    "match_level": "B",
+    "category": "产品运营",
+    "match_level": "C",
     "match_reasons": [
-      "项目管理"
+      "产品运营",
+      "设计"
     ],
     "requirements": {
       "education": null,
@@ -8056,12 +9275,50 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Vy0W4CkhJ3IJtZSWaLMwPw",
+    "detail_url": "http://mp.weixin.qq.com/s?__biz=MzIzMTIzMTUwOQ%3D%3D&mid=2650108085&idx=4&sn=58d1b97d39a5ef8ad6194cc2d1a9b70f&chksm=f16b95f1757f4c70bf4eddda9843e663c31b54e7d0a8287ba199072b72227b14f13401459a80&scene=0",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "d5d584362fbb1d23a515f94de9e1e0b1c0a67f01a142b5010b05174ef4c2f3da",
+    "source_id": "guopinleida",
+    "source_job_id": "3145d5c2-fac8-4bba-a6e9-b3a5bccde9b6",
+    "company": "申洲国际",
+    "title": "申洲2026春季全球校园招聘正式启动！",
+    "location": [
+      "宁波",
+      "安庆",
+      "西宁"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-10",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "专业不限"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/Zm1HOqFP8OmhG_xcwCVHGw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8097,6 +9354,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8134,6 +9392,42 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "status": "active"
+  },
+  {
+    "fingerprint": "b919a4ba04df477bb28a0de14adb745de88a52381a563a3d13272c29787d3e2b",
+    "source_id": "guopinleida",
+    "source_job_id": "bb8c239d-e9d2-4296-acec-a5bf4f0b2bc0",
+    "company": "银泰百货",
+    "title": "银泰百货2026春季校园招聘正式启动！",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-08",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/Zu_rGlHmQU8lbnvowQN-AQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -8178,40 +9472,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "b919a4ba04df477bb28a0de14adb745de88a52381a563a3d13272c29787d3e2b",
-    "source_id": "guopinleida",
-    "source_job_id": "bb8c239d-e9d2-4296-acec-a5bf4f0b2bc0",
-    "company": "银泰百货",
-    "title": "银泰百货2026春季校园招聘正式启动！",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-03-08",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Zu_rGlHmQU8lbnvowQN-AQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -8249,6 +9510,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -8285,6 +9547,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8324,6 +9587,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8357,6 +9621,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8392,6 +9657,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8429,105 +9695,25 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
-    "fingerprint": "3aad707f99d2fa8f8d4742fe32e09e34af4eb46540b40a108e920068ef3f5278",
+    "fingerprint": "4b1d15b29c4170d4cf52e50c6b49bed42f8df2cf4821766dad217aac7970eaef",
     "source_id": "guopinleida",
-    "source_job_id": "cf14a8d2-b303-4e66-8b72-98e50aca20c2",
-    "company": "虹科",
-    "title": "虹科招聘 | 2027届转正实习招聘正式启动！",
+    "source_job_id": "319a2b20-5541-4809-a279-649db01e305a",
+    "company": "网易雷火",
+    "title": "网易游戏雷火27届暑期精英实习&26届补招全球启动！",
     "location": [
-      "上海",
-      "北京",
-      "广州",
-      "成都",
-      "苏州",
-      "西安"
-    ],
-    "deadline": null,
-    "publish_date": "2026-02-27",
-    "first_seen": "2026-07-28",
-    "category": "AI应用",
-    "match_level": "C",
-    "match_reasons": [
-      "AI应用",
-      "管培生",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDcyOTM3Ng%3D%3D&mid=2247484281&idx=1&sn=72feb4f28a5faf1643b4c906b9b7cf5b&chksm=c46e4c36f319c52092be390cef7de7c871c3cc367331d06b1c4b19233339894745aa610c2e39",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "63f3b8778289235034e99d90777ecb3cece0b847e562a35561cf5753e8709495",
-    "source_id": "guopinleida",
-    "source_job_id": "65922f17-9d63-46b6-bdbb-64d08f191c11",
-    "company": "GE航空航天",
-    "title": "GE航空航天暑期实习生项目申请",
-    "location": [
-      "上海",
-      "北京",
-      "厦门",
-      "广州",
-      "成都",
-      "海口",
-      "西安"
-    ],
-    "deadline": null,
-    "publish_date": "2026-02-25",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "http://mp.weixin.qq.com/s?__biz=Mzg5OTgxMzAwMw%3D%3D&mid=2247520459&idx=1&sn=bd80de2d4cf3550429383cb1299409e8&chksm=c04f4b2ff738c239ad8e68f4f0f4948ced2a2a561aae65361c699e5e689a4d79ad71a771c5b8",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "d38bd563c828b6f962931bac2a534ed5dad65a132f55cf8f8125a1546afcf469",
-    "source_id": "guopinleida",
-    "source_job_id": "f876258b-a88f-4cdb-864d-33409c14d09f",
-    "company": "星火教育广州分公司",
-    "title": "星火教育广州分公司2026春季校园招聘正式启动！",
-    "location": [
-      "广州"
+      "杭州"
     ],
     "deadline": null,
     "publish_date": "2026-03-01",
     "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
+    "category": "项目管理",
+    "match_level": "B",
     "match_reasons": [
-      "管培生",
-      "产品"
+      "项目管理"
     ],
     "requirements": {
       "education": null,
@@ -8537,12 +9723,13 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/TmcgHlQCeOOmiZ5BxnXfKQ",
+    "detail_url": "https://mp.weixin.qq.com/s/dd04yDcH4EBsoXNDnOpEdA",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8598,24 +9785,73 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
-    "fingerprint": "4b1d15b29c4170d4cf52e50c6b49bed42f8df2cf4821766dad217aac7970eaef",
+    "fingerprint": "3aad707f99d2fa8f8d4742fe32e09e34af4eb46540b40a108e920068ef3f5278",
     "source_id": "guopinleida",
-    "source_job_id": "319a2b20-5541-4809-a279-649db01e305a",
-    "company": "网易雷火",
-    "title": "网易游戏雷火27届暑期精英实习&26届补招全球启动！",
+    "source_job_id": "cf14a8d2-b303-4e66-8b72-98e50aca20c2",
+    "company": "虹科",
+    "title": "虹科招聘 | 2027届转正实习招聘正式启动！",
     "location": [
-      "杭州"
+      "上海",
+      "北京",
+      "广州",
+      "成都",
+      "苏州",
+      "西安"
     ],
     "deadline": null,
-    "publish_date": "2026-03-01",
+    "publish_date": "2026-02-27",
     "first_seen": "2026-07-28",
-    "category": "项目管理",
-    "match_level": "B",
+    "category": "AI应用",
+    "match_level": "C",
     "match_reasons": [
-      "项目管理"
+      "AI应用",
+      "管培生",
+      "工程"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDcyOTM3Ng%3D%3D&mid=2247484281&idx=1&sn=72feb4f28a5faf1643b4c906b9b7cf5b&chksm=c46e4c36f319c52092be390cef7de7c871c3cc367331d06b1c4b19233339894745aa610c2e39",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "63f3b8778289235034e99d90777ecb3cece0b847e562a35561cf5753e8709495",
+    "source_id": "guopinleida",
+    "source_job_id": "65922f17-9d63-46b6-bdbb-64d08f191c11",
+    "company": "GE航空航天",
+    "title": "GE航空航天暑期实习生项目申请",
+    "location": [
+      "上海",
+      "北京",
+      "厦门",
+      "广州",
+      "成都",
+      "海口",
+      "西安"
+    ],
+    "deadline": null,
+    "publish_date": "2026-02-25",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "工程"
     ],
     "requirements": {
       "education": null,
@@ -8625,12 +9861,48 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/dd04yDcH4EBsoXNDnOpEdA",
+    "detail_url": "http://mp.weixin.qq.com/s?__biz=Mzg5OTgxMzAwMw%3D%3D&mid=2247520459&idx=1&sn=bd80de2d4cf3550429383cb1299409e8&chksm=c04f4b2ff738c239ad8e68f4f0f4948ced2a2a561aae65361c699e5e689a4d79ad71a771c5b8",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "d38bd563c828b6f962931bac2a534ed5dad65a132f55cf8f8125a1546afcf469",
+    "source_id": "guopinleida",
+    "source_job_id": "f876258b-a88f-4cdb-864d-33409c14d09f",
+    "company": "星火教育广州分公司",
+    "title": "星火教育广州分公司2026春季校园招聘正式启动！",
+    "location": [
+      "广州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-01",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "match_reasons": [
+      "管培生",
+      "产品"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/TmcgHlQCeOOmiZ5BxnXfKQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8666,6 +9938,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8707,6 +9980,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8741,6 +10015,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8776,6 +10051,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -8811,6 +10087,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8846,6 +10123,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8880,6 +10158,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -8914,6 +10193,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -8947,6 +10227,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -8982,39 +10263,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
-    "status": "active"
-  },
-  {
-    "fingerprint": "e255a8381a07fb62a7e068ffbc704d0d55b8553354ddd488a306bf8c69ae3646",
-    "source_id": "guopinleida",
-    "source_job_id": "fa48c575-90d6-46ef-bdea-54743712132d",
-    "company": "物候设计",
-    "title": "物候设计2026年春季招聘",
-    "location": [
-      "重庆"
-    ],
-    "deadline": null,
-    "publish_date": "2026-01-05",
-    "first_seen": "2026-07-28",
-    "category": "景观设计",
-    "match_level": "A",
-    "match_reasons": [
-      "景观设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/YBjEqFvqAztqg7HgDgNPDg",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -9050,6 +10299,41 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
+    "status": "active"
+  },
+  {
+    "fingerprint": "e255a8381a07fb62a7e068ffbc704d0d55b8553354ddd488a306bf8c69ae3646",
+    "source_id": "guopinleida",
+    "source_job_id": "fa48c575-90d6-46ef-bdea-54743712132d",
+    "company": "物候设计",
+    "title": "物候设计2026年春季招聘",
+    "location": [
+      "重庆"
+    ],
+    "deadline": null,
+    "publish_date": "2026-01-05",
+    "first_seen": "2026-07-28",
+    "category": "景观设计",
+    "match_level": "A",
+    "match_reasons": [
+      "景观设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/YBjEqFvqAztqg7HgDgNPDg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -9086,6 +10370,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -9121,6 +10406,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -9247,6 +10533,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   },
   {
@@ -9281,6 +10568,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9315,6 +10603,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9348,6 +10637,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9382,6 +10672,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -9445,6 +10736,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9479,6 +10771,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9514,6 +10807,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9549,6 +10843,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -9587,6 +10882,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9636,6 +10932,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "mixed",
     "status": "active"
   },
   {
@@ -9671,6 +10968,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9727,6 +11025,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -9761,6 +11060,7 @@
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
+    "opportunity_type": "internship",
     "status": "active"
   }
 ]

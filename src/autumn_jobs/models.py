@@ -31,6 +31,7 @@ class RawJob(BaseModel):
     verification_status: Literal["official", "verified", "pending"] = "pending"
     source_name: str | None = None
     official_apply_url: str | None = None
+    opportunity_type: Literal["full_time", "internship", "mixed"] = "full_time"
 
 
 class JobBusiness(BaseModel):
@@ -54,6 +55,7 @@ class JobBusiness(BaseModel):
     verification_status: Literal["official", "verified", "pending"] = "pending"
     source_name: str | None = None
     official_apply_url: str | None = None
+    opportunity_type: Literal["full_time", "internship", "mixed"] = "full_time"
     status: Literal["active", "inactive"] = "active"
 
 

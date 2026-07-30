@@ -29,6 +29,15 @@ def _requirements(text: str) -> StructuredRequirements:
     )
 
 
+def classify_opportunity(title: str, description: str) -> str:
+    text = f"{title} {description}"
+    if "实习" not in text:
+        return "full_time"
+    if any(marker in text for marker in ("校园招聘", "校招", "秋招", "应届生")):
+        return "mixed"
+    return "internship"
+
+
 def match_job(title: str, description: str) -> MatchResult:
     text = f"{title} {description}"
     rules = _keywords()

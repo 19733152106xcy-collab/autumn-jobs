@@ -8,6 +8,7 @@ from zoneinfo import ZoneInfo
 
 import httpx
 
+from autumn_jobs.adapters.bucea import crawl_bucea_jobs, load_bucea_settings
 from autumn_jobs.adapters.cscec8 import crawl_cscec8_jobs, load_cscec8_settings
 from autumn_jobs.adapters.guopinleida import crawl_guopinleida_jobs, load_guopinleida_settings
 from autumn_jobs.pipeline import run_pipeline
@@ -39,6 +40,12 @@ def main() -> None:
                 error=error.__class__.__name__,
             )
         )
+    try:
+        bucea_jobs = crawl_bucea_jobs(load_bucea_settings(Path("config/bucea.yaml")))
+        source_jobs["bucea"] = bucea_jobs
+        health.append(SourceHealth(source_id="bucea", status="ok", discovered=len(bucea_jobs)))
+    except (httpx.HTTPError, TypeError) as error:
+        health.append(SourceHealth(source_id="bucea", status="failed", discovered=0, error=error.__class__.__name__))
     try:
         guopinleida_jobs = crawl_guopinleida_jobs(load_guopinleida_settings(Path("config/guopinleida.yaml")))
         source_jobs["guopinleida"] = guopinleida_jobs

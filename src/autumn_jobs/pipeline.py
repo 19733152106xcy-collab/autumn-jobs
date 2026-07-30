@@ -6,7 +6,7 @@ from pathlib import Path
 
 from autumn_jobs.availability import is_active_job
 from autumn_jobs.deduplication import deduplicate_jobs
-from autumn_jobs.matching import match_job
+from autumn_jobs.matching import classify_opportunity, match_job
 from autumn_jobs.models import JobBusiness, PipelineResult, RawJob
 from autumn_jobs.normalization import (
     make_fingerprint,
@@ -47,6 +47,7 @@ def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
         verification_status=raw.verification_status,
         source_name=raw.source_name,
         official_apply_url=normalize_url(raw.official_apply_url) if raw.official_apply_url else None,
+        opportunity_type=classify_opportunity(raw.title, raw.description),
     )
 
 
@@ -54,7 +55,7 @@ def _public_payload(jobs: list[JobBusiness], today: date) -> dict[str, object]:
     public_fields = [
         "fingerprint", "company", "title", "location", "deadline", "publish_date", "first_seen",
         "category", "match_level", "apply_url", "detail_url", "source_type", "verification_status",
-        "source_name", "official_apply_url", "status",
+        "source_name", "official_apply_url", "opportunity_type", "status",
     ]
     rows = [{field: job.model_dump(mode="json")[field] for field in public_fields} for job in jobs if job.status == "active"]
     rows.sort(key=lambda row: (row["first_seen"], row["company"], row["title"]), reverse=True)
