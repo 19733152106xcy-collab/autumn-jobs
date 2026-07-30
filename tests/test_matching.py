@@ -1,6 +1,16 @@
 from autumn_jobs.matching import match_job
 
 
+def test_excludes_water_supply_but_keeps_project_management():
+    assert match_job("水暖工程岗", "2027届本科建筑相关专业").included is False
+    assert match_job("项目管理岗", "2027届本科建筑相关专业").included is True
+
+
+def test_outputs_architecture_and_other_groups():
+    assert match_job("建筑设计师", "2027届本科建筑学").job_group == "architecture"
+    assert match_job("AI产品助理", "2027届本科专业不限").job_group == "other"
+
+
 def test_classifies_a_summer_internship_as_an_internship_opportunity():
     from autumn_jobs.matching import classify_opportunity
 

@@ -13,6 +13,7 @@
     "first_seen": "2026-07-27",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划"
@@ -50,6 +51,7 @@
     "first_seen": "2026-07-27",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "工程管理"
@@ -87,6 +89,7 @@
     "first_seen": "2026-07-27",
     "category": "智能建造",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "智能建造",
       "工程管理"
@@ -122,6 +125,7 @@
     "first_seen": "2026-07-27",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计"
     ],
@@ -158,6 +162,7 @@
     "first_seen": "2026-07-27",
     "category": "智能建造",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "智能建造",
       "工程管理"
@@ -195,6 +200,7 @@
     "first_seen": "2026-07-27",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -231,6 +237,7 @@
     "first_seen": "2026-07-27",
     "category": "智能建造",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "智能建造"
     ],
@@ -265,6 +272,7 @@
     "first_seen": "2026-07-27",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -301,6 +309,7 @@
     "first_seen": "2026-07-26",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计"
     ],
@@ -337,6 +346,7 @@
     "first_seen": "2026-07-27",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -373,6 +383,7 @@
     "first_seen": "2026-07-27",
     "category": "智能建造",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "智能建造"
     ],
@@ -409,6 +420,7 @@
     "first_seen": "2026-07-27",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划"
@@ -446,6 +458,7 @@
     "first_seen": "2026-07-26",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -480,6 +493,7 @@
     "first_seen": "2026-07-30",
     "category": "数据运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "数据运营",
       "专业不限"
@@ -515,6 +529,7 @@
     "first_seen": "2026-07-30",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划",
@@ -553,6 +568,7 @@
     "first_seen": "2026-07-30",
     "category": "项目实施",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "项目实施",
       "工程"
@@ -588,6 +604,7 @@
     "first_seen": "2026-07-30",
     "category": "建筑可视化",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑可视化"
     ],
@@ -624,6 +641,7 @@
     "first_seen": "2026-07-30",
     "category": "项目实施",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "项目实施",
       "工程"
@@ -659,6 +677,7 @@
     "first_seen": "2026-07-30",
     "category": "BIM",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "BIM",
       "项目管理",
@@ -698,6 +717,7 @@
     "first_seen": "2026-07-30",
     "category": "项目实施",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "项目实施",
       "工程"
@@ -733,6 +753,7 @@
     "first_seen": "2026-07-30",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -767,6 +788,7 @@
     "first_seen": "2026-07-30",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "效果图"
@@ -804,6 +826,7 @@
     "first_seen": "2026-07-30",
     "category": "招投标",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "招投标"
     ],
@@ -838,6 +861,7 @@
     "first_seen": "2026-07-30",
     "category": "工程咨询",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程咨询"
     ],
@@ -861,41 +885,6 @@
     "status": "active"
   },
   {
-    "fingerprint": "83b5522d48cdc10b0fc430b78cf513dd7ffc32183f9c2cec48c0fcdb994353b8",
-    "source_id": "bucea",
-    "source_job_id": "124758:24223",
-    "company": "北京恒石道路科技集团",
-    "title": "北京恒石道路科技集团有限公司",
-    "location": [
-      "北京朝阳区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-03",
-    "first_seen": "2026-07-30",
-    "category": "管培生",
-    "match_level": "C",
-    "match_reasons": [
-      "管培生",
-      "专业不限"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24223&zpxxId=124758",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "status": "active"
-  },
-  {
     "fingerprint": "0cbf2f72bee24e51b4ab2c66dfbc78eb504b470660ed2910db5085188b0c905a",
     "source_id": "bucea",
     "source_job_id": "124753:24222",
@@ -909,6 +898,7 @@
     "first_seen": "2026-07-30",
     "category": "景观设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "景观设计"
     ],
@@ -945,6 +935,7 @@
     "first_seen": "2026-07-30",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "工程管理"
@@ -980,6 +971,7 @@
     "first_seen": "2026-07-30",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "文化遗产",
@@ -1018,6 +1010,7 @@
     "first_seen": "2026-07-30",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "产品"
@@ -1053,6 +1046,7 @@
     "first_seen": "2026-07-30",
     "category": "招投标",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "招投标"
     ],
@@ -1089,6 +1083,7 @@
     "first_seen": "2026-07-30",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -1124,6 +1119,7 @@
     "first_seen": "2026-07-30",
     "category": "城市更新",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城市更新",
       "城乡规划"
@@ -1161,6 +1157,7 @@
     "first_seen": "2026-07-30",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -1195,6 +1192,7 @@
     "first_seen": "2026-07-30",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -1229,6 +1227,7 @@
     "first_seen": "2026-07-30",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划",
@@ -1267,6 +1266,7 @@
     "first_seen": "2026-07-30",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划",
@@ -1305,6 +1305,7 @@
     "first_seen": "2026-07-30",
     "category": "景观设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "景观设计"
     ],
@@ -1339,6 +1340,7 @@
     "first_seen": "2026-07-30",
     "category": "景观设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "景观设计"
     ],
@@ -1357,44 +1359,6 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "internship",
-    "status": "active"
-  },
-  {
-    "fingerprint": "98f6d079223742fa2c04bdca98a67ac0cbf2242fe858b8fde7e4e48d89bcb2b6",
-    "source_id": "bucea",
-    "source_job_id": "124554:24155",
-    "company": "北京市西城区保障性住房运营管理",
-    "title": "水暖工程岗",
-    "location": [
-      "北京西城区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-06",
-    "first_seen": "2026-07-30",
-    "category": "设计管理",
-    "match_level": "B",
-    "match_reasons": [
-      "设计管理",
-      "项目管理",
-      "工程管理"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": null,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24155&zpxxId=124554",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
     "status": "active"
   },
   {
@@ -1425,6 +1389,7 @@
     "first_seen": "2026-07-28",
     "category": "综合管理",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "综合管理",
       "产品"
@@ -1460,6 +1425,7 @@
     "first_seen": "2026-07-28",
     "category": "数字孪生",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "数字孪生"
     ],
@@ -1496,6 +1462,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -1531,6 +1498,7 @@
     "first_seen": "2026-07-28",
     "category": "数字孪生",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "数字孪生"
     ],
@@ -1567,6 +1535,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "数据运营",
@@ -1624,6 +1593,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "工程管理"
@@ -1659,6 +1629,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "管培生",
@@ -1706,6 +1677,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -1746,6 +1718,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -1786,6 +1759,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -1821,6 +1795,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -1857,6 +1832,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -1894,6 +1870,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -1928,6 +1905,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -1963,6 +1941,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -2000,6 +1979,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -2034,6 +2014,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -2070,6 +2051,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -2105,6 +2087,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -2127,44 +2110,6 @@
     "status": "active"
   },
   {
-    "fingerprint": "40ecfffeec839824ed3273713e3f40fbadb99cb87f0290be30d0ba248d14fec3",
-    "source_id": "guopinleida",
-    "source_job_id": "6ea8de74-bc98-46ec-a198-b85cf3fe0de9",
-    "company": "施耐德电气",
-    "title": "施耐德电气2026 AI星火实习生招募中",
-    "location": [
-      "上海",
-      "北京",
-      "广州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-07-19",
-    "first_seen": "2026-07-28",
-    "category": "AI产品",
-    "match_level": "C",
-    "match_reasons": [
-      "AI产品",
-      "AI解决方案",
-      "设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "http://mp.weixin.qq.com/s?__biz=MzA3MTkyMzczNg%3D%3D&mid=2718141129&idx=1&sn=d71cf865b35c95556ca175f8514b9383&chksm=b8d10bbe8fa682a88fdd29c6d60f82f06d2379c2b34271bb6705d39959382286c6acf648c61b",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "internship",
-    "status": "active"
-  },
-  {
     "fingerprint": "4d7b611ea2c6208ee5039bb1110f7528129d485764de9a6e3280a256fb17bc53",
     "source_id": "guopinleida",
     "source_job_id": "6f741afd-7764-499b-8e21-fcafbb9588a9",
@@ -2178,6 +2123,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -2215,6 +2161,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -2250,6 +2197,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -2288,6 +2236,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -2325,6 +2274,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -2360,6 +2310,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -2401,6 +2352,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -2442,6 +2394,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "管培生",
@@ -2489,6 +2442,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -2524,6 +2478,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -2559,6 +2514,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "产品"
@@ -2597,6 +2553,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -2639,6 +2596,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -2680,6 +2638,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -2715,6 +2674,7 @@
     "first_seen": "2026-07-28",
     "category": "数字孪生",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "数字孪生"
     ],
@@ -2749,6 +2709,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -2784,6 +2745,7 @@
     "first_seen": "2026-07-28",
     "category": "城市更新",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城市更新",
       "文化遗产",
@@ -2826,6 +2788,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "AI"
@@ -2870,6 +2833,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计"
     ],
@@ -2910,6 +2874,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -2955,6 +2920,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "技术管理"
@@ -2991,6 +2957,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -3039,6 +3006,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -3082,6 +3050,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -3119,6 +3088,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3153,6 +3123,7 @@
     "first_seen": "2026-07-28",
     "category": "招投标",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "招投标"
     ],
@@ -3189,6 +3160,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -3252,6 +3224,7 @@
     "first_seen": "2026-07-28",
     "category": "技术管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "技术管理"
     ],
@@ -3286,6 +3259,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -3320,6 +3294,7 @@
     "first_seen": "2026-07-28",
     "category": "BIM",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "BIM",
       "项目管理",
@@ -3359,6 +3334,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "管培生",
@@ -3402,6 +3378,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3447,6 +3424,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -3482,6 +3460,7 @@
     "first_seen": "2026-07-28",
     "category": "智慧城市",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "智慧城市",
       "专业不限"
@@ -3518,6 +3497,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3554,6 +3534,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3592,6 +3573,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3626,6 +3608,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -3661,6 +3644,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -3697,6 +3681,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -3738,6 +3723,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "售前解决方案",
@@ -3777,6 +3763,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3811,6 +3798,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "工程管理"
@@ -3849,6 +3837,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划"
@@ -3899,6 +3888,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计"
     ],
@@ -3936,6 +3926,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -3970,6 +3961,7 @@
     "first_seen": "2026-07-28",
     "category": "售前解决方案",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "售前解决方案",
       "AI"
@@ -4006,6 +3998,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "设计"
@@ -4041,6 +4034,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -4077,6 +4071,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "AI"
@@ -4115,6 +4110,7 @@
     "first_seen": "2026-07-28",
     "category": "历史建筑保护",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "历史建筑保护",
       "文化遗产",
@@ -4153,6 +4149,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划"
@@ -4190,6 +4187,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "产品"
@@ -4225,6 +4223,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -4259,6 +4258,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "产品运营",
@@ -4295,6 +4295,7 @@
     "first_seen": "2026-07-28",
     "category": "项目实施",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "项目实施",
       "工程"
@@ -4330,6 +4331,7 @@
     "first_seen": "2026-07-30",
     "category": "技术管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "技术管理"
     ],
@@ -4364,6 +4366,7 @@
     "first_seen": "2026-07-28",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -4398,6 +4401,7 @@
     "first_seen": "2026-07-28",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -4437,6 +4441,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -4478,6 +4483,7 @@
     "first_seen": "2026-07-28",
     "category": "技术管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "技术管理"
     ],
@@ -4520,6 +4526,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -4558,6 +4565,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -4594,6 +4602,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -4630,6 +4639,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "管培生",
@@ -4666,6 +4676,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计"
     ],
@@ -4702,6 +4713,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -4736,6 +4748,7 @@
     "first_seen": "2026-07-28",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -4770,6 +4783,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "设计"
@@ -4806,6 +4820,7 @@
     "first_seen": "2026-07-30",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -4844,6 +4859,7 @@
     "first_seen": "2026-07-28",
     "category": "项目实施",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "项目实施",
       "产品"
@@ -4879,6 +4895,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -4914,6 +4931,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -4949,6 +4967,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -4984,6 +5003,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划",
@@ -5022,6 +5042,7 @@
     "first_seen": "2026-07-28",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -5062,6 +5083,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "AI应用",
@@ -5100,6 +5122,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -5135,6 +5158,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城市更新",
@@ -5176,6 +5200,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5213,6 +5238,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -5248,6 +5274,7 @@
     "first_seen": "2026-07-28",
     "category": "数据运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "数据运营",
       "工程"
@@ -5283,6 +5310,7 @@
     "first_seen": "2026-07-30",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -5322,6 +5350,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5356,6 +5385,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5396,6 +5426,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5408,40 +5439,6 @@
     },
     "apply_url": null,
     "detail_url": "http://mp.weixin.qq.com/s?__biz=MTkyNTM0MzA4MQ%3D%3D&mid=2650969681&idx=1&sn=b5e2df21f33cb902a9ac8697dfd8180e&chksm=410ba657767c2f418b0521b8a27bc3ac192c71596f149f1fec827e9cad13b3d38c23e9c885cc",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "internship",
-    "status": "active"
-  },
-  {
-    "fingerprint": "a41bd6fb28ec6f5ac1515db9d43e147b79acea9f51baa1b7efb8228d12af6bce",
-    "source_id": "guopinleida",
-    "source_job_id": "48225a9a-6331-4c38-9132-17dd1c0dc1ff",
-    "company": "康尼机电",
-    "title": "康尼机电2027届实习生招募",
-    "location": [
-      "南京"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-26",
-    "first_seen": "2026-07-28",
-    "category": "技术管理",
-    "match_level": "B",
-    "match_reasons": [
-      "技术管理"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/hMe27ZkY9G5G0xitLDfyqw",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -5464,6 +5461,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "AI应用",
@@ -5501,6 +5499,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5543,6 +5542,7 @@
     "first_seen": "2026-07-30",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "专业不限"
@@ -5578,6 +5578,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5612,6 +5613,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "AI"
@@ -5647,6 +5649,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -5687,6 +5690,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "AI"
@@ -5726,6 +5730,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -5765,6 +5770,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5799,6 +5805,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -5833,6 +5840,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "产品"
@@ -5868,6 +5876,7 @@
     "first_seen": "2026-07-28",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -5916,6 +5925,7 @@
     "first_seen": "2026-07-28",
     "category": "BIM",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "BIM",
       "设计管理"
@@ -5952,6 +5962,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -5991,6 +6002,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -6026,6 +6038,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -6061,6 +6074,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -6097,6 +6111,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划",
@@ -6135,6 +6150,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -6170,6 +6186,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "产品"
@@ -6216,6 +6233,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "产品运营",
@@ -6260,6 +6278,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -6295,6 +6314,7 @@
     "first_seen": "2026-07-28",
     "category": "数字孪生",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "数字孪生",
       "项目管理"
@@ -6332,6 +6352,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -6366,6 +6387,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -6408,6 +6430,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -6442,6 +6465,7 @@
     "first_seen": "2026-07-28",
     "category": "数字孪生",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "数字孪生"
     ],
@@ -6476,6 +6500,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "设计"
@@ -6513,6 +6538,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -6548,6 +6574,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -6584,6 +6611,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -6621,6 +6649,7 @@
     "first_seen": "2026-07-28",
     "category": "综合管理",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "综合管理",
       "工程"
@@ -6656,6 +6685,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -6700,6 +6730,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -6742,6 +6773,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -6778,6 +6810,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -6813,6 +6846,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -6867,6 +6901,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -6903,6 +6938,7 @@
     "first_seen": "2026-07-28",
     "category": "技术管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "技术管理"
     ],
@@ -6947,6 +6983,7 @@
     "first_seen": "2026-07-28",
     "category": "数字孪生",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "数字孪生"
     ],
@@ -6982,6 +7019,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -7020,6 +7058,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -7055,6 +7094,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "AI应用",
@@ -7095,6 +7135,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -7130,6 +7171,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -7164,6 +7206,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -7205,6 +7248,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "专业不限"
@@ -7269,6 +7313,7 @@
     "first_seen": "2026-07-28",
     "category": "项目实施",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "项目实施",
       "产品"
@@ -7304,6 +7349,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "AI"
@@ -7342,6 +7388,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "AI应用",
@@ -7381,6 +7428,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "专业不限"
@@ -7422,6 +7470,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -7456,6 +7505,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "AI"
@@ -7495,6 +7545,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -7535,6 +7586,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -7570,6 +7622,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"
@@ -7605,6 +7658,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -7644,6 +7698,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -7679,6 +7734,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"
@@ -7718,6 +7774,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "产品运营",
@@ -7756,6 +7813,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -7791,6 +7849,7 @@
     "first_seen": "2026-07-28",
     "category": "数据运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "数据运营",
       "工程"
@@ -7834,6 +7893,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "产品运营",
@@ -7872,6 +7932,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"
@@ -7909,6 +7970,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -7944,6 +8006,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -7988,6 +8051,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "专业不限"
@@ -8030,6 +8094,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -8066,6 +8131,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -8101,6 +8167,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "管培生",
@@ -8140,6 +8207,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"
@@ -8181,6 +8249,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -8216,6 +8285,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -8293,6 +8363,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -8330,6 +8401,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -8374,6 +8446,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -8410,6 +8483,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "设计"
@@ -8445,6 +8519,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "设计"
@@ -8486,6 +8561,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "专业不限"
@@ -8522,6 +8598,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -8561,6 +8638,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "AI应用",
@@ -8598,6 +8676,7 @@
     "first_seen": "2026-07-28",
     "category": "建筑设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "建筑设计",
       "城乡规划"
@@ -8635,6 +8714,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -8670,6 +8750,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "AI"
@@ -8720,6 +8801,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -8764,6 +8846,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -8798,6 +8881,7 @@
     "first_seen": "2026-07-28",
     "category": "数据运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "数据运营",
       "设计"
@@ -8839,6 +8923,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -8878,6 +8963,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -8914,6 +9000,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "管培生",
@@ -8956,6 +9043,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -8990,6 +9078,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9031,6 +9120,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "建筑"
@@ -9072,6 +9162,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "工程"
@@ -9111,6 +9202,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9149,6 +9241,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9185,6 +9278,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"
@@ -9225,6 +9319,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"
@@ -9263,6 +9358,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "设计"
@@ -9300,6 +9396,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -9336,6 +9433,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -9374,6 +9472,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "设计"
@@ -9409,6 +9508,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -9453,6 +9553,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "AI应用",
@@ -9491,6 +9592,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9529,6 +9631,7 @@
     "first_seen": "2026-07-28",
     "category": "综合管理",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "综合管理",
       "工程"
@@ -9569,6 +9672,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "设计"
@@ -9604,6 +9708,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9639,6 +9744,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -9678,6 +9784,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9712,6 +9819,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9767,6 +9875,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -9807,6 +9916,7 @@
     "first_seen": "2026-07-28",
     "category": "AI应用",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI应用",
       "管培生",
@@ -9849,6 +9959,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -9884,6 +9995,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "产品"
@@ -9921,6 +10033,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -9961,6 +10074,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "管培生",
@@ -9997,6 +10111,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -10034,6 +10149,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -10069,6 +10185,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -10106,6 +10223,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -10140,6 +10258,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "技术管理"
@@ -10175,6 +10294,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "专业不限"
@@ -10210,6 +10330,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -10245,6 +10366,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "设计"
@@ -10282,6 +10404,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -10316,6 +10439,7 @@
     "first_seen": "2026-07-28",
     "category": "景观设计",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "景观设计"
     ],
@@ -10352,6 +10476,7 @@
     "first_seen": "2026-07-28",
     "category": "AI产品",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "AI产品",
       "工程"
@@ -10388,6 +10513,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "工程"
@@ -10515,6 +10641,7 @@
     "first_seen": "2026-07-28",
     "category": "综合管理",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "综合管理",
       "产品"
@@ -10551,6 +10678,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -10585,6 +10713,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "产品"
@@ -10620,6 +10749,7 @@
     "first_seen": "2026-07-28",
     "category": "工程管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "工程管理"
     ],
@@ -10654,6 +10784,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理",
       "工程管理"
@@ -10718,6 +10849,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -10753,6 +10885,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -10788,6 +10921,7 @@
     "first_seen": "2026-07-28",
     "category": "城乡规划",
     "match_level": "A",
+    "job_group": "architecture",
     "match_reasons": [
       "城乡规划"
     ],
@@ -10826,6 +10960,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -10864,6 +10999,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "设计"
@@ -10914,6 +11050,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -10951,6 +11088,7 @@
     "first_seen": "2026-07-28",
     "category": "项目管理",
     "match_level": "B",
+    "job_group": "architecture",
     "match_reasons": [
       "项目管理"
     ],
@@ -11007,6 +11145,7 @@
     "first_seen": "2026-07-28",
     "category": "管培生",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "管培生",
       "管培生"
@@ -11042,6 +11181,7 @@
     "first_seen": "2026-07-28",
     "category": "产品运营",
     "match_level": "C",
+    "job_group": "other",
     "match_reasons": [
       "产品运营",
       "工程"

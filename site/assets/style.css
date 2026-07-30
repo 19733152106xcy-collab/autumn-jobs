@@ -20,5 +20,8 @@ th { color: #68737d; font-size: 14px; font-weight: 600; }
 .opportunity-full_time { color: #256029; background: #e8f5e9; }
 .opportunity-internship { color: #315f9a; background: #e2efff; }
 .opportunity-mixed { color: #71509a; background: #f0e5ff; }
+.company-count { margin-left: 8px; color: #176b5b; background: #e1f3ee; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
+.expand { min-height: auto; color: #176b5b; background: #fff; border-color: #176b5b; padding: 6px 10px; }
+.job-detail td { background: #fafcfc; }
 #empty, #error { margin: 18px 0; padding: 14px; background: #fff4df; border-radius: 8px; }
 @media (max-width: 760px) { .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); } #search { grid-column: span 2; } th, td { padding: 12px; } }

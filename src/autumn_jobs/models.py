@@ -46,6 +46,7 @@ class JobBusiness(BaseModel):
     first_seen: date
     category: str
     match_level: Literal["A", "B", "C"]
+    job_group: Literal["architecture", "other"] = "other"
     match_reasons: list[str]
     requirements: StructuredRequirements
     apply_url: str | None = None
@@ -72,6 +73,7 @@ class MatchResult(BaseModel):
     included: bool
     level: Literal["A", "B", "C"] | None = None
     category: str | None = None
+    job_group: Literal["architecture", "other"] | None = None
     reasons: list[str] = Field(default_factory=list)
     requirements: StructuredRequirements = Field(default_factory=StructuredRequirements)
 

@@ -66,16 +66,27 @@ def match_job(title: str, description: str) -> MatchResult:
         or requirements.qualification_required
     ):
         return MatchResult(included=False, reasons=["明确硬性条件不匹配"], requirements=requirements)
+    if _contains(title, rules["title_only_exclude"]):
+        return MatchResult(included=False, reasons=["明确不匹配专项技术岗"], requirements=requirements)
     if _contains(text, rules["irrelevant"]):
         return MatchResult(included=False, reasons=["明确无关岗位"], requirements=requirements)
     direct = _contains(text, rules["direct"])
     if direct:
-        return MatchResult(included=True, level="A", category=direct[0], reasons=direct, requirements=requirements)
+        return MatchResult(
+            included=True, level="A", category=direct[0], job_group="architecture", reasons=direct,
+            requirements=requirements,
+        )
     related = _contains(text, rules["related"])
     if related:
-        return MatchResult(included=True, level="B", category=related[0], reasons=related, requirements=requirements)
+        return MatchResult(
+            included=True, level="B", category=related[0], job_group="architecture", reasons=related,
+            requirements=requirements,
+        )
     cross = _contains(text, rules["cross_industry"])
     relevance = _contains(text, rules["cross_relevance"])
     if cross and relevance:
-        return MatchResult(included=True, level="C", category=cross[0], reasons=cross + relevance[:1], requirements=requirements)
+        return MatchResult(
+            included=True, level="C", category=cross[0], job_group="other", reasons=cross + relevance[:1],
+            requirements=requirements,
+        )
     return MatchResult(included=False, reasons=["未达到C类最低相关性"], requirements=requirements)
