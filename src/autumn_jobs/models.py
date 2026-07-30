@@ -47,6 +47,8 @@ class JobBusiness(BaseModel):
     category: str
     match_level: Literal["A", "B", "C"]
     job_group: Literal["architecture", "other"] = "other"
+    priority_rank: Literal[1, 2, 3, 4] = 4
+    priority_label: str = "备选关注"
     match_reasons: list[str]
     requirements: StructuredRequirements
     apply_url: str | None = None

@@ -27,6 +27,16 @@ export function groupJobsByCompany(jobs) {
   return [...groups.values()];
 }
 
+export function sortJobs(jobs, order) {
+  return [...jobs].sort((left, right) => {
+    if (order === "优先级") {
+      return (left.priority_rank ?? 4) - (right.priority_rank ?? 4)
+        || right.first_seen.localeCompare(left.first_seen);
+    }
+    return right.first_seen.localeCompare(left.first_seen);
+  });
+}
+
 let savedStatuses = {};
 
 export function setJobStatus(statuses, fingerprint, status) {
@@ -48,6 +58,7 @@ export function resolveApplyUrl(job) {
 
 function verificationLabel(job) { return job.verification_status === "pending" ? "待核验" : "已核验"; }
 function opportunityLabel(job) { return { full_time: "正式岗", internship: "实习", mixed: "正式/实习" }[job.opportunity_type] || "机会"; }
+function priorityLabel(job) { return job.priority_label || "备选关注"; }
 
 function optionValues(jobs, field) {
   const values = new Set();
@@ -66,7 +77,7 @@ function formatDeadline(value) {
 function jobRow(job, groupId) {
   return `<tr class="job-detail" data-group="${groupId}" hidden>
     <td></td>
-    <td>${job.title}<span class="opportunity-${job.opportunity_type || "full_time"}">${opportunityLabel(job)}</span><span class="verification-${job.verification_status === "pending" ? "pending" : "official"}">${verificationLabel(job)}</span></td>
+    <td>${job.title}<span class="priority-${job.priority_rank || 4}">${priorityLabel(job)}</span><span class="opportunity-${job.opportunity_type || "full_time"}">${opportunityLabel(job)}</span><span class="verification-${job.verification_status === "pending" ? "pending" : "official"}">${verificationLabel(job)}</span></td>
     <td>${job.location.join("、")}</td>
     <td>${formatDeadline(job.deadline)}</td>
     <td><a class="apply" href="${resolveApplyUrl(job)}" target="_blank" rel="noopener noreferrer">立即投递</a><button class="mark-job" type="button" data-status="applied" data-fingerprint="${job.fingerprint}">已投递</button><button class="mark-job" type="button" data-status="not_interested" data-fingerprint="${job.fingerprint}">不感兴趣</button></td>
@@ -95,8 +106,7 @@ function saveJobStatuses(statuses) {
 
 function render(jobs, state, statuses) {
   const partitioned = partitionJobsByStatus(jobs, statuses);
-  const visible = filterJobs(searchJobs(partitioned.pending, state.query), state);
-  if (state.order === "更新时间") visible.sort((a, b) => b.first_seen.localeCompare(a.first_seen));
+  const visible = sortJobs(filterJobs(searchJobs(partitioned.pending, state.query), state), state.order);
   const groups = groupJobsByCompany(visible);
   const body = document.querySelector("#jobs-body");
   body.innerHTML = groups.map((group, index) => {
@@ -105,7 +115,7 @@ function render(jobs, state, statuses) {
     return `
     <tr>
       <td>${group.company}</td>
-      <td>${primary.title}<span class="company-count">共 ${group.jobs.length} 个岗位</span></td>
+      <td>${primary.title}<span class="priority-${primary.priority_rank || 4}">${priorityLabel(primary)}</span><span class="company-count">共 ${group.jobs.length} 个岗位</span></td>
       <td>${locations}</td>
       <td>${formatDeadline(primary.deadline)}</td>
       <td><button class="expand" type="button" data-group="${index}">展开</button></td>
@@ -149,7 +159,7 @@ async function boot() {
   document.querySelector("#updated").textContent = `最近更新：${status.updated_date || "未更新"}`;
   fillSelect(document.querySelector("#category"), optionValues(jobs, "category"));
   fillSelect(document.querySelector("#city"), optionValues(jobs, "location"));
-  const state = { query: "", category: "全部", jobGroup: "", city: "全部", level: "全部", opportunity: "", verification: "", order: "更新时间", todayOnly: false };
+  const state = { query: "", category: "全部", jobGroup: "", city: "全部", level: "全部", opportunity: "", verification: "", order: "优先级", todayOnly: false };
   const controls = { query: "#search", category: "#category", jobGroup: "#job-group", city: "#city", level: "#level", opportunity: "#opportunity-filter", verification: "#verification-filter", order: "#order" };
   Object.entries(controls).forEach(([key, selector]) => document.querySelector(selector).addEventListener("input", (event) => { state[key] = event.target.value; render(jobs, state, savedStatuses); }));
   document.querySelector("#today").addEventListener("click", () => { state.todayOnly = !state.todayOnly; render(jobs, state, savedStatuses); });

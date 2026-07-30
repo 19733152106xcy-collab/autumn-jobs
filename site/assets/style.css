@@ -20,6 +20,11 @@ th { color: #68737d; font-size: 14px; font-weight: 600; }
 .opportunity-full_time { color: #256029; background: #e8f5e9; }
 .opportunity-internship { color: #315f9a; background: #e2efff; }
 .opportunity-mixed { color: #71509a; background: #f0e5ff; }
+.priority-1, .priority-2, .priority-3, .priority-4 { margin-left: 8px; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
+.priority-1 { color: #9a1b1b; background: #ffe3e3; }
+.priority-2 { color: #9b5a00; background: #fff2d6; }
+.priority-3 { color: #315f9a; background: #e2efff; }
+.priority-4 { color: #68737d; background: #eef1f3; }
 .company-count { margin-left: 8px; color: #176b5b; background: #e1f3ee; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
 .expand { min-height: auto; color: #176b5b; background: #fff; border-color: #176b5b; padding: 6px 10px; }
 .job-detail td { background: #fafcfc; }
