@@ -23,5 +23,11 @@ th { color: #68737d; font-size: 14px; font-weight: 600; }
 .company-count { margin-left: 8px; color: #176b5b; background: #e1f3ee; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
 .expand { min-height: auto; color: #176b5b; background: #fff; border-color: #176b5b; padding: 6px 10px; }
 .job-detail td { background: #fafcfc; }
+.mark-job, .undo-job { min-height: auto; margin: 6px 0 0 6px; padding: 6px 8px; font-size: 12px; }
+.saved-statuses { margin-top: 18px; }
+.saved-statuses details { margin: 10px 0; padding: 12px 14px; background: #fff; border: 1px solid #e1e6e9; border-radius: 8px; }
+.saved-statuses summary { cursor: pointer; font-weight: 600; }
+.saved-company { margin-top: 10px; padding-top: 10px; border-top: 1px solid #eef1f3; }
+.saved-company div { margin-top: 6px; }
 #empty, #error { margin: 18px 0; padding: 14px; background: #fff4df; border-radius: 8px; }
 @media (max-width: 760px) { .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); } #search { grid-column: span 2; } th, td { padding: 12px; } }
