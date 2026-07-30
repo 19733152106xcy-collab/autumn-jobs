@@ -15,6 +15,10 @@ def test_pipeline_filters_deduplicates_and_writes_public_json(tmp_path):
                 location=["北京"],
                 detail_url="https://official.example.cn/job/1?utm_source=test",
                 apply_url="https://official.example.cn/apply/1",
+                official_apply_url="https://official.example.cn/apply/1",
+                source_type="official",
+                verification_status="official",
+                source_name="Official example system",
                 description="2027届本科，建筑学及相关专业",
             )
         ],
@@ -36,6 +40,10 @@ def test_pipeline_filters_deduplicates_and_writes_public_json(tmp_path):
     assert result.publish_required is True
     assert len(payload["jobs"]) == 1
     assert payload["jobs"][0]["apply_url"] == "https://official.example.cn/apply/1"
+    assert payload["jobs"][0]["official_apply_url"] == "https://official.example.cn/apply/1"
+    assert payload["jobs"][0]["verification_status"] == "official"
+    assert payload["jobs"][0]["source_name"] == "Official example system"
+    assert payload["jobs"][0]["opportunity_type"] == "full_time"
     assert "description" not in payload["jobs"][0]
 
 

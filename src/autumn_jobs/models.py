@@ -27,6 +27,11 @@ class RawJob(BaseModel):
     deadline: date | None = None
     publish_date: date | None = None
     official_status: Literal["open", "closed", "unknown", "suspect"] = "unknown"
+    source_type: Literal["official", "state_owned_platform", "university", "job_board", "public_article"] = "public_article"
+    verification_status: Literal["official", "verified", "pending"] = "pending"
+    source_name: str | None = None
+    official_apply_url: str | None = None
+    opportunity_type: Literal["full_time", "internship", "mixed"] = "full_time"
 
 
 class JobBusiness(BaseModel):
@@ -46,6 +51,11 @@ class JobBusiness(BaseModel):
     apply_url: str | None = None
     detail_url: str
     alternate_sources: list[str] = Field(default_factory=list)
+    source_type: Literal["official", "state_owned_platform", "university", "job_board", "public_article"] = "public_article"
+    verification_status: Literal["official", "verified", "pending"] = "pending"
+    source_name: str | None = None
+    official_apply_url: str | None = None
+    opportunity_type: Literal["full_time", "internship", "mixed"] = "full_time"
     status: Literal["active", "inactive"] = "active"
 
 

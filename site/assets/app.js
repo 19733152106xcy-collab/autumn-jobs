@@ -8,15 +8,20 @@ export function filterJobs(jobs, filters) {
   return jobs.filter((job) => {
     const cityOk = !filters.city || filters.city === "全部" || job.location.includes(filters.city);
     const levelOk = !filters.level || filters.level === "全部" || job.match_level === filters.level;
+    const opportunityOk = !filters.opportunity || job.opportunity_type === filters.opportunity;
+    const verificationOk = !filters.verification || (filters.verification === "verified" ? job.verification_status !== "pending" : job.verification_status === "pending");
     const categoryOk = !filters.category || filters.category === "全部" || job.category === filters.category;
     const todayOk = !filters.todayOnly || job.first_seen === new Date().toISOString().slice(0, 10);
-    return cityOk && levelOk && categoryOk && todayOk && job.status === "active";
+    return cityOk && levelOk && opportunityOk && verificationOk && categoryOk && todayOk && job.status === "active";
   });
 }
 
 export function resolveApplyUrl(job) {
-  return job.apply_url || job.detail_url;
+  return job.official_apply_url || job.apply_url || job.detail_url;
 }
+
+function verificationLabel(job) { return job.verification_status === "pending" ? "待核验" : "已核验"; }
+function opportunityLabel(job) { return { full_time: "正式岗", internship: "实习", mixed: "正式/实习" }[job.opportunity_type] || "机会"; }
 
 function optionValues(jobs, field) {
   const values = new Set();
@@ -39,7 +44,7 @@ function render(jobs, state) {
   body.innerHTML = visible.map((job) => `
     <tr>
       <td>${job.company}</td>
-      <td>${job.title}${job.first_seen === new Date().toISOString().slice(0, 10) ? '<span class="badge">今日新增</span>' : ""}</td>
+      <td>${job.title}<span class="opportunity-${job.opportunity_type || "full_time"}">${opportunityLabel(job)}</span><span class="verification-${job.verification_status === "pending" ? "pending" : "official"}">${verificationLabel(job)}</span>${job.first_seen === new Date().toISOString().slice(0, 10) ? '<span class="badge">今日新增</span>' : ""}</td>
       <td>${job.location.join("、")}</td>
       <td>${formatDeadline(job.deadline)}</td>
       <td><a class="apply" href="${resolveApplyUrl(job)}" target="_blank" rel="noopener noreferrer">立即投递</a></td>
@@ -61,8 +66,8 @@ async function boot() {
   document.querySelector("#updated").textContent = `最近更新：${status.updated_date || "未更新"}`;
   fillSelect(document.querySelector("#category"), optionValues(jobs, "category"));
   fillSelect(document.querySelector("#city"), optionValues(jobs, "location"));
-  const state = { query: "", category: "全部", city: "全部", level: "全部", order: "更新时间", todayOnly: false };
-  const controls = { query: "#search", category: "#category", city: "#city", level: "#level", order: "#order" };
+  const state = { query: "", category: "全部", city: "全部", level: "全部", opportunity: "", verification: "", order: "更新时间", todayOnly: false };
+  const controls = { query: "#search", category: "#category", city: "#city", level: "#level", opportunity: "#opportunity-filter", verification: "#verification-filter", order: "#order" };
   Object.entries(controls).forEach(([key, selector]) => document.querySelector(selector).addEventListener("input", (event) => { state[key] = event.target.value; render(jobs, state); }));
   document.querySelector("#today").addEventListener("click", () => { state.todayOnly = !state.todayOnly; render(jobs, state); });
   document.querySelector("#all").addEventListener("click", () => { state.todayOnly = false; state.query = ""; document.querySelector("#search").value = ""; render(jobs, state); });
