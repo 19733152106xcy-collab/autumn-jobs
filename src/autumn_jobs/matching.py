@@ -10,11 +10,17 @@ from autumn_jobs.models import MatchResult, StructuredRequirements
 ELIGIBLE_MAJOR_PATTERNS = ("建筑学", "建筑类", "建筑相关", "工程类", "专业不限")
 POSTGRADUATE_ONLY_PATTERNS = (
     r"硕士及以上",
+    r"硕士以上",
     r"博士及以上",
+    r"博士以上",
+    r"研究生及以上",
+    r"研究生以上",
     r"仅限(?:硕士|博士|研究生)",
     r"仅招(?:硕士|博士|研究生)",
     r"(?:学历|学位)[：:]?\s*(?:硕士|博士|研究生)",
+    r"(?:硕士|博士|研究生).{0,6}(?:学历|学位)",
     r"(?:硕士研究生|博士研究生)",
+    r"全日制研究生",
     r"博士专项",
     r"博士后",
 )

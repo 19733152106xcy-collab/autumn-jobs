@@ -61,4 +61,10 @@ def test_description_from_other_roles_does_not_change_current_job_direction():
 
 def test_excludes_postgraduate_only_but_keeps_postgraduate_preferred():
     assert match_job("建筑设计岗", "硕士及以上学历，建筑学专业").included is False
+    assert match_job("建筑设计岗", "研究生及以上学历，建筑学专业").included is False
+    assert match_job("建筑设计岗", "建筑学专业，硕士学历").included is False
     assert match_job("建筑设计岗", "本科及以上，硕士优先，建筑学专业").included is True
+
+
+def test_excludes_teacher_roles_without_relying_on_missing_degree_data():
+    assert match_job("城乡规划学专业教师岗位", "建筑学相关专业").included is False

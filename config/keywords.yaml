@@ -70,6 +70,8 @@ irrelevant:
   - 会计师
   - 出纳
 title_only_exclude:
+  - 教师
+  - 教学岗
   - 景观
   - 园林
   - 风景园林
