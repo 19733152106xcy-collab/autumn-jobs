@@ -27,6 +27,7 @@ th { color: #68737d; font-size: 14px; font-weight: 600; }
 .priority-4 { color: #68737d; background: #eef1f3; }
 .company-count { margin-left: 8px; color: #176b5b; background: #e1f3ee; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
 .expand { min-height: auto; color: #176b5b; background: #fff; border-color: #176b5b; padding: 6px 10px; }
+.mark-company, .undo-company { min-height: auto; margin-left: 6px; padding: 6px 8px; font-size: 12px; }
 .job-detail td { background: #fafcfc; }
 .mark-job, .undo-job { min-height: auto; margin: 6px 0 0 6px; padding: 6px 8px; font-size: 12px; }
 .saved-statuses { margin-top: 18px; }

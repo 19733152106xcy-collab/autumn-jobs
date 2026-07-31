@@ -7,6 +7,24 @@ import yaml
 
 from autumn_jobs.models import MatchResult, StructuredRequirements
 
+ELIGIBLE_MAJOR_PATTERNS = ("建筑学", "建筑类", "建筑相关", "工程类", "专业不限")
+POSTGRADUATE_ONLY_PATTERNS = (
+    r"硕士及以上",
+    r"硕士以上",
+    r"博士及以上",
+    r"博士以上",
+    r"研究生及以上",
+    r"研究生以上",
+    r"仅限(?:硕士|博士|研究生)",
+    r"仅招(?:硕士|博士|研究生)",
+    r"(?:学历|学位)[：:]?\s*(?:硕士|博士|研究生)",
+    r"(?:硕士|博士|研究生).{0,6}(?:学历|学位)",
+    r"(?:硕士研究生|博士研究生)",
+    r"全日制研究生",
+    r"博士专项",
+    r"博士后",
+)
+
 
 def _keywords() -> dict[str, list[str]]:
     path = Path(__file__).parents[2] / "config" / "keywords.yaml"
@@ -16,6 +34,19 @@ def _keywords() -> dict[str, list[str]]:
 def _contains(value: str, words: list[str]) -> list[str]:
     lowered = value.lower()
     return [word for word in words if word.lower() in lowered]
+
+
+def _has_eligible_major(text: str) -> bool:
+    return any(pattern in text for pattern in ELIGIBLE_MAJOR_PATTERNS)
+
+
+def _requires_postgraduate(text: str) -> bool:
+    postgraduate_preferred = bool(
+        re.search(r"(?:硕士|博士|研究生).{0,6}优先|优先.{0,6}(?:硕士|博士|研究生)", text)
+    )
+    if postgraduate_preferred:
+        return False
+    return any(re.search(pattern, text) for pattern in POSTGRADUATE_ONLY_PATTERNS)
 
 
 def _requirements(text: str) -> StructuredRequirements:
@@ -42,24 +73,12 @@ def match_job(title: str, description: str) -> MatchResult:
     text = f"{title} {description}"
     rules = _keywords()
     requirements = _requirements(text)
-    postgraduate_preferred = bool(
-        re.search(r"(?:硕士|博士|研究生).{0,6}优先|优先.{0,6}(?:硕士|博士|研究生)", text)
-    )
-    hard_postgraduate = ("博士" in text or "硕士" in text or "研究生" in text) and any(
-        token in text for token in ("必须", "仅限", "仅招", "硕士及以上", "博士及以上")
-    ) and not postgraduate_preferred
-    degree_field_requires_postgraduate = bool(
-        re.search(r"(?:学历|学位).{0,6}(?:硕士|博士|研究生)|(?:硕士|博士|研究生).{0,6}(?:学历|学位)", text)
-    ) and not postgraduate_preferred
     wrong_year = any(year in text for year in ("2025届", "2026届", "已毕业")) and "2027" not in text
     social_recruitment = any(marker in text for marker in ("社会招聘", "社招")) and not (
         "2027" in text and any(marker in text for marker in ("校园招聘", "校招"))
     )
-    doctoral_only = any(marker in text for marker in ("博士专项", "博士后", "博士研究生"))
     if (
-        hard_postgraduate
-        or degree_field_requires_postgraduate
-        or doctoral_only
+        _requires_postgraduate(text)
         or wrong_year
         or social_recruitment
         or requirements.experience_required
@@ -68,21 +87,23 @@ def match_job(title: str, description: str) -> MatchResult:
         return MatchResult(included=False, reasons=["明确硬性条件不匹配"], requirements=requirements)
     if _contains(title, rules["title_only_exclude"]):
         return MatchResult(included=False, reasons=["明确不匹配专项技术岗"], requirements=requirements)
-    if _contains(text, rules["irrelevant"]):
+    if _contains(title, rules["irrelevant"]):
         return MatchResult(included=False, reasons=["明确无关岗位"], requirements=requirements)
-    direct = _contains(text, rules["direct"])
+    direct = _contains(title, rules["direct"])
+    if not direct and any(marker in title for marker in ("招聘", "校招", "秋招")):
+        direct = _contains(description, rules["direct"])
     if direct:
         return MatchResult(
             included=True, level="A", category=direct[0], job_group="architecture", reasons=direct,
             requirements=requirements,
         )
-    related = _contains(text, rules["related"])
-    if related:
+    related = _contains(title, rules["related"])
+    if related and _has_eligible_major(description):
         return MatchResult(
             included=True, level="B", category=related[0], job_group="architecture", reasons=related,
             requirements=requirements,
         )
-    cross = _contains(text, rules["cross_industry"])
+    cross = _contains(title, rules["cross_industry"])
     relevance = _contains(text, rules["cross_relevance"])
     if cross and relevance:
         return MatchResult(

@@ -1,6 +1,14 @@
 import assert from "node:assert/strict";
 
-import { filterJobs, groupJobsByCompany, partitionJobsByStatus, setJobStatus, sortJobs } from "../site/assets/app.js";
+import {
+  filterJobs,
+  groupJobsByCompany,
+  partitionJobsByCompanyStatus,
+  partitionJobsByStatus,
+  setCompanyStatus,
+  setJobStatus,
+  sortJobs,
+} from "../site/assets/app.js";
 
 const jobs = [
   { company: "甲设计院", title: "建筑设计岗", location: ["西安"], match_level: "A", category: "建筑设计", status: "active", opportunity_type: "full_time" },
@@ -40,3 +48,16 @@ const sorted = sortJobs([
 ], "优先级");
 
 assert.deepEqual(sorted.map((job) => job.company), ["建筑公司", "跨行公司"]);
+
+const companyStatuses = setCompanyStatus({}, "甲设计院", "not_interested");
+assert.deepEqual(companyStatuses, { "甲设计院": "not_interested" });
+
+const companyPartition = partitionJobsByCompanyStatus([
+  { fingerprint: "job-1", company: "甲设计院" },
+  { fingerprint: "job-2", company: "甲设计院" },
+  { fingerprint: "job-3", company: "乙科技" },
+], companyStatuses);
+
+assert.deepEqual(companyPartition.pending.map((job) => job.fingerprint), ["job-3"]);
+assert.deepEqual(companyPartition.not_interested.map((job) => job.fingerprint), ["job-1", "job-2"]);
+assert.deepEqual(setCompanyStatus(companyStatuses, "甲设计院", null), {});
