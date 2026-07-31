@@ -84,6 +84,8 @@ def match_job(title: str, description: str) -> MatchResult:
     if _contains(title, rules["irrelevant"]):
         return MatchResult(included=False, reasons=["明确无关岗位"], requirements=requirements)
     direct = _contains(title, rules["direct"])
+    if not direct and any(marker in title for marker in ("招聘", "校招", "秋招")):
+        direct = _contains(description, rules["direct"])
     if direct:
         return MatchResult(
             included=True, level="A", category=direct[0], job_group="architecture", reasons=direct,
