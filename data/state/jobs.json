@@ -37,6 +37,29 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
     "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 82,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 21,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "实习岗位，需确认转正机会"
+    ],
     "status": "active"
   },
   {
@@ -76,6 +99,28 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
     "status": "active"
   },
   {
@@ -115,6 +160,27 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 78,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 5
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
     "status": "active"
   },
   {
@@ -154,6 +220,28 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
     "status": "active"
   },
   {
@@ -194,6 +282,28 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
     "status": "active"
   },
   {
@@ -232,6 +342,27 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 52,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 11,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
     "status": "active"
   },
   {
@@ -271,6 +402,27 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
     "status": "active"
   },
   {
@@ -310,6 +462,27 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 20,
+      "ability_match": 16,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "建筑与AI复合背景可发挥",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
     "status": "active"
   },
   {
@@ -349,6 +522,28 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 88,
+    "score_breakdown": {
+      "compensation_platform": 33,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 3
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "头部建筑设计平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
     "status": "active"
   },
   {
@@ -387,6 +582,27 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 52,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 11,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
     "status": "active"
   },
   {
@@ -425,6 +641,27 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 52,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 11,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
     "status": "active"
   },
   {
@@ -464,6 +701,29 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 70,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 15,
+      "ability_match": 16,
+      "growth": 8,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "建筑与AI复合背景可发挥",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
     "status": "active"
   },
   {
@@ -505,6 +765,28 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部科技或金融平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -544,6 +826,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 72,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 10,
+      "ability_match": 15,
+      "growth": 9,
+      "application_cost": 2
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "头部科技或金融平台估算",
+      "建筑与AI复合背景可发挥"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验",
+      "实习岗位，需确认转正机会"
+    ],
     "status": "active"
   },
   {
@@ -584,6 +889,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -622,6 +947,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -660,6 +1005,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -698,6 +1063,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -739,6 +1124,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 71,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 13,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -777,6 +1185,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -829,6 +1257,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 33,
+      "interview_probability": 13,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部建筑设计平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -873,6 +1324,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 33,
+      "interview_probability": 13,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部建筑设计平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -913,6 +1387,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 76,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 18,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验",
+      "实习岗位，需确认转正机会"
+    ],
     "status": "active"
   },
   {
@@ -952,6 +1449,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 76,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 18,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验",
+      "实习岗位，需确认转正机会"
+    ],
     "status": "active"
   },
   {
@@ -991,6 +1511,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 33,
+      "interview_probability": 13,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部建筑设计平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1031,6 +1574,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 1
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1071,6 +1637,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1110,6 +1696,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 33,
+      "interview_probability": 13,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部建筑设计平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1147,6 +1756,28 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 62,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 13,
+      "ability_match": 20,
+      "growth": 5,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1189,6 +1820,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 79,
+    "score_breakdown": {
+      "compensation_platform": 33,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 1
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部建筑设计平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1237,6 +1891,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1278,6 +1952,28 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部科技或金融平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1316,6 +2012,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "internship",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 45,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 5,
+      "ability_match": 11,
+      "growth": 5,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1396,6 +2112,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1435,6 +2171,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "mixed",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 55,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 14,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "可作为补充机会，先核验关键信息",
+    "score_strengths": [],
+    "score_risks": [
+      "公司与待遇信息不足",
+      "投递信息仍待核验",
+      "实习岗位，需确认转正机会"
+    ],
     "status": "active"
   },
   {
@@ -1479,6 +2235,29 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 71,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 15,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部科技或金融平台估算",
+      "建筑与AI复合背景可发挥"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1520,6 +2299,27 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 72,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 22,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1558,6 +2358,26 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   },
   {
@@ -1597,6 +2417,28 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
     "status": "active"
   }
 ]

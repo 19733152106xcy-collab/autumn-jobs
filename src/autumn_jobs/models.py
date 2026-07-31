@@ -59,6 +59,16 @@ class JobBusiness(BaseModel):
     source_name: str | None = None
     official_apply_url: str | None = None
     opportunity_type: Literal["full_time", "internship", "mixed"] = "full_time"
+    eligibility_status: Literal["eligible", "needs_confirmation"] = "needs_confirmation"
+    eligibility_label: str = "需确认"
+    score_total: int = 0
+    score_breakdown: dict[str, int] = Field(default_factory=dict)
+    salary_band: str = "待确认"
+    salary_basis: Literal["明确", "估算", "待确认"] = "待确认"
+    score_confidence: Literal["高", "中", "低"] = "低"
+    score_summary: str = "暂未评分"
+    score_strengths: list[str] = Field(default_factory=list)
+    score_risks: list[str] = Field(default_factory=list)
     status: Literal["active", "inactive"] = "active"
 
 

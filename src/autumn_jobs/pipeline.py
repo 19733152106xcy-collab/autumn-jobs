@@ -15,6 +15,7 @@ from autumn_jobs.normalization import (
     normalize_title,
     normalize_url,
 )
+from autumn_jobs.scoring import score_job
 from autumn_jobs.state import load_jobs, write_jobs
 
 
@@ -43,6 +44,7 @@ def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
     title = normalize_title(raw.title)
     locations = normalize_locations(raw.location)
     priority_rank, priority_label = _priority(matched, raw)
+    scoring = score_job(raw, matched)
     return JobBusiness(
         fingerprint=make_fingerprint(company, title, locations),
         source_id=raw.source_id,
@@ -67,6 +69,7 @@ def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
         source_name=raw.source_name,
         official_apply_url=normalize_url(raw.official_apply_url) if raw.official_apply_url else None,
         opportunity_type=classify_opportunity(raw.title, raw.description),
+        **scoring.model_dump(),
     )
 
 
@@ -76,6 +79,9 @@ def _public_payload(jobs: list[JobBusiness], today: date) -> dict[str, object]:
         "category", "match_level", "apply_url", "detail_url", "source_type", "verification_status",
         "source_name", "official_apply_url", "opportunity_type", "job_group", "priority_rank",
         "priority_label", "status",
+        "eligibility_status", "eligibility_label", "score_total", "score_breakdown",
+        "salary_band", "salary_basis", "score_confidence", "score_summary",
+        "score_strengths", "score_risks",
     ]
     rows = [{field: job.model_dump(mode="json")[field] for field in public_fields} for job in jobs if job.status == "active"]
     rows.sort(key=lambda row: (row["first_seen"], row["company"], row["title"]), reverse=True)

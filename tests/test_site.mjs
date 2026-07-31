@@ -49,6 +49,14 @@ const sorted = sortJobs([
 
 assert.deepEqual(sorted.map((job) => job.company), ["建筑公司", "跨行公司"]);
 
+const scored = sortJobs([
+  { company: "低分公司", score_total: 55, eligibility_status: "eligible", first_seen: "2026-07-31" },
+  { company: "待确认公司", score_total: 88, eligibility_status: "needs_confirmation", first_seen: "2026-07-31" },
+  { company: "高分公司", score_total: 88, eligibility_status: "eligible", first_seen: "2026-07-30" },
+], "综合评分");
+
+assert.deepEqual(scored.map((job) => job.company), ["高分公司", "待确认公司", "低分公司"]);
+
 const companyStatuses = setCompanyStatus({}, "甲设计院", "not_interested");
 assert.deepEqual(companyStatuses, { "甲设计院": "not_interested" });
 

@@ -25,6 +25,18 @@ th { color: #68737d; font-size: 14px; font-weight: 600; }
 .priority-2 { color: #9b5a00; background: #fff2d6; }
 .priority-3 { color: #315f9a; background: #e2efff; }
 .priority-4 { color: #68737d; background: #eef1f3; }
+.score-badge, .eligibility-eligible, .eligibility-confirm, .salary-badge, .priority-count { margin-left: 8px; padding: 3px 6px; border-radius: 4px; font-size: 12px; white-space: nowrap; }
+.score-badge { color: #fff; background: #176b5b; font-weight: 700; }
+.eligibility-eligible { color: #256029; background: #e8f5e9; }
+.eligibility-confirm { color: #8a5300; background: #fff4df; }
+.salary-badge { color: #315f9a; background: #e2efff; }
+.priority-count { color: #9a1b1b; background: #ffe3e3; }
+.score-summary { margin: 8px 0 0; color: #56616b; font-size: 13px; }
+.score-details { margin-top: 9px; font-size: 13px; }
+.score-details summary { color: #176b5b; cursor: pointer; }
+.score-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 5px 12px; margin-top: 8px; }
+.score-reasons { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.score-reasons ul { margin: 5px 0 0; padding-left: 18px; }
 .company-count { margin-left: 8px; color: #176b5b; background: #e1f3ee; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
 .expand { min-height: auto; color: #176b5b; background: #fff; border-color: #176b5b; padding: 6px 10px; }
 .mark-company, .undo-company { min-height: auto; margin-left: 6px; padding: 6px 8px; font-size: 12px; }

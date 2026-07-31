@@ -47,6 +47,13 @@ def test_pipeline_filters_deduplicates_and_writes_public_json(tmp_path):
     assert payload["jobs"][0]["job_group"] == "architecture"
     assert payload["jobs"][0]["priority_rank"] == 1
     assert payload["jobs"][0]["priority_label"] == "优先投"
+    assert payload["jobs"][0]["eligibility_status"] == "eligible"
+    assert payload["jobs"][0]["eligibility_label"] == "可投"
+    assert payload["jobs"][0]["score_total"] == sum(payload["jobs"][0]["score_breakdown"].values())
+    assert payload["jobs"][0]["salary_basis"] == "估算"
+    assert payload["jobs"][0]["score_summary"]
+    assert payload["jobs"][0]["score_strengths"]
+    assert payload["jobs"][0]["score_confidence"] in {"高", "中", "低"}
     assert "description" not in payload["jobs"][0]
 
 

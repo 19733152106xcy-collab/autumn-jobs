@@ -24,7 +24,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 71,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 13,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "79d38bcf224760e9fd1e865680b63f3215f04082de52141ea6b4c3b86f14aad4",
@@ -51,7 +74,29 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部科技或金融平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "045ebd493bd1189e7f2a634daf1923bd5b7ec63a71d51400a5083fed9484e49c",
@@ -76,7 +121,30 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 72,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 10,
+        "ability_match": 15,
+        "growth": 9,
+        "application_cost": 2
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "头部科技或金融平台估算",
+        "建筑与AI复合背景可发挥"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "投递信息仍待核验",
+        "实习岗位，需确认转正机会"
+      ]
     },
     {
       "fingerprint": "aafce6ea14a26a8b1b491a7d31e1e0ec8c0494e373046b2b4d38b0dad5436096",
@@ -100,7 +168,28 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 52,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 11,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足"
+      ]
     },
     {
       "fingerprint": "4991831de6f32a3d46b96fdc52c10f998691491947f7cb88d7b9f31709a19bdd",
@@ -124,7 +213,28 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 52,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 11,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足"
+      ]
     },
     {
       "fingerprint": "91b3b8e0262dfafa13bb0a9b5e2b1d1aa70ee68203cc8f8ea8637687c71e25a3",
@@ -148,7 +258,28 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 3
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足"
+      ]
     },
     {
       "fingerprint": "65df73543ea0150cf8e97b349b5f43a149e0aa3ec62047609f2216fd3bc98e94",
@@ -172,7 +303,28 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 20,
+        "ability_match": 16,
+        "growth": 6,
+        "application_cost": 3
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "建筑与AI复合背景可发挥",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足"
+      ]
     },
     {
       "fingerprint": "8a3d75b9106f8a8c76a872109a66ffee9ed19eec640231ff565b91ad7a5e57ed",
@@ -196,7 +348,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 70,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 15,
+        "ability_match": 16,
+        "growth": 8,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "建筑与AI复合背景可发挥",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算"
+      ]
     },
     {
       "fingerprint": "b07fd8db3d6fbdf12351483097cb64ff3a2fa4753d06984c21a918b7cbf31ee7",
@@ -220,7 +395,29 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 88,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 3
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
     },
     {
       "fingerprint": "8fddd31753073148c5b38ea374c865144e8cb4a649a9b8b616ac99c072d58a8e",
@@ -244,7 +441,28 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 52,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 11,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足"
+      ]
     },
     {
       "fingerprint": "72259cd037951c92ec09804733b795d0796f14f18b98c988b884764bb82ba0c0",
@@ -269,7 +487,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 55,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 14,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "可作为补充机会，先核验关键信息",
+      "score_strengths": [],
+      "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验",
+        "实习岗位，需确认转正机会"
+      ]
     },
     {
       "fingerprint": "64ff7d02c269829e6a24f05f873e258f5a6a93f84262466bcb68a04356c3c1be",
@@ -293,7 +531,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 45,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 5,
+        "ability_match": 11,
+        "growth": 5,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "84aa2ff95811104a58a7b9415d16e4df74caa9a241b1e1019f1bbe8949a2bdd5",
@@ -319,7 +577,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "87d48be6864f76b53ceb3ea05cf75d7733312b7e50ceb0df120687f4e7aa2f65",
@@ -343,7 +621,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "8de8f32b8f1ba939cf1f1154e452569710a72cfb1e520395544c86a62f2419bd",
@@ -367,7 +665,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "11ab47c6733d407b27de5ac913af116714619590b653140237eb4f2c27db0fbf",
@@ -392,7 +710,28 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 72,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 22,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "6f6e95e19349eefcf395c3a2a5e886d0b7e5a8d50ae8b9a5c365e5af669ce8eb",
@@ -416,7 +755,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "688b2248ee318f3722e363604bd12bf1e1ab7a022dc1a80904dc0a021db91264",
@@ -440,7 +799,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 76,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 18,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "投递信息仍待核验",
+        "实习岗位，需确认转正机会"
+      ]
     },
     {
       "fingerprint": "cfac2ca8de78d7dbde21987b7be6f7a51549b1a35cbd69bbf0c011245c9f9845",
@@ -467,7 +849,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 13,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "bd75bc223f85f59f844d675f5205ac44471e1b11246b8356754445e1ada408bd",
@@ -491,7 +896,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 13,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "2366e29064d1e953b44c76a290177c69c87509f225dbb20cdb13d12170b7f095",
@@ -515,7 +943,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "afe0520a703dbe75a5dd69653d35162122e5e887556a0df8b1ac517f8ae4159d",
@@ -541,7 +989,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "f5b76be1c633aed943602d8cdffb1abdad3d46ea848f0b54bc5de513a4b9b5a8",
@@ -565,7 +1033,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 13,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "40aad4618b21672fb4a36682d9a9fb61e9666f7fca1bfa6dd0b1a3114a752528",
@@ -589,7 +1080,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "dde390193b4ee927c3e8d549930a2e8ab9211166015dd09fc3360fa24664b6e1",
@@ -655,7 +1166,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "c28d288e5636b0d77c2e27214c157a26a5246946c5c183363e7eceaede2c6b99",
@@ -692,7 +1223,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 13,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "245d33a93212f1a526bf229e58c5af386fd8a65d7d32482fc7148677d8bbf7f3",
@@ -716,7 +1270,29 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 62,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 13,
+        "ability_match": 20,
+        "growth": 5,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "c87ea91025d048eee4d36fea0223fc7a6215c28c5e88a7dd02c5e95bcfeaa8b4",
@@ -742,7 +1318,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 79,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 17,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 1
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "dfee7aa6e806e44926d80d4c8906760b34e6c97bd3f3124f8536a11c8144de19",
@@ -766,7 +1365,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 76,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 18,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 2
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "投递信息仍待核验",
+        "实习岗位，需确认转正机会"
+      ]
     },
     {
       "fingerprint": "8885673768df82211f83c544f19ee9bbdecf89152f964b8ae353620cc9133e19",
@@ -790,7 +1412,30 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 17,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 1
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "65b891b780b7598dd65a7568321f048f7848dc15ee606a97386abbde3077ceb9",
@@ -817,7 +1462,29 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部科技或金融平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "c3b543073e39be2bec0c331e6f29e5d020aefc75bbe6c35ea60ab46c1deed873",
@@ -841,7 +1508,29 @@
       "job_group": "architecture",
       "priority_rank": 2,
       "priority_label": "值得投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 66,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 17,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "2ab49f770b515bfa8331af476bf82bf7524b523e3793550c7a88d617dc785216",
@@ -875,7 +1564,27 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "3d86280083e454b3e35572543f9374f96a59ce6c92f79734b35fd47b3c0849fd",
@@ -905,7 +1614,30 @@
       "job_group": "other",
       "priority_rank": 3,
       "priority_label": "跨行尝试",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 71,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 15,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部科技或金融平台估算",
+        "建筑与AI复合背景可发挥"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
     },
     {
       "fingerprint": "8ef8f857f60bcf8d18b0c8c027f39365b63a5c0e0f5b94e399027bf9c643de26",
@@ -929,7 +1661,29 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 25,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 5
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
     },
     {
       "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
@@ -953,7 +1707,30 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 82,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 21,
+        "ability_match": 20,
+        "growth": 7,
+        "application_cost": 5
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "实习岗位，需确认转正机会"
+      ]
     },
     {
       "fingerprint": "23d6da81619e207b3a617a4f4ab9b88422003f91c1a097eb2c89b1004332dd84",
@@ -977,7 +1754,29 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 25,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 5
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
     },
     {
       "fingerprint": "fa4b694abd30c5ea56157c11d3a3e376f38c2b649deb5cdb1b8de71035dd3a36",
@@ -1001,7 +1800,28 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 78,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 25,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 5
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足"
+      ]
     },
     {
       "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
@@ -1025,7 +1845,29 @@
       "job_group": "architecture",
       "priority_rank": 1,
       "priority_label": "优先投",
-      "status": "active"
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 25,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 5
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
     }
   ]
 }

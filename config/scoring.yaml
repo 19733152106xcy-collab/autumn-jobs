@@ -1,0 +1,26 @@
+weights:
+  compensation_platform: 40
+  interview_probability: 25
+  ability_match: 20
+  growth: 10
+  application_cost: 5
+
+default_company:
+  platform_points: 22
+  salary_band: 待确认
+  rationale: 公司待遇信息不足
+
+company_profiles:
+  - keywords: [腾讯, 阿里, 字节, 华为, CVTE, 东软, Dymon Asia]
+    platform_points: 36
+    salary_band: A
+    rationale: 头部科技或金融平台估算
+  - keywords: [中国建筑设计研究院, 中建西南院, 华东建筑设计研究院, 广东省建筑设计研究院, 清华同衡, 浙江省城乡规划设计研究院]
+    platform_points: 33
+    salary_band: B
+    rationale: 头部建筑设计平台估算
+  - keywords: [中建, 中国联合工程, 电力规划设计研究院, 中国建研院]
+    platform_points: 29
+    salary_band: B
+    rationale: 央国企工程平台估算
+
