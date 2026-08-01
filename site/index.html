@@ -4,12 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>2027届秋招岗位库</title>
+    <link rel="icon" href="data:,">
     <link rel="stylesheet" href="assets/style.css">
   </head>
   <body>
     <main>
       <h1>2027届秋招岗位库</h1>
-      <p id="updated" class="muted">最近更新：加载中</p>
+      <p id="updated" class="muted">岗位数据更新：加载中</p>
+      <p class="muted"><a href="https://github.com/19733152106xcy-collab/autumn-jobs/actions/workflows/daily-update.yml" target="_blank" rel="noopener noreferrer">查看每日自动抓取记录</a>（每天运行不代表每天都有新增岗位）</p>
       <section class="controls" aria-label="岗位筛选">
         <button id="today" type="button">今日新增</button>
         <button id="all" type="button">全部岗位</button>
@@ -18,7 +20,7 @@
         <select id="job-group" aria-label="岗位类别"><option value="">全部岗位</option><option value="architecture">建筑类</option><option value="other">其他类</option></select>
         <select id="city" aria-label="城市"></select>
         <select id="level" aria-label="匹配等级"><option>全部</option><option>A</option><option>B</option><option>C</option></select>
-        <select id="opportunity-filter" aria-label="机会类型"><option value="">全部机会</option><option value="full_time">正式岗</option><option value="internship">实习</option><option value="mixed">正式/实习混合</option></select>
+        <select id="opportunity-filter" aria-label="机会类型"><option value="formal">正式批优先</option><option value="">全部机会</option><option value="full_time">仅正式岗</option><option value="mixed">正式/实习混合</option><option value="internship">仅实习</option></select>
         <select id="verification-filter" aria-label="核验状态"><option value="">全部状态</option><option value="verified">已核验</option><option value="pending">待核验</option></select>
         <select id="order" aria-label="排序"><option>综合评分</option><option>更新时间</option></select>
       </section>

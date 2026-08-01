@@ -182,6 +182,20 @@
     "note": "HTTP 200; text/html"
   },
   {
+    "source_id": "gankinterview",
+    "final_url": "https://www.gankinterview.cn/campus?tab=state",
+    "checked_at": "2026-08-01T07:46:00+00:00",
+    "access": "partial",
+    "page_type": "dynamic",
+    "public_list": true,
+    "public_detail": false,
+    "requires_login_to_apply": true,
+    "robots_checked": true,
+    "sample_job_count": 52,
+    "error_code": null,
+    "note": "Public anonymous page exposes the latest 50 campus rows; application links require login, so records remain pending-verification leads."
+  },
+  {
     "source_id": "zhaopin_public",
     "final_url": "https://www.zhaopin.com/",
     "checked_at": "2026-07-28T10:16:37.307414+00:00",

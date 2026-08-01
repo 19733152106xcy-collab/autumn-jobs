@@ -155,7 +155,7 @@ def crawl_configured_sources(config_path: Path) -> tuple[dict[str, list[RawJob]]
                             )
                         )
                 jobs[source_id].extend(source_rows)
-                health.append(SourceHealth(source_id=source_id, status="ok", discovered=len(links)))
+                health.append(SourceHealth(source_id=source_id, status="ok", discovered=len(source_rows)))
             except httpx.HTTPError as error:
                 health.append(SourceHealth(source_id=source_id, status="failed", discovered=0, error=error.__class__.__name__))
     return dict(jobs), health
@@ -183,12 +183,24 @@ def update_source_status(
     for row in rows:
         old = previous.get(row.source_id, {})
         discovery_drop = row.status == "ok" and int(old.get("discovered", 0)) >= 5 and row.discovered == 0
-        succeeded = row.status == "ok" and not discovery_drop
-        status = "suspect" if discovery_drop else row.status
-        error = "DiscoveryDropToZero" if discovery_drop else row.error
+        consecutive_empty = (
+            int(old.get("consecutive_empty", 0)) + 1
+            if row.status == "ok" and row.discovered == 0
+            else 0
+        )
+        repeated_empty = consecutive_empty >= 3
+        succeeded = row.status == "ok" and not discovery_drop and not repeated_empty
+        status = "suspect" if discovery_drop or repeated_empty else row.status
+        if discovery_drop:
+            error = "DiscoveryDropToZero"
+        elif repeated_empty:
+            error = "RepeatedEmptyDiscovery"
+        else:
+            error = row.error
         updated[row.source_id] = {
             "status": status,
             "discovered": row.discovered,
+            "consecutive_empty": consecutive_empty,
             "last_run": timestamp,
             "last_success": timestamp if succeeded else old.get("last_success"),
             "consecutive_failures": 0 if succeeded else int(old.get("consecutive_failures", 0)) + 1,

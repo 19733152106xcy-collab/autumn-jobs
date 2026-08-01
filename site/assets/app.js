@@ -6,15 +6,55 @@ export function searchJobs(jobs, query) {
 
 export function filterJobs(jobs, filters) {
   return jobs.filter((job) => {
-    const cityOk = !filters.city || filters.city === "全部" || job.location.includes(filters.city);
+    const cityOk = !filters.city || filters.city === "全部" || job.location.some((value) => value.includes(filters.city));
     const levelOk = !filters.level || filters.level === "全部" || job.match_level === filters.level;
     const jobGroupOk = !filters.jobGroup || job.job_group === filters.jobGroup;
-    const opportunityOk = !filters.opportunity || job.opportunity_type === filters.opportunity;
+    const opportunityOk = !filters.opportunity
+      || (filters.opportunity === "formal" && job.opportunity_type !== "internship")
+      || job.opportunity_type === filters.opportunity;
     const verificationOk = !filters.verification || (filters.verification === "verified" ? job.verification_status !== "pending" : job.verification_status === "pending");
     const categoryOk = !filters.category || filters.category === "全部" || job.category === filters.category;
-    const todayOk = !filters.todayOnly || job.first_seen === new Date().toISOString().slice(0, 10);
+    const todayOk = !filters.todayOnly || job.first_seen === filters.todayDate;
     return cityOk && levelOk && jobGroupOk && opportunityOk && verificationOk && categoryOk && todayOk && job.status === "active";
   });
+}
+
+export function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;",
+  })[character]);
+}
+
+export function defaultViewState(todayDate) {
+  return {
+    query: "",
+    category: "全部",
+    jobGroup: "",
+    city: "全部",
+    level: "全部",
+    opportunity: "formal",
+    verification: "",
+    order: "综合评分",
+    todayOnly: false,
+    todayDate,
+  };
+}
+
+export function resetViewState(state) {
+  return { ...defaultViewState(state.todayDate), opportunity: "" };
+}
+
+function shanghaiToday() {
+  return new Intl.DateTimeFormat("sv-SE", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
 }
 
 export function groupJobsByCompany(jobs) {
@@ -25,6 +65,34 @@ export function groupJobsByCompany(jobs) {
     groups.set(job.company, group);
   });
   return [...groups.values()];
+}
+
+export function companyActionMode(jobs) {
+  return jobs.length === 1 ? "direct" : "expand";
+}
+
+export function summarizeView(allJobs, visibleJobs, statuses, companyStatuses) {
+  const activeJobs = allJobs.filter((job) => !job.status || job.status === "active");
+  const activeFingerprints = new Set(activeJobs.map((job) => job.fingerprint));
+  const companies = new Set(activeJobs.map((job) => job.company));
+  const visibleCompanies = new Set(visibleJobs.map((job) => job.company));
+  const hiddenCompanies = new Set(
+    activeJobs
+      .filter((job) => companyStatuses[job.company] === "not_interested")
+      .map((job) => job.company),
+  );
+  const handledJobs = Object.entries(statuses)
+    .filter(([fingerprint, status]) => activeFingerprints.has(fingerprint) && Boolean(status))
+    .length;
+  return {
+    totalJobs: activeJobs.length,
+    totalCompanies: companies.size,
+    visibleJobs: visibleJobs.length,
+    visibleCompanies: visibleCompanies.size,
+    hiddenCompanies: hiddenCompanies.size,
+    handledJobs,
+    pureInternships: activeJobs.filter((job) => job.opportunity_type === "internship").length,
+  };
 }
 
 export function sortJobs(jobs, order) {
@@ -72,7 +140,8 @@ export function partitionJobsByCompanyStatus(jobs, statuses) {
 }
 
 export function resolveApplyUrl(job) {
-  return job.official_apply_url || job.apply_url || job.detail_url;
+  const candidate = job.official_apply_url || job.apply_url || job.detail_url || "";
+  return /^https?:\/\//i.test(candidate) ? candidate : "#";
 }
 
 function verificationLabel(job) { return job.verification_status === "pending" ? "待核验" : "已核验"; }
@@ -86,8 +155,8 @@ function salaryLabel(job) {
 
 function scoreDetails(job) {
   const breakdown = job.score_breakdown || {};
-  const strengths = (job.score_strengths || []).map((item) => `<li>${item}</li>`).join("") || "<li>暂无明确加分依据</li>";
-  const risks = (job.score_risks || []).map((item) => `<li>${item}</li>`).join("") || "<li>暂无额外风险提示</li>";
+  const strengths = (job.score_strengths || []).map((item) => `<li>${escapeHtml(item)}</li>`).join("") || "<li>暂无明确加分依据</li>";
+  const risks = (job.score_risks || []).map((item) => `<li>${escapeHtml(item)}</li>`).join("") || "<li>暂无额外风险提示</li>";
   return `<details class="score-details">
     <summary>评分明细</summary>
     <div class="score-grid">
@@ -97,14 +166,18 @@ function scoreDetails(job) {
       <span>发展空间 ${breakdown.growth ?? 0}/10</span>
       <span>投递成本 ${breakdown.application_cost ?? 0}/5</span>
     </div>
-    <p>判断可信度：${job.score_confidence || "低"}</p>
+    <p>判断可信度：${escapeHtml(job.score_confidence || "低")}</p>
     <div class="score-reasons"><div><strong>加分项</strong><ul>${strengths}</ul></div><div><strong>风险项</strong><ul>${risks}</ul></div></div>
   </details>`;
 }
 
-function optionValues(jobs, field) {
+export function optionValues(jobs, field) {
   const values = new Set();
-  jobs.forEach((job) => (Array.isArray(job[field]) ? job[field] : [job[field]]).forEach((value) => value && values.add(value)));
+  jobs.forEach((job) => (Array.isArray(job[field]) ? job[field] : [job[field]]).forEach((value) => {
+    if (!value) return;
+    const parts = field === "location" ? String(value).split(/[,，、]/) : [value];
+    parts.map((part) => String(part).trim()).filter(Boolean).forEach((part) => values.add(part));
+  }));
   return [...values].sort((a, b) => String(a).localeCompare(String(b), "zh-CN"));
 }
 
@@ -119,10 +192,10 @@ function formatDeadline(value) {
 function jobRow(job, groupId) {
   return `<tr class="job-detail" data-group="${groupId}" hidden>
     <td></td>
-    <td>${job.title}<span class="score-badge">${scoreLabel(job)}</span><span class="eligibility-${job.eligibility_status === "eligible" ? "eligible" : "confirm"}">${eligibilityLabel(job)}</span><span class="salary-badge">${salaryLabel(job)}</span><span class="opportunity-${job.opportunity_type || "full_time"}">${opportunityLabel(job)}</span><span class="verification-${job.verification_status === "pending" ? "pending" : "official"}">${verificationLabel(job)}</span><p class="score-summary">${job.score_summary || "评分信息待更新"}</p>${scoreDetails(job)}</td>
-    <td>${job.location.join("、")}</td>
-    <td>${formatDeadline(job.deadline)}</td>
-    <td><a class="apply" href="${resolveApplyUrl(job)}" target="_blank" rel="noopener noreferrer">立即投递</a><button class="mark-job" type="button" data-status="applied" data-fingerprint="${job.fingerprint}">已投递</button><button class="mark-job" type="button" data-status="not_interested" data-fingerprint="${job.fingerprint}">不感兴趣</button></td>
+    <td>${escapeHtml(job.title)}<span class="score-badge">${escapeHtml(scoreLabel(job))}</span><span class="eligibility-${job.eligibility_status === "eligible" ? "eligible" : "confirm"}">${escapeHtml(eligibilityLabel(job))}</span><span class="salary-badge">${escapeHtml(salaryLabel(job))}</span><span class="opportunity-${job.opportunity_type || "full_time"}">${escapeHtml(opportunityLabel(job))}</span><span class="verification-${job.verification_status === "pending" ? "pending" : "official"}">${escapeHtml(verificationLabel(job))}</span><p class="score-summary">${escapeHtml(job.score_summary || "评分信息待更新")}</p>${scoreDetails(job)}</td>
+    <td>${escapeHtml(job.location.join("、"))}</td>
+    <td>${escapeHtml(formatDeadline(job.deadline))}</td>
+    <td><a class="apply" href="${escapeHtml(resolveApplyUrl(job))}" target="_blank" rel="noopener noreferrer">立即投递</a><button class="mark-job" type="button" data-status="applied" data-fingerprint="${escapeHtml(job.fingerprint)}">已投递</button><button class="mark-job" type="button" data-status="not_interested" data-fingerprint="${escapeHtml(job.fingerprint)}">不感兴趣</button></td>
   </tr>`;
 }
 
@@ -130,7 +203,7 @@ function renderSavedJobs(jobs, selector, label) {
   const container = document.querySelector(selector);
   const section = container.parentElement;
   section.querySelector("summary").textContent = `${label}（${jobs.length}）`;
-  container.innerHTML = groupJobsByCompany(jobs).map((group) => `<div class="saved-company"><strong>${group.company}</strong>${group.jobs.map((job) => `<div>${job.title}<button class="undo-job" type="button" data-fingerprint="${job.fingerprint}">撤销</button></div>`).join("")}</div>`).join("") || "<p class=\"muted\">暂无岗位</p>";
+  container.innerHTML = groupJobsByCompany(jobs).map((group) => `<div class="saved-company"><strong>${escapeHtml(group.company)}</strong>${group.jobs.map((job) => `<div>${escapeHtml(job.title)}<button class="undo-job" type="button" data-fingerprint="${escapeHtml(job.fingerprint)}">撤销</button></div>`).join("")}</div>`).join("") || "<p class=\"muted\">暂无岗位</p>";
 }
 
 function loadJobStatuses() {
@@ -163,7 +236,7 @@ function renderSavedCompanies(jobs) {
   const container = document.querySelector("#not-interested-companies-list");
   const groups = groupJobsByCompany(jobs);
   document.querySelector("#not-interested-companies-section summary").textContent = `不感兴趣公司（${groups.length}）`;
-  container.innerHTML = groups.map((group) => `<div class="saved-company"><strong>${group.company}</strong><span class="company-count">共 ${group.jobs.length} 个岗位</span><button class="undo-company" type="button" data-company="${group.company}">撤销</button></div>`).join("") || "<p class=\"muted\">暂无公司</p>";
+  container.innerHTML = groups.map((group) => `<div class="saved-company"><strong>${escapeHtml(group.company)}</strong><span class="company-count">共 ${group.jobs.length} 个岗位</span><button class="undo-company" type="button" data-company="${escapeHtml(group.company)}">撤销</button></div>`).join("") || "<p class=\"muted\">暂无公司</p>";
 }
 
 function render(jobs, state, statuses, companyStatuses) {
@@ -176,14 +249,18 @@ function render(jobs, state, statuses, companyStatuses) {
     const primary = group.jobs[0];
     const locations = [...new Set(group.jobs.flatMap((job) => job.location))].join("、");
     const priorityCount = group.jobs.filter((job) => (job.score_total ?? 0) >= 75 && job.eligibility_status === "eligible").length;
+    const directAction = companyActionMode(group.jobs) === "direct";
+    const actions = directAction
+      ? `<a class="apply" href="${escapeHtml(resolveApplyUrl(primary))}" target="_blank" rel="noopener noreferrer">立即投递</a><button class="mark-job" type="button" data-status="applied" data-fingerprint="${escapeHtml(primary.fingerprint)}">已投递</button><button class="mark-job" type="button" data-status="not_interested" data-fingerprint="${escapeHtml(primary.fingerprint)}">不感兴趣</button>`
+      : `<button class="expand" type="button" data-group="${index}">查看 ${group.jobs.length} 个岗位</button><button class="mark-company" type="button" data-company="${escapeHtml(group.company)}">公司不感兴趣</button>`;
     return `
     <tr>
-      <td>${group.company}</td>
-      <td>${primary.title}<span class="score-badge">${scoreLabel(primary)}</span><span class="eligibility-${primary.eligibility_status === "eligible" ? "eligible" : "confirm"}">${eligibilityLabel(primary)}</span><span class="salary-badge">${salaryLabel(primary)}</span><span class="company-count">共 ${group.jobs.length} 个岗位</span>${priorityCount ? `<span class="priority-count">建议优先投 ${priorityCount} 个</span>` : ""}<p class="score-summary">${primary.score_summary || "评分信息待更新"}</p></td>
-      <td>${locations}</td>
-      <td>${formatDeadline(primary.deadline)}</td>
-      <td><button class="expand" type="button" data-group="${index}">展开</button><button class="mark-company" type="button" data-company="${group.company}">不感兴趣</button></td>
-    </tr>${group.jobs.map((job) => jobRow(job, index)).join("")}`;
+      <td>${escapeHtml(group.company)}</td>
+      <td>${escapeHtml(primary.title)}<span class="score-badge">${escapeHtml(scoreLabel(primary))}</span><span class="eligibility-${primary.eligibility_status === "eligible" ? "eligible" : "confirm"}">${escapeHtml(eligibilityLabel(primary))}</span><span class="salary-badge">${escapeHtml(salaryLabel(primary))}</span><span class="company-count">共 ${group.jobs.length} 个岗位</span>${priorityCount ? `<span class="priority-count">建议优先投 ${priorityCount} 个</span>` : ""}<p class="score-summary">${escapeHtml(primary.score_summary || "评分信息待更新")}</p></td>
+      <td>${escapeHtml(locations)}</td>
+      <td>${escapeHtml(formatDeadline(primary.deadline))}</td>
+      <td>${actions}</td>
+    </tr>${directAction ? "" : group.jobs.map((job) => jobRow(job, index)).join("")}`;
   }).join("");
   body.querySelectorAll(".expand").forEach((button) => button.addEventListener("click", () => {
     const details = body.querySelectorAll(`.job-detail[data-group="${button.dataset.group}"]`);
@@ -219,7 +296,8 @@ function render(jobs, state, statuses, companyStatuses) {
     render(jobs, state, statuses, next);
   }));
   document.querySelector("#empty").hidden = groups.length !== 0;
-  document.querySelector("#count").textContent = `共 ${visible.length} 个岗位，${groups.length} 家公司`;
+  const summary = summarizeView(jobs, visible, statuses, companyStatuses);
+  document.querySelector("#count").textContent = `当前 ${summary.visibleJobs} 个岗位 / ${summary.visibleCompanies} 家公司｜完整岗位库 ${summary.totalJobs} 个 / ${summary.totalCompanies} 家｜隐藏 ${summary.hiddenCompanies} 家公司｜已处理 ${summary.handledJobs} 个岗位｜纯实习 ${summary.pureInternships} 个`;
 }
 
 async function boot() {
@@ -234,14 +312,19 @@ async function boot() {
   const jobs = payload.jobs || [];
   savedStatuses = loadJobStatuses();
   savedCompanyStatuses = loadCompanyStatuses();
-  document.querySelector("#updated").textContent = `最近更新：${status.updated_date || "未更新"}`;
+  document.querySelector("#updated").textContent = `岗位数据更新：${status.updated_date || "未更新"}`;
   fillSelect(document.querySelector("#category"), optionValues(jobs, "category"));
   fillSelect(document.querySelector("#city"), optionValues(jobs, "location"));
-  const state = { query: "", category: "全部", jobGroup: "", city: "全部", level: "全部", opportunity: "", verification: "", order: "综合评分", todayOnly: false };
+  const state = defaultViewState(shanghaiToday());
   const controls = { query: "#search", category: "#category", jobGroup: "#job-group", city: "#city", level: "#level", opportunity: "#opportunity-filter", verification: "#verification-filter", order: "#order" };
+  document.querySelector("#opportunity-filter").value = state.opportunity;
   Object.entries(controls).forEach(([key, selector]) => document.querySelector(selector).addEventListener("input", (event) => { state[key] = event.target.value; render(jobs, state, savedStatuses, savedCompanyStatuses); }));
   document.querySelector("#today").addEventListener("click", () => { state.todayOnly = !state.todayOnly; render(jobs, state, savedStatuses, savedCompanyStatuses); });
-  document.querySelector("#all").addEventListener("click", () => { state.todayOnly = false; state.query = ""; document.querySelector("#search").value = ""; render(jobs, state, savedStatuses, savedCompanyStatuses); });
+  document.querySelector("#all").addEventListener("click", () => {
+    Object.assign(state, resetViewState(state));
+    Object.entries(controls).forEach(([key, selector]) => { document.querySelector(selector).value = state[key]; });
+    render(jobs, state, savedStatuses, savedCompanyStatuses);
+  });
   render(jobs, state, savedStatuses, savedCompanyStatuses);
 }
 

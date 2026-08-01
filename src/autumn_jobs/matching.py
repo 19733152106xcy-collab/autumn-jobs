@@ -8,6 +8,30 @@ import yaml
 from autumn_jobs.models import MatchResult, StructuredRequirements
 
 ELIGIBLE_MAJOR_PATTERNS = ("建筑学", "建筑类", "建筑相关", "工程类", "专业不限")
+GENERIC_CAMPAIGN_PATTERNS = ("招聘", "校招", "秋招", "人才计划", "招募", "提前批")
+GENERIC_CROSS_DIRECTIONS = (
+    "AI应用",
+    "AI产品",
+    "产品与项目",
+    "产品方向",
+    "项目方向",
+    "设计方向",
+    "数字化",
+    "智慧城市",
+    "解决方案",
+    "管培生",
+)
+TRAINING_ROLE_PATTERNS = (
+    "教学管培",
+    "教师管培",
+    "课程顾问",
+    "学科教师",
+    "主讲教师",
+    "教学方向",
+    "学科校长",
+    "运营校长",
+    "教学岗",
+)
 POSTGRADUATE_ONLY_PATTERNS = (
     r"硕士及以上",
     r"硕士以上",
@@ -73,7 +97,10 @@ def match_job(title: str, description: str) -> MatchResult:
     text = f"{title} {description}"
     rules = _keywords()
     requirements = _requirements(text)
-    wrong_year = any(year in text for year in ("2025届", "2026届", "已毕业")) and "2027" not in text
+    historical_title = any(year in title for year in ("2025", "2026"))
+    wrong_year = (
+        historical_title or any(year in text for year in ("2025届", "2026届", "已毕业"))
+    ) and "2027" not in text
     social_recruitment = any(marker in text for marker in ("社会招聘", "社招")) and not (
         "2027" in text and any(marker in text for marker in ("校园招聘", "校招"))
     )
@@ -89,6 +116,8 @@ def match_job(title: str, description: str) -> MatchResult:
         return MatchResult(included=False, reasons=["明确不匹配专项技术岗"], requirements=requirements)
     if _contains(title, rules["irrelevant"]):
         return MatchResult(included=False, reasons=["明确无关岗位"], requirements=requirements)
+    if any(pattern in text for pattern in TRAINING_ROLE_PATTERNS):
+        return MatchResult(included=False, reasons=["教育培训岗位与目标方向无关"], requirements=requirements)
     direct = _contains(title, rules["direct"])
     if not direct and any(marker in title for marker in ("招聘", "校招", "秋招")):
         direct = _contains(description, rules["direct"])
@@ -104,6 +133,16 @@ def match_job(title: str, description: str) -> MatchResult:
             requirements=requirements,
         )
     cross = _contains(title, rules["cross_industry"])
+    generic_campaign = any(pattern in title for pattern in GENERIC_CAMPAIGN_PATTERNS)
+    body_cross = _contains(description, rules["cross_industry"])
+    if (
+        not cross
+        and generic_campaign
+        and body_cross
+        and "专业不限" in description
+        and any(direction in description for direction in GENERIC_CROSS_DIRECTIONS)
+    ):
+        cross = body_cross
     relevance = _contains(text, rules["cross_relevance"])
     if cross and relevance:
         return MatchResult(

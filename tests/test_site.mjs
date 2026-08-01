@@ -1,13 +1,18 @@
 import assert from "node:assert/strict";
 
 import {
+  companyActionMode,
+  defaultViewState,
   filterJobs,
   groupJobsByCompany,
+  optionValues,
   partitionJobsByCompanyStatus,
   partitionJobsByStatus,
+  resetViewState,
   setCompanyStatus,
   setJobStatus,
   sortJobs,
+  summarizeView,
 } from "../site/assets/app.js";
 
 const jobs = [
@@ -18,6 +23,37 @@ const jobs = [
 const visible = filterJobs(jobs, { opportunity: "full_time" });
 
 assert.deepEqual(visible.map((job) => job.company), ["甲设计院"]);
+
+const formalFirst = filterJobs([
+  { ...jobs[0], fingerprint: "formal" },
+  { ...jobs[1], fingerprint: "internship" },
+  { ...jobs[0], fingerprint: "mixed", company: "丙设计院", opportunity_type: "mixed" },
+], { opportunity: "formal" });
+
+assert.deepEqual(formalFirst.map((job) => job.fingerprint), ["formal", "mixed"]);
+
+const cityPartial = filterJobs([
+  { ...jobs[0], location: ["北京，河北"] },
+], { city: "北京" });
+assert.equal(cityPartial.length, 1);
+assert.deepEqual(optionValues([{ location: ["北京，河北", "上海、全国"] }], "location"), ["北京", "河北", "全国", "上海"]);
+
+const initialState = defaultViewState("2026-07-31");
+assert.equal(initialState.opportunity, "formal");
+assert.equal(initialState.todayDate, "2026-07-31");
+
+const resetState = resetViewState({
+  ...initialState,
+  query: "建筑",
+  category: "建筑设计",
+  city: "西安",
+  level: "A",
+  todayOnly: true,
+});
+assert.deepEqual(resetState, {
+  ...defaultViewState("2026-07-31"),
+  opportunity: "",
+});
 
 const grouped = groupJobsByCompany([
   { company: "甲设计院", title: "建筑设计" },
@@ -69,3 +105,27 @@ const companyPartition = partitionJobsByCompanyStatus([
 assert.deepEqual(companyPartition.pending.map((job) => job.fingerprint), ["job-3"]);
 assert.deepEqual(companyPartition.not_interested.map((job) => job.fingerprint), ["job-1", "job-2"]);
 assert.deepEqual(setCompanyStatus(companyStatuses, "甲设计院", null), {});
+
+const summary = summarizeView(
+  [
+    { fingerprint: "job-1", company: "甲设计院", opportunity_type: "full_time" },
+    { fingerprint: "job-2", company: "甲设计院", opportunity_type: "internship" },
+    { fingerprint: "job-3", company: "乙科技", opportunity_type: "mixed" },
+  ],
+  [{ fingerprint: "job-3", company: "乙科技", opportunity_type: "mixed" }],
+  { "job-1": "applied" },
+  { "甲设计院": "not_interested" },
+);
+
+assert.deepEqual(summary, {
+  totalJobs: 3,
+  totalCompanies: 2,
+  visibleJobs: 1,
+  visibleCompanies: 1,
+  hiddenCompanies: 1,
+  handledJobs: 1,
+  pureInternships: 1,
+});
+
+assert.equal(companyActionMode([{ fingerprint: "single" }]), "direct");
+assert.equal(companyActionMode([{ fingerprint: "one" }, { fingerprint: "two" }]), "expand");

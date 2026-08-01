@@ -45,3 +45,29 @@ def test_source_status_marks_a_large_discovery_drop_as_suspect(tmp_path):
     assert result["official"]["status"] == "suspect"
     assert result["official"]["last_error"] == "DiscoveryDropToZero"
     assert result["official"]["consecutive_failures"] == 1
+
+
+def test_source_status_marks_the_third_consecutive_empty_result_as_suspect(tmp_path):
+    path = tmp_path / "source_status.json"
+
+    first = update_source_status(
+        path,
+        [SourceHealth(source_id="dynamic", status="ok", discovered=0)],
+        datetime(2026, 7, 25, 7, 30, tzinfo=UTC),
+    )
+    second = update_source_status(
+        path,
+        [SourceHealth(source_id="dynamic", status="ok", discovered=0)],
+        datetime(2026, 7, 26, 7, 30, tzinfo=UTC),
+    )
+    third = update_source_status(
+        path,
+        [SourceHealth(source_id="dynamic", status="ok", discovered=0)],
+        datetime(2026, 7, 27, 7, 30, tzinfo=UTC),
+    )
+
+    assert first["dynamic"]["status"] == "ok"
+    assert second["dynamic"]["status"] == "ok"
+    assert third["dynamic"]["status"] == "suspect"
+    assert third["dynamic"]["consecutive_empty"] == 3
+    assert third["dynamic"]["last_error"] == "RepeatedEmptyDiscovery"

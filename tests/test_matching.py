@@ -68,3 +68,44 @@ def test_excludes_postgraduate_only_but_keeps_postgraduate_preferred():
 
 def test_excludes_teacher_roles_without_relying_on_missing_degree_data():
     assert match_job("城乡规划学专业教师岗位", "建筑学相关专业").included is False
+
+
+def test_generic_2027_campaign_uses_relevant_body_roles_for_cross_industry_matching():
+    result = match_job(
+        "彩讯2027校园招聘 RICH AI+人才计划",
+        "管培生，包含产品与项目方向、设计方向，本科应届生，专业不限",
+    )
+
+    assert result.included is True
+    assert result.job_group == "other"
+
+
+def test_teaching_management_trainee_is_not_included_as_a_generic_cross_industry_role():
+    result = match_job(
+        "新东方2027届管培生提前批招募",
+        "教学管培生、课程顾问，专业不限，本科应届生",
+    )
+
+    assert result.included is False
+
+
+def test_2026_campaign_without_2027_cohort_is_excluded():
+    result = match_job(
+        "FMC Consulting 2026校园招聘全面启动",
+        "项目管培生，本科，专业不限",
+    )
+
+    assert result.included is False
+    assert match_job(
+        "申洲2026春季全球校园招聘正式启动",
+        "运营管培生，本科，专业不限",
+    ).included is False
+
+
+def test_training_company_campaign_with_teaching_directions_is_excluded():
+    result = match_job(
+        "极客未来2027秋季校园招聘提前批全面启动",
+        "小学班课主讲教师、学科校长管培生（教学方向），专业不限",
+    )
+
+    assert result.included is False

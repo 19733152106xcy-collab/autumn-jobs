@@ -47,6 +47,10 @@ candidates:
     name: 国聘雷达
     url: https://guopinleida.com/
     group: public_aggregator
+  - id: gankinterview
+    name: Gank Interview 国央企校招汇总
+    url: https://www.gankinterview.cn/campus?tab=state
+    group: public_aggregator
   - id: zhaopin_public
     name: 智联招聘公开校园招聘页
     url: https://www.zhaopin.com/

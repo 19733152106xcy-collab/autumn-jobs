@@ -10,6 +10,10 @@ import httpx
 
 from autumn_jobs.adapters.bucea import crawl_bucea_jobs, load_bucea_settings
 from autumn_jobs.adapters.cscec8 import crawl_cscec8_jobs, load_cscec8_settings
+from autumn_jobs.adapters.gankinterview import (
+    crawl_gankinterview_jobs,
+    load_gankinterview_settings,
+)
 from autumn_jobs.adapters.guopinleida import crawl_guopinleida_jobs, load_guopinleida_settings
 from autumn_jobs.pipeline import run_pipeline
 from autumn_jobs.sources import (
@@ -52,6 +56,27 @@ def main() -> None:
         health.append(SourceHealth(source_id="guopinleida", status="ok", discovered=len(guopinleida_jobs)))
     except (httpx.HTTPError, TypeError) as error:
         health.append(SourceHealth(source_id="guopinleida", status="failed", discovered=0, error=error.__class__.__name__))
+    try:
+        gankinterview_jobs = crawl_gankinterview_jobs(
+            load_gankinterview_settings(Path("config/gankinterview.yaml"))
+        )
+        source_jobs["gankinterview"] = gankinterview_jobs
+        health.append(
+            SourceHealth(
+                source_id="gankinterview",
+                status="ok",
+                discovered=len(gankinterview_jobs),
+            )
+        )
+    except (httpx.HTTPError, TypeError) as error:
+        health.append(
+            SourceHealth(
+                source_id="gankinterview",
+                status="failed",
+                discovered=0,
+                error=error.__class__.__name__,
+            )
+        )
     for job in load_verified_jobs(Path("config/verified_jobs.yaml")):
         source_jobs.setdefault(job.source_id, []).append(job)
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()
