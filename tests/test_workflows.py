@@ -16,6 +16,13 @@ def test_daily_workflow_declares_permissions_and_pages_actions():
     assert "ref: ${{ needs.crawl.outputs.commit_sha }}" in workflow
     assert "state_changed" in workflow
     assert "data/state/source_status.json" in workflow
+    assert "push:" in workflow
+    assert 'branches: ["main"]' in workflow
+    assert 'paths-ignore:' in workflow
+    assert '"data/**"' in workflow
+    assert '"site/data/**"' in workflow
+    assert 'elif [ "${{ github.event_name }}" = "push" ]; then' in workflow
+    assert "Code push requested; Pages deployment enabled." in workflow
 
 
 def test_manual_dispatch_deploys_without_forcing_a_data_commit():

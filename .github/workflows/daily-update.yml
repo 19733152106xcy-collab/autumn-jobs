@@ -1,6 +1,12 @@
 name: Daily job update
 
 on:
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "data/**"
+      - "site/data/**"
+      - "docs/**"
   schedule:
     - cron: "30 7 * * *"
       timezone: "Asia/Shanghai"
@@ -46,6 +52,9 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "publish=true" >> "$GITHUB_OUTPUT"
             echo "Manual run requested; Pages deployment enabled." >> "$GITHUB_STEP_SUMMARY"
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+            echo "Code push requested; Pages deployment enabled." >> "$GITHUB_STEP_SUMMARY"
           elif [ "$business_changed" = "true" ]; then
             echo "publish=true" >> "$GITHUB_OUTPUT"
           else
