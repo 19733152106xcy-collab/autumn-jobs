@@ -1,5 +1,312 @@
 [
   {
+    "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
+    "source_id": "cscec8",
+    "source_job_id": "2751",
+    "company": "中建八局第二建设",
+    "title": "中建八局二公司2027届暑期实习招聘",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-12",
+    "first_seen": "2026-07-27",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 82,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 21,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "实习岗位，需确认转正机会"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "8ef8f857f60bcf8d18b0c8c027f39365b63a5c0e0f5b94e399027bf9c643de26",
+    "source_id": "cscec8",
+    "source_job_id": "2761",
+    "company": "中建八局装饰工程",
+    "title": "装饰公司2027届校园招聘",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-27",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "fa4b694abd30c5ea56157c11d3a3e376f38c2b649deb5cdb1b8de71035dd3a36",
+    "source_id": "cscec8",
+    "source_job_id": "2760",
+    "company": "中国建筑第八工程局有限公司西北分公司",
+    "title": "西北公司2027届校园招聘",
+    "location": [
+      "陕西，甘肃，宁夏，青海，新疆，内蒙古，山西，四川，广东，海南"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-27",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 78,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 5
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
+    "source_id": "cscec8",
+    "source_job_id": "2757",
+    "company": "中建八局设计管理总院",
+    "title": "设计管理总院2027届校园招聘",
+    "location": [
+      "上海浦东新区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-26",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "23d6da81619e207b3a617a4f4ab9b88422003f91c1a097eb2c89b1004332dd84",
+    "source_id": "cscec8",
+    "source_job_id": "2777",
+    "company": "中建八局北京建设投资",
+    "title": "北京公司2027届校园招聘",
+    "location": [
+      "北京，河北"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-27",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 25,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "aafce6ea14a26a8b1b491a7d31e1e0ec8c0494e373046b2b4d38b0dad5436096",
     "source_id": "bucea",
     "source_job_id": "124835:23829",
@@ -420,324 +727,17 @@
     "status": "active"
   },
   {
-    "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
-    "source_id": "cscec8",
-    "source_job_id": "2751",
-    "company": "中建八局第二建设",
-    "title": "中建八局二公司2027届暑期实习招聘",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-12",
-    "first_seen": "2026-07-27",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-    "opportunity_type": "internship",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 82,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 21,
-      "ability_match": 20,
-      "growth": 7,
-      "application_cost": 5
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "实习岗位，需确认转正机会"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "8ef8f857f60bcf8d18b0c8c027f39365b63a5c0e0f5b94e399027bf9c643de26",
-    "source_id": "cscec8",
-    "source_job_id": "2761",
-    "company": "中建八局装饰工程",
-    "title": "装饰公司2027届校园招聘",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-27",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 25,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 5
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "fa4b694abd30c5ea56157c11d3a3e376f38c2b649deb5cdb1b8de71035dd3a36",
-    "source_id": "cscec8",
-    "source_job_id": "2760",
-    "company": "中国建筑第八工程局有限公司西北分公司",
-    "title": "西北公司2027届校园招聘",
-    "location": [
-      "陕西，甘肃，宁夏，青海，新疆，内蒙古，山西，四川，广东，海南"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-27",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 78,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 25,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 5
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
-    "source_id": "cscec8",
-    "source_job_id": "2757",
-    "company": "中建八局设计管理总院",
-    "title": "设计管理总院2027届校园招聘",
-    "location": [
-      "上海浦东新区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-26",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 25,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 5
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "23d6da81619e207b3a617a4f4ab9b88422003f91c1a097eb2c89b1004332dd84",
-    "source_id": "cscec8",
-    "source_job_id": "2777",
-    "company": "中建八局北京建设投资",
-    "title": "北京公司2027届校园招聘",
-    "location": [
-      "北京，河北"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-27",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 25,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 5
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "4b5b073e7cf1bb227e10776fb6188bbf8008a2bb36b929b4c746337df8c1435a",
+    "fingerprint": "510e675efe2779fd95a2380cba82d92fb462acea6772db30d7548a0cd0696d4d",
     "source_id": "guopinleida",
-    "source_job_id": "3c2709a2-15ba-45a5-90a9-574a9a68b442",
-    "company": "曼胡默尔",
-    "title": "曼胡默尔2027校招正式开启",
+    "source_job_id": "e0e39aff-e6b2-4872-9206-c34f0222fbd3",
+    "company": "凯读投资",
+    "title": "凯读招聘2027届管培生项目",
     "location": [
-      "上海"
+      "北京"
     ],
     "deadline": null,
-    "publish_date": "2026-07-29",
-    "first_seen": "2026-07-31",
+    "publish_date": "2026-08-02",
+    "first_seen": "2026-08-07",
     "category": "管培生",
     "match_level": "C",
     "job_group": "other",
@@ -745,7 +745,7 @@
     "priority_label": "跨行尝试",
     "match_reasons": [
       "管培生",
-      "专业不限"
+      "管培生"
     ],
     "requirements": {
       "education": null,
@@ -755,29 +755,89 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/hkZAIqFgllylhE5S2mDlqw",
+    "detail_url": "https://mp.weixin.qq.com/s/K-vfKjF2l1wUcoMXcXmPnQ",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 55,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
     "score_breakdown": {
       "compensation_platform": 22,
-      "interview_probability": 14,
+      "interview_probability": 9,
       "ability_match": 11,
       "growth": 6,
-      "application_cost": 2
+      "application_cost": 1
     },
     "salary_band": "待确认",
     "salary_basis": "待确认",
     "score_confidence": "低",
-    "score_summary": "可作为补充机会，先核验关键信息",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [],
     "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "f47d310413f76d1141929b36492efa449ba1ec9038213710798d1d950e840bbb",
+    "source_id": "guopinleida",
+    "source_job_id": "b67e2439-c171-4b43-9a52-aae36ac9d972",
+    "company": "鼎一投资",
+    "title": "鼎一投资2027届秋季管培生招聘",
+    "location": [
+      "上海",
+      "北京"
+    ],
+    "deadline": null,
+    "publish_date": "2026-07-29",
+    "first_seen": "2026-08-07",
+    "category": "管培生",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "管培生",
+      "管培生"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/AdzONP5IYeT5XYbL6M4p5A",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
       "公司与待遇信息不足",
       "投递信息仍待核验"
     ],
@@ -842,6 +902,63 @@
     "score_risks": [
       "学历、届别或专业信息不完整",
       "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "4b5b073e7cf1bb227e10776fb6188bbf8008a2bb36b929b4c746337df8c1435a",
+    "source_id": "guopinleida",
+    "source_job_id": "3c2709a2-15ba-45a5-90a9-574a9a68b442",
+    "company": "曼胡默尔",
+    "title": "曼胡默尔2027校招正式开启",
+    "location": [
+      "上海"
+    ],
+    "deadline": null,
+    "publish_date": "2026-07-29",
+    "first_seen": "2026-07-31",
+    "category": "管培生",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "管培生",
+      "专业不限"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/hkZAIqFgllylhE5S2mDlqw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 55,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 14,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "可作为补充机会，先核验关键信息",
+    "score_strengths": [],
+    "score_risks": [
+      "公司与待遇信息不足",
       "投递信息仍待核验"
     ],
     "status": "active"
@@ -1261,6 +1378,69 @@
     "status": "active"
   },
   {
+    "fingerprint": "dfee7aa6e806e44926d80d4c8906760b34e6c97bd3f3124f8536a11c8144de19",
+    "source_id": "guopinleida",
+    "source_job_id": "ae268ff4-9ee9-4414-b048-792df3bfaf5a",
+    "company": "中建八局",
+    "title": "中建八局二公司2027届校园暑期实习招聘正式启动",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-17",
+    "first_seen": "2026-07-28",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/WWgJtHUq2Z-CcAb2qnNp_g",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 76,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 18,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验",
+      "实习岗位，需确认转正机会"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "cfac2ca8de78d7dbde21987b7be6f7a51549b1a35cbd69bbf0c011245c9f9845",
     "source_id": "guopinleida",
     "source_job_id": "90c39fc3-7892-453b-bbb6-a67fc73e8a64",
@@ -1324,69 +1504,6 @@
       "学历、届别或专业信息不完整",
       "待遇为公司层级估算",
       "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "dfee7aa6e806e44926d80d4c8906760b34e6c97bd3f3124f8536a11c8144de19",
-    "source_id": "guopinleida",
-    "source_job_id": "ae268ff4-9ee9-4414-b048-792df3bfaf5a",
-    "company": "中建八局",
-    "title": "中建八局二公司2027届校园暑期实习招聘正式启动",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-17",
-    "first_seen": "2026-07-28",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/WWgJtHUq2Z-CcAb2qnNp_g",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "internship",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 76,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 18,
-      "ability_match": 20,
-      "growth": 7,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "投递信息仍待核验",
-      "实习岗位，需确认转正机会"
     ],
     "status": "active"
   },
