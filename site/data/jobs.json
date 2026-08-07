@@ -1,6 +1,139 @@
 {
-  "updated_date": "2026-08-07",
+  "updated_date": "2026-08-08",
   "jobs": [
+    {
+      "fingerprint": "2799339c407285bf1b02dc94cf987cb966fabeb0b0910995fe94db4196366a30",
+      "company": "联想集团",
+      "title": "联想集团2027全球管培生GFL项目，正式启动！",
+      "location": [
+        "北京"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-05",
+      "first_seen": "2026-08-08",
+      "category": "管培生",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/CXvjiZxPBov8Bzlj_yISfg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "7920ce75dcb6d7dd69a1f5d1c59231f5d680cb67d6c61eb87710b2acfb5fca54",
+      "company": "九坤投资",
+      "title": "九坤投资专项英才计划——“揽月计划”校园招聘正式启动！",
+      "location": [
+        "上海",
+        "北京"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-05",
+      "first_seen": "2026-08-08",
+      "category": "管培生",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/p-hntz4eKoh9RssMb6X72A",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "83ee429ef9852225977ab163e3f408cfe0832e7b362c04f4ed68709560bb6291",
+      "company": "上海黄浦投资控股",
+      "title": "上海黄浦投资控股（集团）有限公司招聘综合管理等岗位",
+      "location": [
+        "上海"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-05",
+      "first_seen": "2026-08-08",
+      "category": "综合管理",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/GXHYONU2kXeTE8velQnVRQ",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
     {
       "fingerprint": "f47d310413f76d1141929b36492efa449ba1ec9038213710798d1d950e840bbb",
       "company": "鼎一投资",
