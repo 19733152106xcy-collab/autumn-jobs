@@ -1,6 +1,54 @@
 {
-  "updated_date": "2026-08-08",
+  "updated_date": "2026-08-11",
   "jobs": [
+    {
+      "fingerprint": "3c59f8475f9e516a5a33023f9befb10c65f5cc8853fc679b198b2e9fd0fac0f3",
+      "company": "英飞凌",
+      "title": "英飞凌八月热招岗位（含国际管培生校招）",
+      "location": [
+        "上海",
+        "宁波",
+        "无锡",
+        "深圳",
+        "西安"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-04",
+      "first_seen": "2026-08-11",
+      "category": "管培生",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/w8U7een8bG7A4lSmJqGi8w?scene=1",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
     {
       "fingerprint": "2799339c407285bf1b02dc94cf987cb966fabeb0b0910995fe94db4196366a30",
       "company": "联想集团",
@@ -1026,50 +1074,6 @@
       "match_level": "C",
       "apply_url": null,
       "detail_url": "https://mp.weixin.qq.com/s/wNww_FO1CYkYZERncHyUVA",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "full_time",
-      "job_group": "other",
-      "priority_rank": 3,
-      "priority_label": "跨行尝试",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 49,
-      "score_breakdown": {
-        "compensation_platform": 22,
-        "interview_probability": 9,
-        "ability_match": 11,
-        "growth": 6,
-        "application_cost": 1
-      },
-      "salary_band": "待确认",
-      "salary_basis": "待确认",
-      "score_confidence": "低",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "公司与待遇信息不足",
-        "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "87d48be6864f76b53ceb3ea05cf75d7733312b7e50ceb0df120687f4e7aa2f65",
-      "company": "途灵旅游",
-      "title": "途灵旅游 | TourMind 星管培生计划正式开启",
-      "location": [
-        "深圳"
-      ],
-      "deadline": null,
-      "publish_date": "2026-01-15",
-      "first_seen": "2026-07-28",
-      "category": "管培生",
-      "match_level": "C",
-      "apply_url": null,
-      "detail_url": "https://mp.weixin.qq.com/s/GNDfcwhsgj48O2fPan9l3g",
       "source_type": "job_board",
       "verification_status": "pending",
       "source_name": "国聘雷达",
