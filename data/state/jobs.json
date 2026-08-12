@@ -1745,68 +1745,6 @@
     "status": "active"
   },
   {
-    "fingerprint": "688b2248ee318f3722e363604bd12bf1e1ab7a022dc1a80904dc0a021db91264",
-    "source_id": "guopinleida",
-    "source_job_id": "cb5b56d4-8c8a-444f-abb6-c5af0147b924",
-    "company": "湖北省电力规划设计研究院",
-    "title": "湖北省电力规划设计研究院2027届“启明星计划”实习生招聘",
-    "location": [
-      "武汉"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-15",
-    "first_seen": "2026-07-28",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/uq6ZLhtpFNyim08q612TQA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "internship",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 76,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 18,
-      "ability_match": 20,
-      "growth": 7,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "投递信息仍待核验",
-      "实习岗位，需确认转正机会"
-    ],
-    "status": "active"
-  },
-  {
     "fingerprint": "8885673768df82211f83c544f19ee9bbdecf89152f964b8ae353620cc9133e19",
     "source_id": "guopinleida",
     "source_job_id": "8ed7a471-e4ec-41e6-9f41-26e79b79e4b4",
