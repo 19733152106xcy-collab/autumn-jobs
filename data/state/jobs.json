@@ -727,6 +727,67 @@
     "status": "active"
   },
   {
+    "fingerprint": "af284ccd81551632128d8b7e815c63d06417d927ad9a17709e31860ea111d963",
+    "source_id": "guopinleida",
+    "source_job_id": "32f0c2a9-3a5b-475b-bc96-f0731bc7ee2f",
+    "company": "卡旺卡",
+    "title": "卡旺卡 2027 届校园招聘启动",
+    "location": [
+      "南京",
+      "合肥"
+    ],
+    "deadline": null,
+    "publish_date": "2026-08-09",
+    "first_seen": "2026-08-14",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://comewonka.zhiye.com/campus",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 72,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 22,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "3c59f8475f9e516a5a33023f9befb10c65f5cc8853fc679b198b2e9fd0fac0f3",
     "source_id": "guopinleida",
     "source_job_id": "6bb900f9-19e5-4808-bc2f-c5e67e1c074c",
@@ -1440,6 +1501,64 @@
     "status": "active"
   },
   {
+    "fingerprint": "8de8f32b8f1ba939cf1f1154e452569710a72cfb1e520395544c86a62f2419bd",
+    "source_id": "guopinleida",
+    "source_job_id": "8e7d8023-96d9-4c92-a8b0-844455edb297",
+    "company": "货拉拉",
+    "title": "货拉拉全球拓展管培生GMT秋招正式启动",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-07-13",
+    "first_seen": "2026-08-14",
+    "category": "管培生",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "管培生",
+      "管培生"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/NMrb8tMqe1eEc-fTnTkuug",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "16563e1f72b2e51754c3cb4d5c3ca61261f9feacf9d61eeccd0bcffd80299b2b",
     "source_id": "guopinleida",
     "source_job_id": "ba957ec5-8307-4e2e-b7eb-bde5e8d9ca1b",
@@ -1557,6 +1676,69 @@
     "status": "active"
   },
   {
+    "fingerprint": "dfee7aa6e806e44926d80d4c8906760b34e6c97bd3f3124f8536a11c8144de19",
+    "source_id": "guopinleida",
+    "source_job_id": "ae268ff4-9ee9-4414-b048-792df3bfaf5a",
+    "company": "中建八局",
+    "title": "中建八局二公司2027届校园暑期实习招聘正式启动",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-17",
+    "first_seen": "2026-07-28",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/WWgJtHUq2Z-CcAb2qnNp_g",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 76,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 18,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验",
+      "实习岗位，需确认转正机会"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "cfac2ca8de78d7dbde21987b7be6f7a51549b1a35cbd69bbf0c011245c9f9845",
     "source_id": "guopinleida",
     "source_job_id": "90c39fc3-7892-453b-bbb6-a67fc73e8a64",
@@ -1620,69 +1802,6 @@
       "学历、届别或专业信息不完整",
       "待遇为公司层级估算",
       "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "dfee7aa6e806e44926d80d4c8906760b34e6c97bd3f3124f8536a11c8144de19",
-    "source_id": "guopinleida",
-    "source_job_id": "ae268ff4-9ee9-4414-b048-792df3bfaf5a",
-    "company": "中建八局",
-    "title": "中建八局二公司2027届校园暑期实习招聘正式启动",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-17",
-    "first_seen": "2026-07-28",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/WWgJtHUq2Z-CcAb2qnNp_g",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "internship",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 76,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 18,
-      "ability_match": 20,
-      "growth": 7,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "投递信息仍待核验",
-      "实习岗位，需确认转正机会"
     ],
     "status": "active"
   },
@@ -2438,69 +2557,6 @@
       "专业与设计院实习经历直接匹配"
     ],
     "score_risks": [
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "fc38e3ac2c938b5051fbfb356b39cc8d527c5a0aca30be7bbafbfcfd17f502a3",
-    "source_id": "gankinterview",
-    "source_job_id": "中国移动九天人工智能科技公司:2026-07-29:秋招:AI产品架构师",
-    "company": "中国移动九天人工智能科技公司",
-    "title": "AI产品架构师",
-    "location": [
-      "北京",
-      "广州",
-      "深圳",
-      "西安"
-    ],
-    "deadline": null,
-    "publish_date": "2026-07-29",
-    "first_seen": "2026-08-01",
-    "category": "AI产品",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "AI产品",
-      "工程"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://www.gankinterview.cn/campus?tab=state",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "Gank Interview 国央企校招汇总",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 54,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 9,
-      "ability_match": 15,
-      "growth": 7,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "建筑与AI复合背景可发挥"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
       "公司与待遇信息不足",
       "投递信息仍待核验"
     ],
