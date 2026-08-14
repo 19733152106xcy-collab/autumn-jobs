@@ -727,6 +727,130 @@
     "status": "active"
   },
   {
+    "fingerprint": "de5ecd742ede6b276eae2fbc991dd59471f5625139b9ced3ed9e29033dc9c1b7",
+    "source_id": "guopinleida",
+    "source_job_id": "5848172f-6166-4e96-adfd-5e9776b60a67",
+    "company": "广州市交通规划研究院",
+    "title": "广州市交通规划研究院2027届秋季校园招聘",
+    "location": [
+      "广州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-08-11",
+    "first_seen": "2026-08-15",
+    "category": "城市更新",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城市更新",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/BupevqV78QyFDgq5iR4Amg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "fd600ba1461251cd5e61b0826394868fe83c5a979e062c9286c4f737bcd45fb8",
+    "source_id": "guopinleida",
+    "source_job_id": "a4f60328-4dd8-43bc-ba07-a78d7c090da7",
+    "company": "中铁大桥院",
+    "title": "中铁大桥院2027届校园招聘正式启动！",
+    "location": [
+      "南京",
+      "广州",
+      "武汉",
+      "芜湖"
+    ],
+    "deadline": null,
+    "publish_date": "2026-08-11",
+    "first_seen": "2026-08-15",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/4_n5WPHDLQdoL137bwMeeQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 72,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 22,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "af284ccd81551632128d8b7e815c63d06417d927ad9a17709e31860ea111d963",
     "source_id": "guopinleida",
     "source_job_id": "32f0c2a9-3a5b-475b-bc96-f0731bc7ee2f",
@@ -1868,6 +1992,66 @@
     "status": "active"
   },
   {
+    "fingerprint": "84aa2ff95811104a58a7b9415d16e4df74caa9a241b1e1019f1bbe8949a2bdd5",
+    "source_id": "guopinleida",
+    "source_job_id": "393b4240-e77f-4e27-ae8c-4543a4dca117",
+    "company": "雅培",
+    "title": "雅培运营管培生项目开招啦！",
+    "location": [
+      "上海",
+      "嘉兴",
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-05",
+    "first_seen": "2026-07-28",
+    "category": "管培生",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "管培生",
+      "管培生"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/wNww_FO1CYkYZERncHyUVA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 49,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "8885673768df82211f83c544f19ee9bbdecf89152f964b8ae353620cc9133e19",
     "source_id": "guopinleida",
     "source_job_id": "8ed7a471-e4ec-41e6-9f41-26e79b79e4b4",
@@ -1926,66 +2110,6 @@
     "score_risks": [
       "学历、届别或专业信息不完整",
       "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "84aa2ff95811104a58a7b9415d16e4df74caa9a241b1e1019f1bbe8949a2bdd5",
-    "source_id": "guopinleida",
-    "source_job_id": "393b4240-e77f-4e27-ae8c-4543a4dca117",
-    "company": "雅培",
-    "title": "雅培运营管培生项目开招啦！",
-    "location": [
-      "上海",
-      "嘉兴",
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-05",
-    "first_seen": "2026-07-28",
-    "category": "管培生",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "管培生",
-      "管培生"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/wNww_FO1CYkYZERncHyUVA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 49,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 9,
-      "ability_match": 11,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
       "投递信息仍待核验"
     ],
     "status": "active"

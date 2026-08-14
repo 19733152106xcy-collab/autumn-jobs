@@ -1,6 +1,100 @@
 {
-  "updated_date": "2026-08-14",
+  "updated_date": "2026-08-15",
   "jobs": [
+    {
+      "fingerprint": "de5ecd742ede6b276eae2fbc991dd59471f5625139b9ced3ed9e29033dc9c1b7",
+      "company": "广州市交通规划研究院",
+      "title": "广州市交通规划研究院2027届秋季校园招聘",
+      "location": [
+        "广州"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-11",
+      "first_seen": "2026-08-15",
+      "category": "城市更新",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/BupevqV78QyFDgq5iR4Amg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 66,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 17,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "fd600ba1461251cd5e61b0826394868fe83c5a979e062c9286c4f737bcd45fb8",
+      "company": "中铁大桥院",
+      "title": "中铁大桥院2027届校园招聘正式启动！",
+      "location": [
+        "南京",
+        "广州",
+        "武汉",
+        "芜湖"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-11",
+      "first_seen": "2026-08-15",
+      "category": "建筑设计",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/4_n5WPHDLQdoL137bwMeeQ",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 72,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 22,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
     {
       "fingerprint": "8de8f32b8f1ba939cf1f1154e452569710a72cfb1e520395544c86a62f2419bd",
       "company": "货拉拉",
