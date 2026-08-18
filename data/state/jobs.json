@@ -724,68 +724,6 @@
     "status": "active"
   },
   {
-    "fingerprint": "8a3d75b9106f8a8c76a872109a66ffee9ed19eec640231ff565b91ad7a5e57ed",
-    "source_id": "bucea",
-    "source_job_id": "124646:24184",
-    "company": "中建三局上海",
-    "title": "项目管理岗",
-    "location": [
-      "上海杨浦区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-05-18",
-    "first_seen": "2026-07-30",
-    "category": "项目管理",
-    "match_level": "B",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "项目管理"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24184&zpxxId=124646",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 70,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 15,
-      "ability_match": 16,
-      "growth": 8,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "建筑与AI复合背景可发挥",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
     "fingerprint": "45d35d3256ce1c90d4589a5206027754234898901e703f1a5d695eccea1ccfe9",
     "source_id": "guopinleida",
     "source_job_id": "5ec30266-b014-4bbd-82e5-bf353a1e8678",
