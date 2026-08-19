@@ -1,6 +1,56 @@
 {
-  "updated_date": "2026-08-19",
+  "updated_date": "2026-08-20",
   "jobs": [
+    {
+      "fingerprint": "67b5daee91343bddbabefedf5286e0ad93727c8ca6cfda247aa7e9b93b0d48ef",
+      "company": "艾普工华",
+      "title": "艾普工华2027届秋季校园招聘进行中！",
+      "location": [
+        "成都",
+        "无锡",
+        "武汉",
+        "济南",
+        "深圳",
+        "郑州",
+        "长春",
+        "长沙"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-16",
+      "first_seen": "2026-08-20",
+      "category": "管培生",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/AxK2NW-_0y86LekenaGvFA",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 55,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 14,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "可作为补充机会，先核验关键信息",
+      "score_strengths": [],
+      "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
     {
       "fingerprint": "88451173cdc48ae48a065a27bbe97b784e3d3a61288a1ee16370c8ab34bb1dea",
       "company": "马上消费",
@@ -1193,51 +1243,6 @@
       ]
     },
     {
-      "fingerprint": "4991831de6f32a3d46b96fdc52c10f998691491947f7cb88d7b9f31709a19bdd",
-      "company": "北京恒森基业工程咨询",
-      "title": "管培生（预算工程师）",
-      "location": [
-        "北京海淀区"
-      ],
-      "deadline": null,
-      "publish_date": "2026-05-19",
-      "first_seen": "2026-07-30",
-      "category": "管培生",
-      "match_level": "C",
-      "apply_url": null,
-      "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24190&zpxxId=124653",
-      "source_type": "university",
-      "verification_status": "verified",
-      "source_name": "北京建筑大学就业网",
-      "official_apply_url": null,
-      "opportunity_type": "internship",
-      "job_group": "other",
-      "priority_rank": 3,
-      "priority_label": "跨行尝试",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 52,
-      "score_breakdown": {
-        "compensation_platform": 22,
-        "interview_probability": 11,
-        "ability_match": 11,
-        "growth": 6,
-        "application_cost": 2
-      },
-      "salary_band": "待确认",
-      "salary_basis": "待确认",
-      "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "招聘来源已核验"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "公司与待遇信息不足"
-      ]
-    },
-    {
       "fingerprint": "91b3b8e0262dfafa13bb0a9b5e2b1d1aa70ee68203cc8f8ea8637687c71e25a3",
       "company": "中经城投建设集团空轨设计研究",
       "title": "铁路及建筑设计师",
@@ -1374,51 +1379,6 @@
       ]
     },
     {
-      "fingerprint": "8fddd31753073148c5b38ea374c865144e8cb4a649a9b8b616ac99c072d58a8e",
-      "company": "中国大地财产保险股份有限公司北京分公司",
-      "title": "管培生",
-      "location": [
-        "北京西城区"
-      ],
-      "deadline": null,
-      "publish_date": "2026-05-19",
-      "first_seen": "2026-07-30",
-      "category": "管培生",
-      "match_level": "C",
-      "apply_url": null,
-      "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24188&zpxxId=124654",
-      "source_type": "university",
-      "verification_status": "verified",
-      "source_name": "北京建筑大学就业网",
-      "official_apply_url": null,
-      "opportunity_type": "full_time",
-      "job_group": "other",
-      "priority_rank": 3,
-      "priority_label": "跨行尝试",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 52,
-      "score_breakdown": {
-        "compensation_platform": 22,
-        "interview_probability": 11,
-        "ability_match": 11,
-        "growth": 6,
-        "application_cost": 2
-      },
-      "salary_band": "待确认",
-      "salary_basis": "待确认",
-      "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "招聘来源已核验"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "公司与待遇信息不足"
-      ]
-    },
-    {
       "fingerprint": "72259cd037951c92ec09804733b795d0796f14f18b98c988b884764bb82ba0c0",
       "company": "鼎一投资",
       "title": "鼎一校招 | 2027届实习管培生校园招聘",
@@ -1505,52 +1465,6 @@
       "score_strengths": [],
       "score_risks": [
         "学历、届别或专业信息不完整",
-        "公司与待遇信息不足",
-        "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "11ab47c6733d407b27de5ac913af116714619590b653140237eb4f2c27db0fbf",
-      "company": "筑境设计",
-      "title": "筑境设计 2026-2027 校园招聘全面启动",
-      "location": [
-        "上海",
-        "杭州"
-      ],
-      "deadline": null,
-      "publish_date": "2026-03-17",
-      "first_seen": "2026-07-28",
-      "category": "建筑设计",
-      "match_level": "A",
-      "apply_url": null,
-      "detail_url": "https://mp.weixin.qq.com/s/m00sywsJGvFlmQV_i0OGpQ",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "full_time",
-      "job_group": "architecture",
-      "priority_rank": 2,
-      "priority_label": "值得投",
-      "status": "active",
-      "eligibility_status": "eligible",
-      "eligibility_label": "可投",
-      "score_total": 72,
-      "score_breakdown": {
-        "compensation_platform": 22,
-        "interview_probability": 22,
-        "ability_match": 20,
-        "growth": 6,
-        "application_cost": 2
-      },
-      "salary_band": "待确认",
-      "salary_basis": "待确认",
-      "score_confidence": "低",
-      "score_summary": "综合条件尚可，值得安排投递",
-      "score_strengths": [
-        "专业与设计院实习经历直接匹配"
-      ],
-      "score_risks": [
         "公司与待遇信息不足",
         "投递信息仍待核验"
       ]
@@ -1984,59 +1898,6 @@
       "score_risks": [
         "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
-        "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "3d86280083e454b3e35572543f9374f96a59ce6c92f79734b35fd47b3c0849fd",
-      "company": "CVTE视源",
-      "title": "CVTE AI应用工程师校招专项计划启动！",
-      "location": [
-        "全国",
-        "合肥",
-        "广州",
-        "海外",
-        "苏州",
-        "西安",
-        "重庆"
-      ],
-      "deadline": null,
-      "publish_date": "2026-03-18",
-      "first_seen": "2026-07-28",
-      "category": "AI应用",
-      "match_level": "C",
-      "apply_url": null,
-      "detail_url": "http://mp.weixin.qq.com/s?__biz=MjM5NTYwODg4NA%3D%3D&mid=2652929913&idx=1&sn=ba51235171405ecd32a15ed1df7fdfc3&chksm=bd213f228a56b63433026af6873a94fe17cf8a11d10e76ea5d5430561ee90581085d4f2f5398",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "full_time",
-      "job_group": "other",
-      "priority_rank": 3,
-      "priority_label": "跨行尝试",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 71,
-      "score_breakdown": {
-        "compensation_platform": 36,
-        "interview_probability": 9,
-        "ability_match": 15,
-        "growth": 10,
-        "application_cost": 1
-      },
-      "salary_band": "A",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "头部科技或金融平台估算",
-        "建筑与AI复合背景可发挥"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "待遇为公司层级估算",
         "投递信息仍待核验"
       ]
     },
