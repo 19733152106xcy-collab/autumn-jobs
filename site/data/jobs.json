@@ -1,6 +1,52 @@
 {
-  "updated_date": "2026-08-26",
+  "updated_date": "2026-08-28",
   "jobs": [
+    {
+      "fingerprint": "736d26d0a769a0398b0f7af99db308742461eeb59383fd94d900f67f986be9f9",
+      "company": "上海中建东孚投资发展",
+      "title": "东孚公司2027届校园招聘",
+      "location": [
+        "上海，济南，北京，广州，深圳"
+      ],
+      "deadline": null,
+      "publish_date": "2026-06-18",
+      "first_seen": "2026-08-28",
+      "category": "城乡规划",
+      "match_level": "A",
+      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+      "source_type": "official",
+      "verification_status": "official",
+      "source_name": "中国建筑第八工程局招聘系统",
+      "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 25,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 5
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
+    },
     {
       "fingerprint": "45d35d3256ce1c90d4589a5206027754234898901e703f1a5d695eccea1ccfe9",
       "company": "赛乐医疗",
@@ -1369,52 +1415,6 @@
       "score_risks": [
         "公司与待遇信息不足",
         "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "ccb7d709c1c199f37592bb4ec1f8f4108de90b467646e2c2b50fc062fc84f80c",
-      "company": "上海中建东孚投资发展",
-      "title": "东孚公司2027届校园招聘",
-      "location": [
-        "上海，济南"
-      ],
-      "deadline": null,
-      "publish_date": "2026-06-18",
-      "first_seen": "2026-08-18",
-      "category": "城乡规划",
-      "match_level": "A",
-      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
-      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
-      "source_type": "official",
-      "verification_status": "official",
-      "source_name": "中国建筑第八工程局招聘系统",
-      "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
-      "opportunity_type": "full_time",
-      "job_group": "architecture",
-      "priority_rank": 1,
-      "priority_label": "优先投",
-      "status": "active",
-      "eligibility_status": "eligible",
-      "eligibility_label": "可投",
-      "score_total": 87,
-      "score_breakdown": {
-        "compensation_platform": 29,
-        "interview_probability": 25,
-        "ability_match": 20,
-        "growth": 8,
-        "application_cost": 5
-      },
-      "salary_band": "B",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "待遇平台与匹配度较好，建议优先投递",
-      "score_strengths": [
-        "央国企工程平台估算",
-        "专业与设计院实习经历直接匹配",
-        "招聘来源已核验"
-      ],
-      "score_risks": [
-        "待遇为公司层级估算"
       ]
     },
     {

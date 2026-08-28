@@ -124,17 +124,17 @@
     "status": "active"
   },
   {
-    "fingerprint": "ccb7d709c1c199f37592bb4ec1f8f4108de90b467646e2c2b50fc062fc84f80c",
+    "fingerprint": "736d26d0a769a0398b0f7af99db308742461eeb59383fd94d900f67f986be9f9",
     "source_id": "cscec8",
     "source_job_id": "2776",
     "company": "上海中建东孚投资发展",
     "title": "东孚公司2027届校园招聘",
     "location": [
-      "上海，济南"
+      "上海，济南，北京，广州，深圳"
     ],
     "deadline": null,
     "publish_date": "2026-06-18",
-    "first_seen": "2026-08-18",
+    "first_seen": "2026-08-28",
     "category": "城乡规划",
     "match_level": "A",
     "job_group": "architecture",
