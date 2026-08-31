@@ -183,66 +183,6 @@
     "status": "active"
   },
   {
-    "fingerprint": "fa4b694abd30c5ea56157c11d3a3e376f38c2b649deb5cdb1b8de71035dd3a36",
-    "source_id": "cscec8",
-    "source_job_id": "2760",
-    "company": "中国建筑第八工程局有限公司西北分公司",
-    "title": "西北公司2027届校园招聘",
-    "location": [
-      "陕西，甘肃，宁夏，青海，新疆，内蒙古，山西，四川，广东，海南"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-27",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2760",
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 78,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 25,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 5
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
     "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
     "source_id": "cscec8",
     "source_job_id": "2757",
