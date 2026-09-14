@@ -1,6 +1,51 @@
 {
-  "updated_date": "2026-09-11",
+  "updated_date": "2026-09-14",
   "jobs": [
+    {
+      "fingerprint": "66fd294ee07f6b9a9da7220700202d3e302e93c0cdfd2399d736086b5e311fb4",
+      "company": "北京大象建筑设计",
+      "title": "初级建筑设计师",
+      "location": [
+        "北京海淀区"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-14",
+      "first_seen": "2026-09-14",
+      "category": "建筑设计",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24394&zpxxId=124980",
+      "source_type": "university",
+      "verification_status": "verified",
+      "source_name": "北京建筑大学就业网",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 75,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 3
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足"
+      ]
+    },
     {
       "fingerprint": "6a14c41e9fab917b32ab15407317cf9bcd4e13444fd4ab08e61a182584b5337f",
       "company": "阿迪达斯",
