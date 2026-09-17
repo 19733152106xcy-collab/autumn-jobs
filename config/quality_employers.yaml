@@ -1,0 +1,91 @@
+# Only used when a role explicitly says "专业不限". Architecture-directed roles retain
+# their normal matching logic; broad cross-industry roles must clear this quality gate.
+head_company_keywords:
+  - 腾讯
+  - 阿里
+  - 蚂蚁
+  - 字节
+  - 华为
+  - 小米
+  - 百度
+  - 京东
+  - 美团
+  - 快手
+  - 网易
+  - 拼多多
+  - 滴滴
+  - 联想
+  - 海尔
+  - 美的
+  - 宁德时代
+  - 比亚迪
+  - 中国移动
+  - 中国电信
+  - 中国联通
+  - 中国银行
+  - 中国工商银行
+  - 中国建设银行
+  - 中国农业银行
+  - 招商银行
+  - 中金公司
+  - 中信证券
+  - 中国建筑
+  - 中国中车
+  - 中国商飞
+  - 中国航天
+  - 中国航空工业
+  - 中国电子
+  - 中国电科
+  - 中国兵器
+  - 国家电网
+  - 南方电网
+  - 中石油
+  - 中石化
+  - 中海油
+
+# Public source descriptions often identify the ownership directly. This is the
+# preferred signal for an employer not yet present in the name whitelist.
+foreign_employer_markers:
+  - 外企
+  - 外商独资
+  - 中外合资
+  - foreign company
+  - multinational
+
+# Well-known foreign employers that may be named without an ownership label in
+# an aggregator. Add names only when their foreign-employer status is clear.
+foreign_company_keywords:
+  - 雅诗兰黛
+  - 阿迪达斯
+  - 达能
+  - 梅塞尔
+  - 亿滋
+  - 宝洁
+  - 联合利华
+  - 欧莱雅
+  - 雀巢
+  - 西门子
+  - 博世
+  - 施耐德
+  - 霍尼韦尔
+  - IBM
+  - 微软
+  - 谷歌
+  - Google
+  - 苹果
+  - Apple
+  - 亚马逊
+  - Amazon
+  - 英特尔
+  - Intel
+  - SAP
+  - 甲骨文
+  - Oracle
+  - 埃森哲
+  - Accenture
+  - 宝马
+  - 奔驰
+  - 大众汽车
+  - 奥迪
+  - 特斯拉
+  - Tesla

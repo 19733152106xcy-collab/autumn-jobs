@@ -10,7 +10,39 @@ def test_excludes_water_supply_but_keeps_project_management():
 
 def test_outputs_architecture_and_other_groups():
     assert match_job("建筑设计师", "2027届本科建筑学").job_group == "architecture"
-    assert match_job("AI产品助理", "2027届本科专业不限").job_group == "other"
+    assert match_job("AI产品助理", "2027届本科专业不限", company="腾讯").job_group == "other"
+
+
+@pytest.mark.parametrize("title", ["城市设计岗", "存量更新设计师", "片区更新规划师"])
+def test_expanded_urban_regeneration_roles_are_direct_architecture_matches(title):
+    result = match_job(title, "2027届本科，建筑学及相关专业")
+
+    assert result.included is True
+    assert result.level == "A"
+    assert result.job_group == "architecture"
+
+
+def test_unrestricted_major_cross_industry_role_requires_top_company_or_foreign_employer():
+    description = "2027届本科应届生，专业不限，AI产品与项目方向"
+
+    assert match_job("AI产品助理", description, company="某普通科技公司").included is False
+    assert match_job("AI产品助理", description, company="腾讯").included is True
+    assert match_job("AI产品助理", "外企 " + description, company="某国际公司").included is True
+
+
+def test_cross_industry_role_without_a_major_requirement_uses_the_same_quality_gate():
+    description = "2027届本科应届生，管培生项目方向"
+
+    assert match_job("管培生", description, company="某普通集团").included is False
+    assert match_job("管培生", description, company="腾讯").included is True
+    assert match_job("管培生", description, company="雅诗兰黛").included is True
+
+
+def test_cross_industry_role_with_a_relevant_major_still_requires_a_quality_employer():
+    description = "2027届本科应届生，工程类相关专业，AI产品方向"
+
+    assert match_job("AI产品助理", description, company="某普通科技公司").included is False
+    assert match_job("AI产品助理", description, company="华为").included is True
 
 
 def test_classifies_a_summer_internship_as_an_internship_opportunity():
@@ -74,6 +106,7 @@ def test_generic_2027_campaign_uses_relevant_body_roles_for_cross_industry_match
     result = match_job(
         "彩讯2027校园招聘 RICH AI+人才计划",
         "管培生，包含产品与项目方向、设计方向，本科应届生，专业不限",
+        company="腾讯",
     )
 
     assert result.included is True

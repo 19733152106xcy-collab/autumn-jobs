@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+from functools import lru_cache
 from pathlib import Path
 
 import yaml
@@ -50,8 +51,15 @@ POSTGRADUATE_ONLY_PATTERNS = (
 )
 
 
+@lru_cache(maxsize=1)
 def _keywords() -> dict[str, list[str]]:
     path = Path(__file__).parents[2] / "config" / "keywords.yaml"
+    return yaml.safe_load(path.read_text(encoding="utf-8"))
+
+
+@lru_cache(maxsize=1)
+def _quality_employers() -> dict[str, list[str]]:
+    path = Path(__file__).parents[2] / "config" / "quality_employers.yaml"
     return yaml.safe_load(path.read_text(encoding="utf-8"))
 
 
@@ -62,6 +70,22 @@ def _contains(value: str, words: list[str]) -> list[str]:
 
 def _has_eligible_major(text: str) -> bool:
     return any(pattern in text for pattern in ELIGIBLE_MAJOR_PATTERNS)
+
+
+def _is_quality_unrestricted_employer(company: str, description: str) -> bool:
+    settings = _quality_employers()
+    company_lower = company.lower()
+    description_lower = description.lower()
+    return any(
+        marker.lower() in company_lower
+        for marker in settings["head_company_keywords"]
+    ) or any(
+        marker.lower() in company_lower
+        for marker in settings["foreign_company_keywords"]
+    ) or any(
+        marker.lower() in description_lower
+        for marker in settings["foreign_employer_markers"]
+    )
 
 
 def _requires_postgraduate(text: str) -> bool:
@@ -93,7 +117,7 @@ def classify_opportunity(title: str, description: str) -> str:
     return "internship"
 
 
-def match_job(title: str, description: str) -> MatchResult:
+def match_job(title: str, description: str, company: str = "") -> MatchResult:
     text = f"{title} {description}"
     rules = _keywords()
     requirements = _requirements(text)
@@ -144,6 +168,12 @@ def match_job(title: str, description: str) -> MatchResult:
     ):
         cross = body_cross
     relevance = _contains(text, rules["cross_relevance"])
+    if cross and not _is_quality_unrestricted_employer(company, description):
+        return MatchResult(
+            included=False,
+            reasons=["跨行业岗位未达到头部企业或外企门槛"],
+            requirements=requirements,
+        )
     if cross and relevance:
         return MatchResult(
             included=True, level="C", category=cross[0], job_group="other", reasons=cross + relevance[:1],

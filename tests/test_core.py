@@ -122,7 +122,7 @@ def test_unrelated_sales_is_not_kept_as_c_match():
 def test_ai_solution_is_c_when_bachelor_and_major_unrestricted():
     from autumn_jobs.matching import match_job
 
-    result = match_job("AI解决方案助理", "本科应届生，专业不限")
+    result = match_job("AI解决方案助理", "本科应届生，专业不限", company="腾讯")
 
     assert result.included is True
     assert result.level == "C"

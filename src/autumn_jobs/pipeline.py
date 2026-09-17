@@ -37,7 +37,7 @@ def _priority(matched, raw: RawJob) -> tuple[int, str]:
 def _to_business(raw: RawJob, today: date) -> JobBusiness | None:
     if not is_active_job(raw, today):
         return None
-    matched = match_job(raw.title, raw.description)
+    matched = match_job(raw.title, raw.description, company=raw.company)
     if not matched.included:
         return None
     company = normalize_company(raw.company)
