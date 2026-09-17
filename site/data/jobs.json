@@ -382,6 +382,147 @@
       ]
     },
     {
+      "fingerprint": "cadc9f7c83b817e6362ab23319e390a0ecfed05e092ad379e873a2eb35cfffc9",
+      "company": "百济神州",
+      "title": "百济神州2027校园招聘正式启动！",
+      "location": [
+        "上海",
+        "北京",
+        "广州",
+        "武汉",
+        "苏州"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-13",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/_ueb-3sQl9jaUAfaZ97IwA",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "f7f221e8a2c5226bbb36fda052beec22a051b112043551a487d3f8ee1cf3d83e",
+      "company": "百事",
+      "title": "百事集团2027年综合管理培训生招聘正式开启!",
+      "location": [
+        "上海"
+      ],
+      "deadline": "2026-10-18",
+      "publish_date": "2026-09-06",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/rq0zGd3u83UsfFRMsNIY8g",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 73,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 14,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 2
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "cf18dc4f9b8d3af291156b23cc6c952304264d1a678fd122da78df6f01fb61b3",
+      "company": "玻色量子",
+      "title": "玻色量子2027届校招",
+      "location": [
+        "上海",
+        "北京",
+        "成都",
+        "深圳"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-14",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/lhLPLyoC6saqV-Q8VKgE_A",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 55,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 14,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "可作为补充机会，先核验关键信息",
+      "score_strengths": [],
+      "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
       "fingerprint": "4bb2af47e2231718893e555cb08c535845088e12115be830aa15f93185835ef2",
       "company": "湖北建科集团",
       "title": "建科集团2027届校招热力启航",
@@ -422,6 +563,103 @@
         "专业与设计院实习经历直接匹配"
       ],
       "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "a1dc199e13d9cc5ab2319ac3b3c5deb43ac5a6a1d647488872f72402a3fd70c0",
+      "company": "深蓝航天",
+      "title": "深蓝航天2027届校园招聘正式启动",
+      "location": [
+        "北京",
+        "无锡",
+        "泰安",
+        "蚌埠"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-10",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/9ahrmxnFHAS4FjZo_S5XJg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "12585bcc28b1cb5a1fa563351efbb7b45e691b039b66fe21f580f40db9bc22cf",
+      "company": "海天味业",
+      "title": "海天味业2027全球校园招聘正式启动！",
+      "location": [
+        "佛山",
+        "全国",
+        "南宁",
+        "嘉兴",
+        "宿迁",
+        "杭州",
+        "武汉"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-01",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/il5ALrFIePtrk-wjI4OIlg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
         "投递信息仍待核验"
       ]
@@ -527,6 +765,156 @@
       ]
     },
     {
+      "fingerprint": "a81296bed97369f5ed44661bdab4976db09b919d75e020cdce83fa18e8f03b22",
+      "company": "李锦记",
+      "title": "李锦记酱料中国区2027年校园招聘正式启动",
+      "location": [
+        "上海",
+        "全国",
+        "北京",
+        "重庆"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-14",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/q-p6mjt3An2bbXBlRPIo-w",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "10568afb4864725b3bc4983d010d7acac5958cb2ad311de3cf9c85af617cafb3",
+      "company": "昂跑",
+      "title": "On昂跑 2027零售管培生正式启动！",
+      "location": [
+        "上海",
+        "北京",
+        "广州",
+        "香港"
+      ],
+      "deadline": "2026-11-30",
+      "publish_date": "2026-09-14",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/vlSAEo38Saz3WiuQ_SfSTg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 73,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 14,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 2
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "db2793cf8b342ef1eb7402a2d9f9ad05c79ecc8bb7d71c460e1a536097a0a246",
+      "company": "招商证券",
+      "title": "招商证券2027届校园招聘正式启动",
+      "location": [
+        "上海",
+        "北京",
+        "南京",
+        "广州",
+        "成都",
+        "杭州",
+        "武汉",
+        "济南",
+        "深圳",
+        "青岛"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-02",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/1lqfiKrUH0uyqn3O2528wA",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
       "fingerprint": "f7cc568dc8f86017a43f6d433ae12f7ca5703396bda3bff993d3cc33f794918b",
       "company": "招商局集团",
       "title": "招商局集团2027届校园招聘正式启动！",
@@ -597,6 +985,54 @@
       "score_risks": [
         "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "501d716594abe596808de34d2e5361e5dc8433f57724e5ecebc38cd58a11808f",
+      "company": "怡安",
+      "title": "怡安2027年度校园招聘正式启动",
+      "location": [
+        "上海",
+        "北京",
+        "广州"
+      ],
+      "deadline": "2026-10-16",
+      "publish_date": "2026-09-14",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/tSEBMoCTJ2aG_f86jrij_g",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
         "投递信息仍待核验"
       ]
     },
@@ -706,6 +1142,51 @@
       ]
     },
     {
+      "fingerprint": "12eee3c79d75fdcfabb07f453eae267851f20e29f9f13502afb4bb6d8355b3b7",
+      "company": "太古集团",
+      "title": "SMP计划｜2027太古全球领导力发展计划正式启动",
+      "location": [
+        "全国"
+      ],
+      "deadline": "2026-10-31",
+      "publish_date": "2026-09-13",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/hrg4IB14NtIRrDQr4ulkQw",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 73,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 14,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 2
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
       "fingerprint": "e7e91a3b4cce91c6645a06c47a8b3ba0822b8c716960079438e6ceb921beb2cb",
       "company": "基准方中建筑设计股份有限公司北京分公司",
       "title": "基准方中2027届校园招聘",
@@ -728,27 +1209,26 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 78,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 84,
       "score_breakdown": {
         "compensation_platform": 29,
-        "interview_probability": 19,
+        "interview_probability": 24,
         "ability_match": 20,
         "growth": 8,
-        "application_cost": 2
+        "application_cost": 3
       },
       "salary_band": "B",
       "salary_basis": "估算",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
       "score_strengths": [
         "央国企工程平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
         "待遇为公司层级估算"
       ]
     },
@@ -931,28 +1411,26 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 87,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 75,
       "score_breakdown": {
-        "compensation_platform": 36,
-        "interview_probability": 19,
+        "compensation_platform": 22,
+        "interview_probability": 24,
         "ability_match": 20,
-        "growth": 10,
-        "application_cost": 2
+        "growth": 6,
+        "application_cost": 3
       },
-      "salary_band": "A",
-      "salary_basis": "估算",
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "综合条件尚可，值得安排投递",
       "score_strengths": [
-        "头部城市开发、设计管理或运营平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
-        "待遇为公司层级估算"
+        "公司与待遇信息不足"
       ]
     },
     {
@@ -998,6 +1476,53 @@
       ],
       "score_risks": [
         "公司与待遇信息不足"
+      ]
+    },
+    {
+      "fingerprint": "4d36f75f7564c68a07229c3fecffb7e4404bb6f9e3c67e31b497d363a857789a",
+      "company": "优衣库",
+      "title": "优衣库全球供应链生产管培2027校园招聘正式启动！",
+      "location": [
+        "全国",
+        "海外"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-07",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/PcqlOH1-qjFFjL2VBFPDeg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
       ]
     },
     {
@@ -1107,6 +1632,51 @@
       "score_strengths": [
         "专业与设计院实习经历直接匹配"
       ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "bba828ebe76520b884d824bc02e2f36304408f5377ef60b66c3a441a4e62a2b4",
+      "company": "中电港",
+      "title": "中电港2027届校园招聘正式启动！",
+      "location": [
+        "全国",
+        "深圳"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-31",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/GkdSA8I5beplyAOK97FF-A",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
       "score_risks": [
         "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
@@ -1695,26 +2265,25 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 69,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 75,
       "score_breakdown": {
         "compensation_platform": 22,
-        "interview_probability": 19,
+        "interview_probability": 24,
         "ability_match": 20,
         "growth": 6,
-        "application_cost": 2
+        "application_cost": 3
       },
       "salary_band": "待确认",
       "salary_basis": "待确认",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "综合条件尚可，值得安排投递",
       "score_strengths": [
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
         "公司与待遇信息不足"
       ]
     },
@@ -1762,6 +2331,54 @@
       "score_strengths": [
         "专业与设计院实习经历直接匹配"
       ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "bbac89eaf6eae5e489948534a8cb4d40925a88673626cbdc198c654897ed70f1",
+      "company": "中信城开",
+      "title": "中信城开2027届秋季校园招聘",
+      "location": [
+        "三亚",
+        "北京",
+        "宁波",
+        "无锡",
+        "深圳"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-31",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/7-1DTvFRJMveZxYNrDQGAw",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
       "score_risks": [
         "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
@@ -1876,6 +2493,53 @@
       ]
     },
     {
+      "fingerprint": "6c370eb403e962f2a1bf165c3832c3b5ddb269c623f1faffe04f262e12ee4070",
+      "company": "东风汽车",
+      "title": "东风汽车股份有限公司2027届校园招聘",
+      "location": [
+        "全国",
+        "十堰",
+        "武汉",
+        "襄阳"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-03",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/LYbQ-p2P0Hkgr7QL-VHhsg",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
       "fingerprint": "6ceb15584ce8998faa6b778d1e071ba77e020ce6162918e01001377f686a0cdb",
       "company": "世源科技",
       "title": "世源科技工程有限公司2027校园招聘",
@@ -1929,6 +2593,53 @@
       ]
     },
     {
+      "fingerprint": "3bdea2ed04eff45ed4af45f29607ad4149e3ddcc58c1f269be06e5f8b838becb",
+      "company": "不凡帝范梅勒",
+      "title": "不凡帝范梅勒2027届校园招聘正式启动！",
+      "location": [
+        "上海",
+        "深圳"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-09",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/xcMhjjPXA1c6FL-dK6mXug",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
       "fingerprint": "736d26d0a769a0398b0f7af99db308742461eeb59383fd94d900f67f986be9f9",
       "company": "上海中建东孚投资发展",
       "title": "东孚公司2027届校园招聘",
@@ -1951,27 +2662,26 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 90,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
       "score_breakdown": {
-        "compensation_platform": 36,
-        "interview_probability": 20,
+        "compensation_platform": 29,
+        "interview_probability": 25,
         "ability_match": 20,
-        "growth": 10,
-        "application_cost": 4
+        "growth": 8,
+        "application_cost": 5
       },
-      "salary_band": "A",
+      "salary_band": "B",
       "salary_basis": "估算",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
       "score_strengths": [
-        "头部城市开发、设计管理或运营平台估算",
+        "央国企工程平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
         "待遇为公司层级估算"
       ]
     },
@@ -2023,6 +2733,267 @@
       ]
     },
     {
+      "fingerprint": "1a87253ad65f9f04209b199344060c228c969b01b7a79449cff85e34234128b0",
+      "company": "vivo苏皖",
+      "title": "vivo苏皖2027届校园招聘正式启动！",
+      "location": [
+        "南京"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-06",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/P9kbkZRWi0ZEz25vVwgHow",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 49,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 6,
+        "application_cost": 1
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "7f9bb55830dbeea5400e348d38dba16194b862f08c64236651a1c1eda3d419d0",
+      "company": "bp中国",
+      "title": "bp中国2027校园招聘正式开启",
+      "location": [
+        "上海"
+      ],
+      "deadline": "2026-10-16",
+      "publish_date": "2026-09-13",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/ju8G4ExxgCUdOcn6DnLffA",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "caac900652f85d261700067ad6ef4d8edb7473c284114d38803008761f129651",
+      "company": "IntelliPro英特利普集团",
+      "title": "IntelliPro英特利普集团 ⌈2027届校园招聘⌋ 全面启动！",
+      "location": [
+        "上海",
+        "北京",
+        "南京",
+        "大连",
+        "常州",
+        "成都",
+        "杭州",
+        "武汉",
+        "海外",
+        "深圳",
+        "苏州",
+        "西安",
+        "长沙",
+        "香港"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-02",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/J1QQaf7LQK3epH9Ka7rhWw",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "mixed",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "6388fb062cb34d492a9480da1dfc0c6e82d1aacd84a43d2e1a87ce10fc8bf8d9",
+      "company": "GE医疗集团",
+      "title": "GE医疗2027届校园招聘正式启动！",
+      "location": [
+        "上海",
+        "乌鲁木齐",
+        "北京",
+        "南京",
+        "天津",
+        "太原",
+        "广州",
+        "成都",
+        "杭州",
+        "济南",
+        "福州",
+        "西安",
+        "长沙"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-30",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/knwZ0l3mOHR0OgokWuLcNA",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "8e5618fa330e6278a4185d283318e037a3cf1132ba5d3baec22f4306e3c9905d",
+      "company": "ATOMIC岱澳集团",
+      "title": "ATOMIC岱澳集团2027校园招聘正式启动！",
+      "location": [
+        "上海",
+        "北京",
+        "南京",
+        "大连",
+        "广州",
+        "成都",
+        "深圳",
+        "苏州",
+        "西安"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-30",
+      "first_seen": "2026-09-17",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": null,
+      "detail_url": "https://mp.weixin.qq.com/s/0bwqBD6_mcGki8dE9Liy3A",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "mixed",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
+    {
       "fingerprint": "8ef8f857f60bcf8d18b0c8c027f39365b63a5c0e0f5b94e399027bf9c643de26",
       "company": "中建八局装饰工程",
       "title": "装饰公司2027届校园招聘",
@@ -2045,27 +3016,26 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 81,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
       "score_breakdown": {
         "compensation_platform": 29,
-        "interview_probability": 20,
+        "interview_probability": 25,
         "ability_match": 20,
         "growth": 8,
-        "application_cost": 4
+        "application_cost": 5
       },
       "salary_band": "B",
       "salary_basis": "估算",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
       "score_strengths": [
         "央国企工程平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
         "待遇为公司层级估算"
       ]
     },
@@ -2139,27 +3109,26 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 81,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
       "score_breakdown": {
         "compensation_platform": 29,
-        "interview_probability": 20,
+        "interview_probability": 25,
         "ability_match": 20,
         "growth": 8,
-        "application_cost": 4
+        "application_cost": 5
       },
       "salary_band": "B",
       "salary_basis": "估算",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
       "score_strengths": [
         "央国企工程平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
         "待遇为公司层级估算"
       ]
     },
@@ -2186,27 +3155,26 @@
       "priority_rank": 1,
       "priority_label": "优先投",
       "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 81,
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 87,
       "score_breakdown": {
         "compensation_platform": 29,
-        "interview_probability": 20,
+        "interview_probability": 25,
         "ability_match": 20,
         "growth": 8,
-        "application_cost": 4
+        "application_cost": 5
       },
       "salary_band": "B",
       "salary_basis": "估算",
       "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
       "score_strengths": [
         "央国企工程平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
       "score_risks": [
-        "学历、届别或专业信息不完整",
         "待遇为公司层级估算"
       ]
     }

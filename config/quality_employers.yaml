@@ -53,6 +53,14 @@ head_company_keywords:
   - 中建东孚
   - 中建壹品
   - 中建智地
+  - 招商证券
+  - 东风汽车
+  - vivo
+  - 中信城开
+  - 海天味业
+  - 深蓝航天
+  - 玻色量子
+  - 中电港
 
 # Public source descriptions often identify the ownership directly. This is the
 # preferred signal for an employer not yet present in the name whitelist.
@@ -92,6 +100,18 @@ foreign_company_keywords:
   - SAP
   - 甲骨文
   - Oracle
+  - 昂跑
+  - 怡安
+  - bp中国
+  - 太古集团
+  - 不凡帝范梅勒
+  - 优衣库
+  - 百事
+  - GE医疗
+  - ATOMIC
+  - IntelliPro
+  - 李锦记
+  - 百济神州
   - 埃森哲
   - Accenture
   - 宝马

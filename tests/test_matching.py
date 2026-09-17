@@ -38,6 +38,14 @@ def test_cross_industry_role_without_a_major_requirement_uses_the_same_quality_g
     assert match_job("管培生", description, company="雅诗兰黛").included is True
 
 
+def test_quality_unrestricted_role_is_kept_without_a_cross_industry_title_keyword():
+    result = match_job("管理培训项目", "2027届本科应届生，专业不限", company="GE医疗集团")
+
+    assert result.included is True
+    assert result.level == "C"
+    assert result.category == "不限专业优质岗"
+
+
 def test_cross_industry_role_with_a_relevant_major_still_requires_a_quality_employer():
     description = "2027届本科应届生，工程类相关专业，AI产品方向"
 

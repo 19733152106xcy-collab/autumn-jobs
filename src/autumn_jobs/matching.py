@@ -156,6 +156,15 @@ def match_job(title: str, description: str, company: str = "") -> MatchResult:
             included=True, level="B", category=related[0], job_group="architecture", reasons=related,
             requirements=requirements,
         )
+    if "专业不限" in description and _is_quality_unrestricted_employer(company, description):
+        return MatchResult(
+            included=True,
+            level="C",
+            category="不限专业优质岗",
+            job_group="other",
+            reasons=["专业不限", "头部企业或外企"],
+            requirements=requirements,
+        )
     cross = _contains(title, rules["cross_industry"])
     generic_campaign = any(pattern in title for pattern in GENERIC_CAMPAIGN_PATTERNS)
     body_cross = _contains(description, rules["cross_industry"])
