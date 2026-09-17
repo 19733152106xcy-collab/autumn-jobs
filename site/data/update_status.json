@@ -1,12 +1,77 @@
 {
   "updated_date": "2026-09-17",
-  "active_jobs": 64,
-  "today_added": 26,
+  "active_jobs": 65,
+  "today_added": 1,
   "source_counts": {
+    "cadg": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "biad": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "brdr": {
+      "discovered": 3,
+      "included": 0,
+      "excluded": 3
+    },
+    "ccdc": {
+      "discovered": 3,
+      "included": 0,
+      "excluded": 3
+    },
+    "cscec": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "xauat": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "tongji": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "zju": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "chinaconstruction": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "cscec8": {
+      "discovered": 41,
+      "included": 5,
+      "excluded": 36
+    },
+    "bucea": {
+      "discovered": 187,
+      "included": 7,
+      "excluded": 180
+    },
     "guopinleida": {
       "discovered": 1438,
       "included": 48,
       "excluded": 1390
+    },
+    "hust": {
+      "discovered": 22,
+      "included": 5,
+      "excluded": 17
+    },
+    "gankinterview": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
     }
   }
 }

@@ -99,26 +99,27 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 81,
     "score_breakdown": {
       "compensation_platform": 29,
-      "interview_probability": 25,
+      "interview_probability": 20,
       "ability_match": 20,
       "growth": 8,
-      "application_cost": 5
+      "application_cost": 4
     },
     "salary_band": "B",
     "salary_basis": "估算",
     "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
       "央国企工程平台估算",
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
+      "学历、届别或专业信息不完整",
       "待遇为公司层级估算"
     ],
     "status": "active"
@@ -158,26 +159,27 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 90,
     "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 25,
+      "compensation_platform": 36,
+      "interview_probability": 20,
       "ability_match": 20,
-      "growth": 8,
-      "application_cost": 5
+      "growth": 10,
+      "application_cost": 4
     },
-    "salary_band": "B",
+    "salary_band": "A",
     "salary_basis": "估算",
     "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
-      "央国企工程平台估算",
+      "头部城市开发、设计管理或运营平台估算",
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
+      "学历、届别或专业信息不完整",
       "待遇为公司层级估算"
     ],
     "status": "active"
@@ -219,26 +221,27 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 81,
     "score_breakdown": {
       "compensation_platform": 29,
-      "interview_probability": 25,
+      "interview_probability": 20,
       "ability_match": 20,
       "growth": 8,
-      "application_cost": 5
+      "application_cost": 4
     },
     "salary_band": "B",
     "salary_basis": "估算",
     "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
       "央国企工程平台估算",
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
+      "学历、届别或专业信息不完整",
       "待遇为公司层级估算"
     ],
     "status": "active"
@@ -282,26 +285,27 @@
     "source_name": "中国建筑第八工程局招聘系统",
     "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 87,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 81,
     "score_breakdown": {
       "compensation_platform": 29,
-      "interview_probability": 25,
+      "interview_probability": 20,
       "ability_match": 20,
       "growth": 8,
-      "application_cost": 5
+      "application_cost": 4
     },
     "salary_band": "B",
     "salary_basis": "估算",
     "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
       "央国企工程平台估算",
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
+      "学历、届别或专业信息不完整",
       "待遇为公司层级估算"
     ],
     "status": "active"
@@ -341,25 +345,26 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 75,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 69,
     "score_breakdown": {
       "compensation_platform": 22,
-      "interview_probability": 24,
+      "interview_probability": 19,
       "ability_match": 20,
       "growth": 6,
-      "application_cost": 3
+      "application_cost": 2
     },
     "salary_band": "待确认",
     "salary_basis": "待确认",
     "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
+      "学历、届别或专业信息不完整",
       "公司与待遇信息不足"
     ],
     "status": "active"
@@ -583,26 +588,27 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 84,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 78,
     "score_breakdown": {
       "compensation_platform": 29,
-      "interview_probability": 24,
+      "interview_probability": 19,
       "ability_match": 20,
       "growth": 8,
-      "application_cost": 3
+      "application_cost": 2
     },
     "salary_band": "B",
     "salary_basis": "估算",
     "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
       "央国企工程平台估算",
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
+      "学历、届别或专业信息不完整",
       "待遇为公司层级估算"
     ],
     "status": "active"
@@ -644,26 +650,28 @@
     "source_name": "北京建筑大学就业网",
     "official_apply_url": null,
     "opportunity_type": "mixed",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 75,
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 87,
     "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 24,
+      "compensation_platform": 36,
+      "interview_probability": 19,
       "ability_match": 20,
-      "growth": 6,
-      "application_cost": 3
+      "growth": 10,
+      "application_cost": 2
     },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
+    "salary_band": "A",
+    "salary_basis": "估算",
     "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
+      "头部城市开发、设计管理或运营平台估算",
       "专业与设计院实习经历直接匹配",
       "招聘来源已核验"
     ],
     "score_risks": [
-      "公司与待遇信息不足"
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
     ],
     "status": "active"
   },
@@ -722,256 +730,6 @@
     ],
     "score_risks": [
       "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "fc5ac59db9a9a127e7f81ec45eb4a7331c27b9340fc3fa3b331a8b2dd8dc8bb7",
-    "source_id": "hust",
-    "source_job_id": "2436543",
-    "company": "中建四局投资发展公司",
-    "title": "中建四局投资发展公司2027届 “善成主理人”校园招聘简章",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-16",
-    "first_seen": "2026-09-17",
-    "category": "城市更新",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城市更新",
-      "城市设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.hust.edu.cn/zpinfo1/2436543.htm",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "华中科技大学就业信息网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 78,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "77ec667b393c3c2557f73ec55c24deb34cf21ddd865c21cdc24ba3608e67e41d",
-    "source_id": "hust",
-    "source_job_id": "2434983",
-    "company": "【绽放星生 城就不凡】绿城管理",
-    "title": "【绽放星生 城就不凡】绿城管理2027届绿星原力校园招聘",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-15",
-    "first_seen": "2026-09-17",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.hust.edu.cn/zpinfo1/2434983.htm",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "华中科技大学就业信息网",
-    "official_apply_url": null,
-    "opportunity_type": "mixed",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 87,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 10,
-      "application_cost": 2
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部城市开发、设计管理或运营平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "dd7cce171e8ac07cb2b75c2cc4e4e9d2b61e2983b43be32318486ab4e508e7db",
-    "source_id": "hust",
-    "source_job_id": "2413097",
-    "company": "中建三局二公司",
-    "title": "中建三局二公司2027届校园招聘简章",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-11",
-    "first_seen": "2026-09-17",
-    "category": "城市更新",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城市更新"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.hust.edu.cn/zpinfo1/2413097.htm",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "华中科技大学就业信息网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 78,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "de689b6fef3aa6d638d8a5f0d8f130748cd83560ad4719e3986eea67871bf2d6",
-    "source_id": "hust",
-    "source_job_id": "2433650",
-    "company": "绿城中国浙江公司",
-    "title": "绿城中国浙江公司2027届秋季校园招聘（同道人）",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-11",
-    "first_seen": "2026-09-17",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.hust.edu.cn/zpinfo1/2433650.htm",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "华中科技大学就业信息网",
-    "official_apply_url": null,
-    "opportunity_type": "mixed",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 87,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 10,
-      "application_cost": 2
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部城市开发、设计管理或运营平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
     ],
     "status": "active"
   },
@@ -4113,6 +3871,315 @@
       "学历、届别或专业信息不完整",
       "公司与待遇信息不足",
       "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "fc5ac59db9a9a127e7f81ec45eb4a7331c27b9340fc3fa3b331a8b2dd8dc8bb7",
+    "source_id": "hust",
+    "source_job_id": "2436543",
+    "company": "中建四局投资发展公司",
+    "title": "中建四局投资发展公司2027届 “善成主理人”校园招聘简章",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "category": "城市更新",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城市更新",
+      "城市设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2436543.htm",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 78,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "f699173dd09bfa976b589a4ec33189613c637b028385d37fcab51a37d64a66eb",
+    "source_id": "hust",
+    "source_job_id": "2435850",
+    "company": "“梦想靠岸”招商银行海口分行2027秋季",
+    "title": "“梦想靠岸”招商银行海口分行2027秋季校园招聘公告",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-16",
+    "first_seen": "2026-09-17",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2435850.htm",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 52,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 11,
+      "ability_match": 11,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "77ec667b393c3c2557f73ec55c24deb34cf21ddd865c21cdc24ba3608e67e41d",
+    "source_id": "hust",
+    "source_job_id": "2434983",
+    "company": "【绽放星生 城就不凡】绿城管理",
+    "title": "【绽放星生 城就不凡】绿城管理2027届绿星原力校园招聘",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-15",
+    "first_seen": "2026-09-17",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2434983.htm",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 10,
+      "application_cost": 2
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部城市开发、设计管理或运营平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "dd7cce171e8ac07cb2b75c2cc4e4e9d2b61e2983b43be32318486ab4e508e7db",
+    "source_id": "hust",
+    "source_job_id": "2413097",
+    "company": "中建三局二公司",
+    "title": "中建三局二公司2027届校园招聘简章",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-11",
+    "first_seen": "2026-09-17",
+    "category": "城市更新",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城市更新"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2413097.htm",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 78,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "de689b6fef3aa6d638d8a5f0d8f130748cd83560ad4719e3986eea67871bf2d6",
+    "source_id": "hust",
+    "source_job_id": "2433650",
+    "company": "绿城中国浙江公司",
+    "title": "绿城中国浙江公司2027届秋季校园招聘（同道人）",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-11",
+    "first_seen": "2026-09-17",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2433650.htm",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 10,
+      "application_cost": 2
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部城市开发、设计管理或运营平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
     ],
     "status": "active"
   }
