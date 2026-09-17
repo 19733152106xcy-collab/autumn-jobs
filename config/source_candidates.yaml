@@ -1,4 +1,8 @@
 candidates:
+  - id: hust
+    name: 华中科技大学就业信息网
+    url: https://job.hust.edu.cn/zpxx123123/index.htm
+    group: university
   - id: cadg
     name: 中国建筑设计研究院
     url: https://hr.cadg.com.cn/

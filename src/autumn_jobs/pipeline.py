@@ -98,7 +98,18 @@ def run_pipeline(
     state_path = state_dir / "jobs.json"
     previous = load_jobs(state_path)
     previous_first_seen = {job.fingerprint: job.first_seen for job in previous}
-    incoming = [_to_business(raw, today) for jobs in source_jobs.values() for raw in jobs]
+    source_counts: dict[str, dict[str, int]] = {}
+    incoming: list[JobBusiness | None] = []
+    for source_id, jobs in source_jobs.items():
+        counts = {"discovered": len(jobs), "included": 0, "excluded": 0}
+        for raw in jobs:
+            job = _to_business(raw, today)
+            incoming.append(job)
+            if job is None:
+                counts["excluded"] += 1
+            else:
+                counts["included"] += 1
+        source_counts[source_id] = counts
     current = [job for job in incoming if job is not None]
     for index, job in enumerate(current):
         if job.fingerprint in previous_first_seen:
@@ -111,18 +122,29 @@ def run_pipeline(
     existing = json.loads(public_path.read_text(encoding="utf-8")) if public_path.exists() else None
     comparison = {"jobs": payload["jobs"]}
     existing_comparison = {"jobs": existing.get("jobs", [])} if existing else None
-    changed = comparison != existing_comparison
-    if changed:
+    business_changed = comparison != existing_comparison
+    status_payload = {
+        "updated_date": today.isoformat(),
+        "active_jobs": len(payload["jobs"]),
+        "today_added": sum(
+            job.fingerprint not in previous_first_seen and job.status == "active"
+            for job in combined
+        ),
+        "source_counts": source_counts,
+    }
+    status_path = site_dir / "data" / "update_status.json"
+    changed = business_changed
+    if business_changed:
         write_jobs(state_path, combined)
         public_path.parent.mkdir(parents=True, exist_ok=True)
         public_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        (site_dir / "data" / "update_status.json").write_text(
-            json.dumps({"updated_date": today.isoformat(), "active_jobs": len(payload["jobs"])}, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
-        )
+    if business_changed:
+        status_path.parent.mkdir(parents=True, exist_ok=True)
+        status_path.write_text(json.dumps(status_payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return PipelineResult(
         publish_required=changed,
         public_path=public_path,
         jobs_count=len(payload["jobs"]),
         duplicate_count=max(0, len(incoming) - len(current)),
+        source_counts=source_counts,
     )

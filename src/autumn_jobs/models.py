@@ -100,3 +100,4 @@ class PipelineResult(BaseModel):
     public_path: Path
     jobs_count: int
     duplicate_count: int
+    source_counts: dict[str, dict[str, int]] = Field(default_factory=dict)

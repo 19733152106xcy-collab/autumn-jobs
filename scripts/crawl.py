@@ -15,6 +15,7 @@ from autumn_jobs.adapters.gankinterview import (
     load_gankinterview_settings,
 )
 from autumn_jobs.adapters.guopinleida import crawl_guopinleida_jobs, load_guopinleida_settings
+from autumn_jobs.adapters.hust import crawl_hust_jobs, load_hust_settings
 from autumn_jobs.pipeline import run_pipeline
 from autumn_jobs.sources import (
     SourceHealth,
@@ -57,6 +58,12 @@ def main() -> None:
     except (httpx.HTTPError, TypeError) as error:
         health.append(SourceHealth(source_id="guopinleida", status="failed", discovered=0, error=error.__class__.__name__))
     try:
+        hust_jobs = crawl_hust_jobs(load_hust_settings(Path("config/hust.yaml")))
+        source_jobs["hust"] = hust_jobs
+        health.append(SourceHealth(source_id="hust", status="ok", discovered=len(hust_jobs)))
+    except (httpx.HTTPError, TypeError) as error:
+        health.append(SourceHealth(source_id="hust", status="failed", discovered=0, error=error.__class__.__name__))
+    try:
         gankinterview_jobs = crawl_gankinterview_jobs(
             load_gankinterview_settings(Path("config/gankinterview.yaml"))
         )
@@ -95,7 +102,7 @@ def main() -> None:
     )
     args.summary.parent.mkdir(parents=True, exist_ok=True)
     args.summary.write_text(json.dumps(health_payload(health), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({"publish_required": result.publish_required, "jobs": result.jobs_count, "health": health_payload(health)}, ensure_ascii=False))
+    print(json.dumps({"publish_required": result.publish_required, "jobs": result.jobs_count, "source_counts": result.source_counts, "health": health_payload(health)}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

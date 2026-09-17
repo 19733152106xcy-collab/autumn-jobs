@@ -42,6 +42,17 @@ head_company_keywords:
   - 中石油
   - 中石化
   - 中海油
+  - 华润置地
+  - 招商蛇口
+  - 保利发展
+  - 绿城
+  - 建发房产
+  - 中国海外发展
+  - 龙湖
+  - 万科
+  - 中建东孚
+  - 中建壹品
+  - 中建智地
 
 # Public source descriptions often identify the ownership directly. This is the
 # preferred signal for an employer not yet present in the name whitelist.

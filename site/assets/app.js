@@ -144,6 +144,13 @@ export function resolveApplyUrl(job) {
   return /^https?:\/\//i.test(candidate) ? candidate : "#";
 }
 
+export function updateSummary(status) {
+  const date = status.updated_date || "未更新";
+  const activeJobs = Number.isFinite(status.active_jobs) ? status.active_jobs : "—";
+  const todayAdded = Number.isFinite(status.today_added) ? status.today_added : 0;
+  return `岗位数据更新：${date}｜本次新增 ${todayAdded} 个｜当前 ${activeJobs} 个`;
+}
+
 function verificationLabel(job) { return job.verification_status === "pending" ? "待核验" : "已核验"; }
 function opportunityLabel(job) { return { full_time: "正式岗", internship: "实习", mixed: "正式/实习" }[job.opportunity_type] || "机会"; }
 function scoreLabel(job) { return Number.isFinite(job.score_total) ? `${job.score_total}分` : "暂未评分"; }
@@ -312,7 +319,7 @@ async function boot() {
   const jobs = payload.jobs || [];
   savedStatuses = loadJobStatuses();
   savedCompanyStatuses = loadCompanyStatuses();
-  document.querySelector("#updated").textContent = `岗位数据更新：${status.updated_date || "未更新"}`;
+  document.querySelector("#updated").textContent = updateSummary(status);
   fillSelect(document.querySelector("#category"), optionValues(jobs, "category"));
   fillSelect(document.querySelector("#city"), optionValues(jobs, "location"));
   const state = defaultViewState(shanghaiToday());

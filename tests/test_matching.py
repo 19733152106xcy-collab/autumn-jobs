@@ -87,6 +87,14 @@ def test_related_role_requires_an_eligible_major_signal():
     assert match_job("项目管理岗", "2027届本科，工程类专业").included is True
 
 
+def test_city_operation_with_architecture_major_is_kept_as_related_architecture_work():
+    result = match_job("城市运营策划岗", "2027届本科，建筑学及相关专业")
+
+    assert result.included is True
+    assert result.level == "B"
+    assert result.job_group == "architecture"
+
+
 def test_description_from_other_roles_does_not_change_current_job_direction():
     assert match_job("营销专员", "同时招聘建筑设计、项目管理岗位").included is False
 

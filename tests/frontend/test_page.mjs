@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { escapeHtml, filterJobs, resolveApplyUrl, searchJobs } from "../../site/assets/app.js";
+import { escapeHtml, filterJobs, resolveApplyUrl, searchJobs, updateSummary } from "../../site/assets/app.js";
 
 const jobs = [
   { company: "某设计院", title: "建筑设计岗", location: ["西安"], category: "建筑设计", match_level: "A", first_seen: "2026-07-25", status: "active" },
@@ -11,6 +11,7 @@ assert.equal(filterJobs(jobs, { city: "西安", level: "A", category: "全部", 
 assert.equal(resolveApplyUrl({ apply_url: null, detail_url: "https://example.cn/detail" }), "https://example.cn/detail");
 assert.equal(resolveApplyUrl({ apply_url: "javascript:alert(1)", detail_url: "https://example.cn/detail" }), "#");
 assert.equal(escapeHtml('<img src=x onerror="alert(1)">'), "&lt;img src=x onerror=&quot;alert(1)&quot;&gt;");
+assert.equal(updateSummary({ updated_date: "2026-09-17", active_jobs: 48, today_added: 4 }), "岗位数据更新：2026-09-17｜本次新增 4 个｜当前 48 个");
 
 const formal = filterJobs([
   { ...jobs[0], opportunity_type: "full_time" },

@@ -11,6 +11,14 @@ default_company:
   rationale: 公司待遇信息不足
 
 company_profiles:
+  - keywords: [华润置地, 招商蛇口, 保利发展, 绿城, 建发房产, 中国海外发展, 龙湖, 万科, 中建东孚, 中建壹品, 中建智地]
+    platform_points: 36
+    salary_band: A
+    rationale: 头部城市开发、设计管理或运营平台估算
+  - keywords: [雅诗兰黛, 阿迪达斯, 达能, 梅塞尔, 亿滋, 宝洁, 联合利华, 欧莱雅, 雀巢, 西门子, 博世, 施耐德, 霍尼韦尔, IBM, 微软, SAP, 埃森哲]
+    platform_points: 36
+    salary_band: A
+    rationale: 头部外企平台估算
   - keywords: [腾讯, 阿里, 字节, 华为, CVTE, 东软, Dymon Asia]
     platform_points: 36
     salary_band: A

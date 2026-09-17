@@ -1,5 +1,19 @@
 [
   {
+    "source_id": "hust",
+    "final_url": "https://job.hust.edu.cn/zpxx123123/index.htm",
+    "checked_at": "2026-09-17T16:05:00+08:00",
+    "access": "public",
+    "page_type": "html",
+    "public_list": true,
+    "public_detail": true,
+    "requires_login_to_apply": false,
+    "robots_checked": true,
+    "sample_job_count": 22,
+    "error_code": null,
+    "note": "Public anonymous recruitment listing and detail pages; priority-title scan is enabled for 2027 architecture, city-update and quality-employer campaigns."
+  },
+  {
     "source_id": "cadg",
     "final_url": "https://hr.cadg.com.cn/",
     "checked_at": "2026-07-28T10:16:25.025719+00:00",

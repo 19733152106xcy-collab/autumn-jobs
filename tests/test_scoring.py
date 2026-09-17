@@ -71,3 +71,11 @@ def test_pure_internship_scores_below_equivalent_full_time_role():
     internship = full_time.model_copy(update={"title": "建筑设计暑期实习生"})
 
     assert _score(internship).score_total < _score(full_time).score_total
+
+
+def test_head_city_developer_uses_a_labeled_platform_estimate():
+    result = _score(_job(company="华润置地"))
+
+    assert result.salary_band == "A"
+    assert result.salary_basis == "估算"
+    assert any("城市开发" in strength for strength in result.score_strengths)

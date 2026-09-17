@@ -125,3 +125,27 @@ def test_pipeline_excludes_expired_raw_job(tmp_path):
     )
 
     assert result.jobs_count == 0
+
+
+def test_pipeline_reports_source_level_inclusion_counts(tmp_path):
+    from autumn_jobs.models import RawJob
+    from autumn_jobs.pipeline import run_pipeline
+
+    source_jobs = {
+        "hust": [
+            RawJob(
+                source_id="hust", company="华润置地", title="城市更新设计管理岗",
+                location=["武汉"], detail_url="https://example.test/one",
+                description="2027届本科，建筑学相关专业",
+            ),
+            RawJob(
+                source_id="hust", company="华润置地", title="水暖工程师",
+                location=["武汉"], detail_url="https://example.test/two",
+                description="2027届本科，工程类相关专业",
+            ),
+        ]
+    }
+
+    result = run_pipeline(source_jobs, {"hust"}, tmp_path / "state", tmp_path / "site", date(2026, 9, 17))
+
+    assert result.source_counts["hust"] == {"discovered": 2, "included": 1, "excluded": 1}

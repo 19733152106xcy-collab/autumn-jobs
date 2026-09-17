@@ -185,6 +185,52 @@
       ]
     },
     {
+      "fingerprint": "de689b6fef3aa6d638d8a5f0d8f130748cd83560ad4719e3986eea67871bf2d6",
+      "company": "绿城中国浙江公司",
+      "title": "绿城中国浙江公司2027届秋季校园招聘（同道人）",
+      "location": [
+        "未公布"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-11",
+      "first_seen": "2026-09-17",
+      "category": "建筑设计",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://job.hust.edu.cn/zpinfo1/2433650.htm",
+      "source_type": "university",
+      "verification_status": "verified",
+      "source_name": "华中科技大学就业信息网",
+      "official_apply_url": null,
+      "opportunity_type": "mixed",
+      "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 93,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 10,
+        "application_cost": 3
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "头部城市开发、设计管理或运营平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
+    },
+    {
       "fingerprint": "1eed0c136aa4914d70e2f937cc27db72e5c44bc32244a5257f06385759c23b69",
       "company": "碧桂园生活服务集团",
       "title": "项目管理管培生",
@@ -1226,6 +1272,52 @@
       ]
     },
     {
+      "fingerprint": "fc5ac59db9a9a127e7f81ec45eb4a7331c27b9340fc3fa3b331a8b2dd8dc8bb7",
+      "company": "中建四局投资发展公司",
+      "title": "中建四局投资发展公司2027届 “善成主理人”校园招聘简章",
+      "location": [
+        "未公布"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-16",
+      "first_seen": "2026-09-17",
+      "category": "城市更新",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://job.hust.edu.cn/zpinfo1/2436543.htm",
+      "source_type": "university",
+      "verification_status": "verified",
+      "source_name": "华中科技大学就业信息网",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 84,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 3
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
+    },
+    {
       "fingerprint": "10fd2348dc5bc881b33190a750fe9123f5f4e67a8a415c3a871a352793b484cc",
       "company": "中建四局",
       "title": "中建四局2027届校园招聘正式启动！",
@@ -1508,6 +1600,52 @@
       "score_risks": [
         "待遇为公司层级估算",
         "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "dd7cce171e8ac07cb2b75c2cc4e4e9d2b61e2983b43be32318486ab4e508e7db",
+      "company": "中建三局二公司",
+      "title": "中建三局二公司2027届校园招聘简章",
+      "location": [
+        "未公布"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-11",
+      "first_seen": "2026-09-17",
+      "category": "城市更新",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://job.hust.edu.cn/zpinfo1/2413097.htm",
+      "source_type": "university",
+      "verification_status": "verified",
+      "source_name": "华中科技大学就业信息网",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 84,
+      "score_breakdown": {
+        "compensation_platform": 29,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 3
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
       ]
     },
     {
@@ -1937,6 +2075,52 @@
       "score_summary": "待遇平台与匹配度较好，建议优先投递",
       "score_strengths": [
         "央国企工程平台估算",
+        "专业与设计院实习经历直接匹配",
+        "招聘来源已核验"
+      ],
+      "score_risks": [
+        "待遇为公司层级估算"
+      ]
+    },
+    {
+      "fingerprint": "77ec667b393c3c2557f73ec55c24deb34cf21ddd865c21cdc24ba3608e67e41d",
+      "company": "【绽放星生 城就不凡】绿城管理",
+      "title": "【绽放星生 城就不凡】绿城管理2027届绿星原力校园招聘",
+      "location": [
+        "未公布"
+      ],
+      "deadline": null,
+      "publish_date": "2026-09-15",
+      "first_seen": "2026-09-17",
+      "category": "城乡规划",
+      "match_level": "A",
+      "apply_url": null,
+      "detail_url": "https://job.hust.edu.cn/zpinfo1/2434983.htm",
+      "source_type": "university",
+      "verification_status": "verified",
+      "source_name": "华中科技大学就业信息网",
+      "official_apply_url": null,
+      "opportunity_type": "mixed",
+      "job_group": "architecture",
+      "priority_rank": 1,
+      "priority_label": "优先投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 93,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 24,
+        "ability_match": 20,
+        "growth": 10,
+        "application_cost": 3
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "待遇平台与匹配度较好，建议优先投递",
+      "score_strengths": [
+        "头部城市开发、设计管理或运营平台估算",
         "专业与设计院实习经历直接匹配",
         "招聘来源已核验"
       ],
