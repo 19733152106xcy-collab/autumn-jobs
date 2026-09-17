@@ -75,6 +75,10 @@ def _salary_score(monthly: float) -> tuple[int, str]:
 
 def _eligibility(raw: RawJob, matched: MatchResult) -> tuple[str, str]:
     description = raw.description
+    generic_campaign = any(marker in raw.title for marker in ("招聘简章", "校园招聘", "秋季校招"))
+    specific_role = any(marker in raw.title for marker in ("岗", "工程师", "设计师", "助理", "管培生"))
+    if generic_campaign and not specific_role:
+        return "needs_confirmation", "需确认"
     signals = (
         matched.requirements.education == "本科" or "本科" in description,
         matched.requirements.graduation_year == 2027 or "2027" in description,

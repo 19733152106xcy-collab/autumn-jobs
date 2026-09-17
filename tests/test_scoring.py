@@ -79,3 +79,12 @@ def test_head_city_developer_uses_a_labeled_platform_estimate():
     assert result.salary_band == "A"
     assert result.salary_basis == "估算"
     assert any("城市开发" in strength for strength in result.score_strengths)
+
+
+def test_campaign_announcement_without_a_specific_role_requires_confirmation():
+    raw = _job(description="2027届本科，建筑学及相关专业")
+    raw = raw.model_copy(update={"title": "某开发商2027届校园招聘简章"})
+
+    result = score_job(raw, match_job(raw.title, raw.description, company=raw.company))
+
+    assert result.eligibility_status == "needs_confirmation"
