@@ -1,7 +1,7 @@
 {
-  "updated_date": "2026-09-30",
-  "active_jobs": 59,
-  "today_added": 13,
+  "updated_date": "2026-10-01",
+  "active_jobs": 58,
+  "today_added": 0,
   "source_counts": {
     "cadg": {
       "discovered": 0,
@@ -64,8 +64,8 @@
       "excluded": 1382
     },
     "hust": {
-      "discovered": 18,
-      "included": 5,
+      "discovered": 17,
+      "included": 4,
       "excluded": 13
     },
     "gankinterview": {
