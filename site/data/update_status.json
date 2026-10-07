@@ -1,6 +1,6 @@
 {
-  "updated_date": "2026-10-01",
-  "active_jobs": 58,
+  "updated_date": "2026-10-07",
+  "active_jobs": 57,
   "today_added": 0,
   "source_counts": {
     "cadg": {
@@ -60,8 +60,8 @@
     },
     "guopinleida": {
       "discovered": 1424,
-      "included": 42,
-      "excluded": 1382
+      "included": 41,
+      "excluded": 1383
     },
     "hust": {
       "discovered": 17,
