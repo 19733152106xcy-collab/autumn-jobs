@@ -311,6 +311,185 @@
     "status": "active"
   },
   {
+    "fingerprint": "a327066dc592d5a4381cf4d7b5418cee04561c035d7bb55fc7a6d918b8b5e08d",
+    "source_id": "bucea",
+    "source_job_id": "125083:24471",
+    "company": "清华大学建筑设计研究院",
+    "title": "规划设计师（2027校园招聘）",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-08",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24471&zpxxId=125083",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "49111ca5951e58aa0dce6269126ff3ea0d8a4aba20cd51a8505c6533c6ffd726",
+    "source_id": "bucea",
+    "source_job_id": "125083:24469",
+    "company": "清华大学建筑设计研究院",
+    "title": "建筑设计师（2027校园招聘）",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-08",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24469&zpxxId=125083",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "b80693100c788f8a5a305735a236613f444ea95eef0091901b97efe119c3b72f",
+    "source_id": "bucea",
+    "source_job_id": "125074:24485",
+    "company": "广东省城乡规划设计研究院科技集团",
+    "title": "广东省城乡规划设计研究院科技集团股份有限公司2027届校园招聘",
+    "location": [
+      "广东省广州海珠区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-08",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24485&zpxxId=125074",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 69,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "7c967e597c8f79b768b48c3051228aa985e828f09b8a66404bcb371c13af3ac7",
     "source_id": "bucea",
     "source_job_id": "124996:24403",
@@ -675,24 +854,25 @@
     "status": "active"
   },
   {
-    "fingerprint": "1992900f7591a874a19b2274587cd5f9909fe3cef90bf3bda67ae70702abf107",
+    "fingerprint": "0dc7b9e04b3b3c97aa5cebd3d37d58a896598493e06d2723c352173345774199",
     "source_id": "guopinleida",
-    "source_job_id": "8eb6ce63-bc63-4e38-a565-d00fabe413bf",
-    "company": "中建三局城发公司",
-    "title": "中建三局城发公司2027届校园招聘正式启动！",
+    "source_job_id": "3788b1a5-2721-42a6-b7b0-fcee65d57003",
+    "company": "贵州建科院",
+    "title": "贵州建科院2027届校园招聘正式启动！",
     "location": [
-      "广州"
+      "广州",
+      "贵阳"
     ],
     "deadline": null,
-    "publish_date": "2026-09-22",
-    "first_seen": "2026-09-30",
-    "category": "建筑设计",
+    "publish_date": "2026-09-29",
+    "first_seen": "2026-10-09",
+    "category": "更新改造",
     "match_level": "A",
     "job_group": "architecture",
     "priority_rank": 2,
     "priority_label": "值得投",
     "match_reasons": [
-      "建筑设计",
+      "更新改造",
       "城乡规划"
     ],
     "requirements": {
@@ -705,7 +885,7 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Xlj83lSz2e2XBP_Qs55-Kg",
+    "detail_url": "https://mp.weixin.qq.com/s/roGyXCFCOWrVxdIgiCYDhA",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -714,41 +894,40 @@
     "opportunity_type": "full_time",
     "eligibility_status": "needs_confirmation",
     "eligibility_label": "需确认",
-    "score_total": 75,
+    "score_total": 66,
     "score_breakdown": {
-      "compensation_platform": 29,
+      "compensation_platform": 22,
       "interview_probability": 17,
       "ability_match": 20,
-      "growth": 8,
+      "growth": 6,
       "application_cost": 1
     },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
     "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
-      "央国企工程平台估算",
       "专业与设计院实习经历直接匹配"
     ],
     "score_risks": [
       "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
+      "公司与待遇信息不足",
       "投递信息仍待核验"
     ],
     "status": "active"
   },
   {
-    "fingerprint": "9aaeb0971e1bff9f40403b55dc67a0537adecfb0c846c1262b574e85d7b0bbea",
+    "fingerprint": "06a135b91ecdd39dfa7e9892ac08ae9490f5e76cbe1f8e7cf54d94ef71228ca0",
     "source_id": "guopinleida",
-    "source_job_id": "1433076e-ae4c-4c66-a4a5-b63f380f6b52",
-    "company": "湖北省城建设计院",
-    "title": "湖北省城建设计院2027届校园招聘",
+    "source_job_id": "3a95bafe-8666-45b5-a671-5ab688e86d34",
+    "company": "成都市建筑设计研究院",
+    "title": "成都市建筑院2027届校园招聘正式启动!",
     "location": [
-      "武汉"
+      "成都"
     ],
-    "deadline": null,
-    "publish_date": "2026-09-23",
-    "first_seen": "2026-09-30",
+    "deadline": "2027-10-25",
+    "publish_date": "2026-09-29",
+    "first_seen": "2026-10-09",
     "category": "建筑设计",
     "match_level": "A",
     "job_group": "architecture",
@@ -756,6 +935,136 @@
     "priority_label": "值得投",
     "match_reasons": [
       "建筑设计",
+      "城市更新"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/mnKBdTyU0pvOAGLICMHWPQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "9a441514fc1f72ec3e0aaba28147c6e44dc3816a3a41a3d8b9b8684c261cac01",
+    "source_id": "guopinleida",
+    "source_job_id": "9f475b3c-430f-43cc-8686-b9452da60c72",
+    "company": "中电四公司",
+    "title": "中电四公司2027届校园招聘正式启动",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-03",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/4XgRssH4ewVB98yi22b3-Q",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "94a2c663bd9526aa60cb3a6a5f3bbaafcfe4cd24b189b6bf498bcda7e1cd494f",
+    "source_id": "guopinleida",
+    "source_job_id": "af72f3ad-aac5-4780-b490-11d94540c42a",
+    "company": "浙江省农发集团",
+    "title": "浙江省农发集团2027届校园招聘公告",
+    "location": [
+      "台州",
+      "嘉兴",
+      "杭州",
+      "湖州",
+      "绍兴",
+      "苏州",
+      "衢州",
+      "金华",
+      "铁岭"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-26",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
       "城乡规划"
     ],
     "requirements": {
@@ -768,7 +1077,461 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/kX-GdMdL2X0s7-NNIaZkxw",
+    "detail_url": "https://mp.weixin.qq.com/s/6ERqKNJKj-uJQgd_I5_oDg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "1538a230ead4aad21d83815a0b6eab7bc3f6073486537394f0bcb1a194efdcbd",
+    "source_id": "guopinleida",
+    "source_job_id": "dbac11f3-ab32-448e-bfb1-8505d61aae17",
+    "company": "四川电建",
+    "title": "四川电建2027届校园招聘正式启动！",
+    "location": [
+      "成都"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-28",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/ilkKTbdTvHkjEYkhJxiZzA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "449241043c6521497ed859c1f915d7bc10284036617b7cd560f22efb7047dc49",
+    "source_id": "guopinleida",
+    "source_job_id": "4591d37f-55f2-453b-bdd2-6e235bb18c06",
+    "company": "丝路视觉",
+    "title": "丝路视觉2027届校园招聘正式启动",
+    "location": [
+      "上海",
+      "北京",
+      "广州",
+      "成都",
+      "武汉",
+      "深圳",
+      "青岛"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-29",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/wAcXcTqwmsKlBDzIuZErPA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "922f273eb78d28668f3568128bac330236644b81aaa02dcbbc5479883c89b9ca",
+    "source_id": "guopinleida",
+    "source_job_id": "eb5e5b5d-0958-4c16-a8cb-d8d34dedd312",
+    "company": "上海建科工程咨询",
+    "title": "上海建科工程咨询有限公司2027届校招启动！",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-20",
+    "first_seen": "2026-10-09",
+    "category": "城市更新",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城市更新"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/vXXBlo818lHfyjEAGX0_nA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 72,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 22,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "f93f21c90a03ed3825e6553f035a8f7abf227665244e58b627e8a295f650e148",
+    "source_id": "guopinleida",
+    "source_job_id": "81510a04-af7a-4807-8146-4e544004098a",
+    "company": "中石化上海工程",
+    "title": "上海工程启动2027年校园招聘",
+    "location": [
+      "上海"
+    ],
+    "deadline": "2026-10-28",
+    "publish_date": "2026-09-27",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/CefI82IzKMaMdN4K0ONBhg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "5b7dc0f48e478c22182e41cd0b34e6474417276e1d0f2dd77c6174bd9241e890",
+    "source_id": "guopinleida",
+    "source_job_id": "90f8371d-e14e-4523-a2ef-dc86b0b3c231",
+    "company": "广州市规划院",
+    "title": "广州市规划院GZPI·2027届校园招聘正式启动！",
+    "location": [
+      "上海",
+      "东莞",
+      "中山",
+      "佛山",
+      "北京",
+      "广州",
+      "惠州",
+      "武汉",
+      "汕头",
+      "江门",
+      "深圳",
+      "清远",
+      "珠海",
+      "肇庆",
+      "西安",
+      "重庆",
+      "镇江",
+      "阳江"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-28",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/_XUsyXF3qIyJswbfCEeCPA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "3941a919c257e8c81d5639571bb092a7bde77fdfa2c96561f4ba580ea88e6461",
+    "source_id": "guopinleida",
+    "source_job_id": "3e4a261b-2bed-4aaf-9fad-23875ad97f93",
+    "company": "中远海运物流供应链",
+    "title": "中远海运物流供应链启动2027年校园招聘",
+    "location": [
+      "上海",
+      "全国",
+      "北京",
+      "大连",
+      "宁波",
+      "广州",
+      "重庆",
+      "青岛"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-21",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/eZHnXpP8bdV3xxolsRS56A",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "5f7dfb024869f03afea46fa3c83df8cca2e706884640f97f41cc9e9b4ac6dd61",
+    "source_id": "guopinleida",
+    "source_job_id": "498031f6-2443-4bbb-9bf0-28e8e0076fd0",
+    "company": "四川省建筑设计研究院",
+    "title": "SADI | 四川省建筑设计研究院2027校园招聘开启",
+    "location": [
+      "成都"
+    ],
+    "deadline": "2026-10-31",
+    "publish_date": "2026-09-28",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/1YCeG_6rSE1QzrdgaoDj0w",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -856,6 +1619,131 @@
     "score_risks": [
       "学历、届别或专业信息不完整",
       "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "9aaeb0971e1bff9f40403b55dc67a0537adecfb0c846c1262b574e85d7b0bbea",
+    "source_id": "guopinleida",
+    "source_job_id": "1433076e-ae4c-4c66-a4a5-b63f380f6b52",
+    "company": "湖北省城建设计院",
+    "title": "湖北省城建设计院2027届校园招聘",
+    "location": [
+      "武汉"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-23",
+    "first_seen": "2026-09-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/kX-GdMdL2X0s7-NNIaZkxw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "1992900f7591a874a19b2274587cd5f9909fe3cef90bf3bda67ae70702abf107",
+    "source_id": "guopinleida",
+    "source_job_id": "8eb6ce63-bc63-4e38-a565-d00fabe413bf",
+    "company": "中建三局城发公司",
+    "title": "中建三局城发公司2027届校园招聘正式启动！",
+    "location": [
+      "广州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-22",
+    "first_seen": "2026-09-30",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/Xlj83lSz2e2XBP_Qs55-Kg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 1
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
       "投递信息仍待核验"
     ],
     "status": "active"
@@ -984,25 +1872,50 @@
     "status": "active"
   },
   {
-    "fingerprint": "449118e51e6425ad1152deba2ec5a7b523d44496984565816c3c174a0d6f4439",
+    "fingerprint": "e8af1d3f3d9a6253d9c1fcde772917216a468c2a132cf78c02f640b14dd494ae",
     "source_id": "guopinleida",
-    "source_job_id": "4a246d37-53b6-49d1-841d-4c4eed48e8e9",
-    "company": "福建银翼建设",
-    "title": "福建银翼建设有限公司2027届校园招聘公告",
+    "source_job_id": "eb929157-cdb3-40f0-9691-43c5c5f15703",
+    "company": "中国市政中南院",
+    "title": "中国市政中南院2027届秋季校园招聘全面开启！",
     "location": [
-      "全国"
+      "三亚",
+      "东莞",
+      "佛山",
+      "全国",
+      "兰州",
+      "南宁",
+      "南昌",
+      "厦门",
+      "天津",
+      "宜昌",
+      "广州",
+      "惠州",
+      "成都",
+      "无锡",
+      "昆山",
+      "杭州",
+      "武汉",
+      "汕头",
+      "济南",
+      "海口",
+      "深圳",
+      "湛江",
+      "烟台",
+      "西安",
+      "贵阳",
+      "长沙",
+      "青岛"
     ],
     "deadline": null,
-    "publish_date": "2026-09-19",
-    "first_seen": "2026-09-24",
-    "category": "城市更新",
+    "publish_date": "2026-09-20",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
     "match_level": "A",
     "job_group": "architecture",
     "priority_rank": 2,
     "priority_label": "值得投",
     "match_reasons": [
-      "城市更新",
-      "城乡规划"
+      "建筑设计"
     ],
     "requirements": {
       "education": null,
@@ -1014,7 +1927,7 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/v_AEMVWv9rxn8a5Xa83liA",
+    "detail_url": "https://mp.weixin.qq.com/s/9oDrpZaQKL7yV36brYIaHQ",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -1046,88 +1959,26 @@
     "status": "active"
   },
   {
-    "fingerprint": "b5c09778882dd415f1cacb923f5c41b48c88978391e259ed196249b9c0af5821",
+    "fingerprint": "6690d6c991cec1398fe71df711670d6e66970ea9e113c1212104ad7928541e62",
     "source_id": "guopinleida",
-    "source_job_id": "7527c539-4dbc-4816-bc2e-7672305a7f2f",
-    "company": "博世力士乐",
-    "title": "博世力士乐2027届校园招聘正式启动！",
+    "source_job_id": "4d89241e-6330-4ed5-8e2a-94a4bec83668",
+    "company": "上海建科咨询集团",
+    "title": "上海建科咨询集团“建科栋梁”2027届秋季校园招聘开启",
     "location": [
       "上海",
       "北京",
-      "常州",
-      "广州"
+      "天津",
+      "德阳"
     ],
     "deadline": null,
-    "publish_date": "2026-09-16",
-    "first_seen": "2026-09-30",
-    "category": "不限专业优质岗",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "专业不限",
-      "头部企业或外企"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Y9loC1s9kVG-fWOKqOeGQA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 67,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 9,
-      "ability_match": 11,
-      "growth": 10,
-      "application_cost": 1
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部外企平台估算"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "6f730d90608a87a034b5f37954b7767fae435025c60f3eefdd9088d2ed6bbfa9",
-    "source_id": "guopinleida",
-    "source_job_id": "17eb5eeb-182c-421b-b6a6-3fb9854eeeeb",
-    "company": "中国中元",
-    "title": "中国中元2027届校园招聘正式启动！",
-    "location": [
-      "全国",
-      "海外"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-17",
-    "first_seen": "2026-09-22",
-    "category": "建筑设计",
+    "publish_date": "2026-09-19",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
     "match_level": "A",
     "job_group": "architecture",
     "priority_rank": 2,
     "priority_label": "值得投",
     "match_reasons": [
-      "建筑设计",
       "城乡规划"
     ],
     "requirements": {
@@ -1140,7 +1991,69 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/ius7AsyWv9J-IwxFK3wI7A",
+    "detail_url": "https://mp.weixin.qq.com/s/wU99xD3HOKyKnT-8VsCQ-w",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "449118e51e6425ad1152deba2ec5a7b523d44496984565816c3c174a0d6f4439",
+    "source_id": "guopinleida",
+    "source_job_id": "4a246d37-53b6-49d1-841d-4c4eed48e8e9",
+    "company": "福建银翼建设",
+    "title": "福建银翼建设有限公司2027届校园招聘公告",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-19",
+    "first_seen": "2026-09-24",
+    "category": "城市更新",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城市更新",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/v_AEMVWv9rxn8a5Xa83liA",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -1278,6 +2191,132 @@
     "status": "active"
   },
   {
+    "fingerprint": "6f730d90608a87a034b5f37954b7767fae435025c60f3eefdd9088d2ed6bbfa9",
+    "source_id": "guopinleida",
+    "source_job_id": "17eb5eeb-182c-421b-b6a6-3fb9854eeeeb",
+    "company": "中国中元",
+    "title": "中国中元2027届校园招聘正式启动！",
+    "location": [
+      "全国",
+      "海外"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-17",
+    "first_seen": "2026-09-22",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/ius7AsyWv9J-IwxFK3wI7A",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "b5c09778882dd415f1cacb923f5c41b48c88978391e259ed196249b9c0af5821",
+    "source_id": "guopinleida",
+    "source_job_id": "7527c539-4dbc-4816-bc2e-7672305a7f2f",
+    "company": "博世力士乐",
+    "title": "博世力士乐2027届校园招聘正式启动！",
+    "location": [
+      "上海",
+      "北京",
+      "常州",
+      "广州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-16",
+    "first_seen": "2026-09-30",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/Y9loC1s9kVG-fWOKqOeGQA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部外企平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "382ec9473e9f9bc54c2c644689ea5395518cc7fdb50893b6488ee6ae8ed87522",
     "source_id": "guopinleida",
     "source_job_id": "114efc89-6567-4152-bb21-b6528cf21685",
@@ -1317,67 +2356,6 @@
     "source_name": "国聘雷达",
     "official_apply_url": null,
     "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 66,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "93edd84a1992bc70cd6e9a2037fed1f197fafc0b357451d4e030897e824c19f3",
-    "source_id": "guopinleida",
-    "source_job_id": "454fdc33-ddad-4bbf-9c42-563bbbbe894c",
-    "company": "SEA东南设计",
-    "title": "SEA东南设计2027届校园招聘",
-    "location": [
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-13",
-    "first_seen": "2026-09-19",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/_YRs3oDw1CpFd_JTzMuGXA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "mixed",
     "eligibility_status": "needs_confirmation",
     "eligibility_label": "需确认",
     "score_total": 66,
@@ -1471,6 +2449,67 @@
     "status": "active"
   },
   {
+    "fingerprint": "93edd84a1992bc70cd6e9a2037fed1f197fafc0b357451d4e030897e824c19f3",
+    "source_id": "guopinleida",
+    "source_job_id": "454fdc33-ddad-4bbf-9c42-563bbbbe894c",
+    "company": "SEA东南设计",
+    "title": "SEA东南设计2027届校园招聘",
+    "location": [
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-13",
+    "first_seen": "2026-09-19",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/_YRs3oDw1CpFd_JTzMuGXA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "02ab2b61977ead3975cf3e0457205eaff50e66493af157b4f194ea4eb6fa7506",
     "source_id": "guopinleida",
     "source_job_id": "f3e38648-b544-49c2-9cee-abae2cc979e6",
@@ -1531,99 +2570,41 @@
     "status": "active"
   },
   {
-    "fingerprint": "5fe3d9428180e8130de225f11debdab6ae62bcde5c69c2f2e54e0c1be4e0816a",
+    "fingerprint": "096beca7eeb1c2dad94152fa5d2f1763c99093ce73319cb9382d9ee5bac2e56e",
     "source_id": "guopinleida",
-    "source_job_id": "fab7517b-586d-477e-8499-e0148f82f9e6",
-    "company": "中建三局西北公司",
-    "title": "中建三局西北公司公司2027届“争先之星”校园招聘正式启动",
+    "source_job_id": "e8921cec-dae3-4d53-b9cd-6596a651ad74",
+    "company": "锦泓时装集团",
+    "title": "锦泓时装集团2027届校园招聘焕新启幕",
     "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-03",
-    "first_seen": "2026-09-29",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/EUczoqLIY0TNFBtRVFdB0w",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 1
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "ab5e4542d4647e114225ac7fa9746e96694c7227556f9eac77a2d6cd6ff781d4",
-    "source_id": "guopinleida",
-    "source_job_id": "1aae988e-0302-4a13-9284-4b9a19441ac3",
-    "company": "中铁华铁工程设计集团",
-    "title": "中铁华铁2027年校园招聘公告",
-    "location": [
+      "上海",
       "北京",
-      "海口"
+      "南京",
+      "嘉兴",
+      "成都",
+      "深圳",
+      "西安",
+      "重庆"
     ],
     "deadline": null,
     "publish_date": "2026-09-15",
-    "first_seen": "2026-09-30",
-    "category": "建筑设计",
+    "first_seen": "2026-09-19",
+    "category": "展陈设计",
     "match_level": "A",
     "job_group": "architecture",
     "priority_rank": 2,
     "priority_label": "值得投",
     "match_reasons": [
-      "建筑设计"
+      "展陈设计"
     ],
     "requirements": {
       "education": null,
       "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
+      "majors": [],
       "experience_required": false,
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/VYT3NnCadYKYyvI4YFzlPA",
+    "detail_url": "https://mp.weixin.qq.com/s/rbiDuw40DfPaylg-avlN9Q",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -1646,6 +2627,231 @@
     "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
       "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "b014da4fed5ccfe9bb7fd06e972afd32b3b1e20936002d2c94879d21e07c5b1d",
+    "source_id": "guopinleida",
+    "source_job_id": "2abcd1dd-4b3b-49d3-afb0-c096abb26386",
+    "company": "青矩技术",
+    "title": "青矩技术2027校园招聘正式启动！",
+    "location": [
+      "上海",
+      "乌鲁木齐",
+      "兰州",
+      "北京",
+      "南京",
+      "南宁",
+      "南昌",
+      "合肥",
+      "呼和浩特",
+      "哈密",
+      "哈尔滨",
+      "天津",
+      "太原",
+      "广州",
+      "成都",
+      "拉萨",
+      "昆明",
+      "杭州",
+      "武汉",
+      "沈阳",
+      "济南",
+      "海口",
+      "深圳",
+      "石家庄",
+      "福州",
+      "苏州",
+      "西宁",
+      "西安",
+      "贵阳",
+      "郑州",
+      "重庆",
+      "银川",
+      "长春",
+      "长沙"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-14",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/RC4f3dVhUjTcGd4T9mVUwQ",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "54af583067ff4ba7587c1b4f9691fdadb955c905dd3164517549479ce30758a4",
+    "source_id": "guopinleida",
+    "source_job_id": "c76a66e0-0dd3-4010-a8b6-a1fd28220fbc",
+    "company": "中机国际",
+    "title": "中机国际2027届校园招聘正式启动！",
+    "location": [
+      "北京",
+      "南京",
+      "杭州",
+      "深圳",
+      "西安",
+      "长沙"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-15",
+    "first_seen": "2026-09-19",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/xHLB4IHAAGsbAx1ERkUvYg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 66,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "59e919f47d24ede7f5eeac0311e772e22b47a55c4acee4370749a1e499d32e90",
+    "source_id": "guopinleida",
+    "source_job_id": "e10a9da2-98f3-4e63-8e46-905ec0ef09c5",
+    "company": "中核工程咨询",
+    "title": "中核工程咨询有限公司2027届秋季校园招聘正式启动！",
+    "location": [
+      "上海",
+      "全国",
+      "北京",
+      "太原",
+      "成都"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-15",
+    "first_seen": "2026-09-19",
+    "category": "工程咨询",
+    "match_level": "B",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "工程咨询"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/DmjFQh69CDCiBdXjWN0fFg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 58,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 13,
+      "ability_match": 16,
+      "growth": 6,
+      "application_cost": 1
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "低",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "建筑与AI复合背景可发挥"
     ],
     "score_risks": [
       "学历、届别或专业信息不完整",
@@ -1728,87 +2934,18 @@
     "status": "active"
   },
   {
-    "fingerprint": "59e919f47d24ede7f5eeac0311e772e22b47a55c4acee4370749a1e499d32e90",
+    "fingerprint": "ab5e4542d4647e114225ac7fa9746e96694c7227556f9eac77a2d6cd6ff781d4",
     "source_id": "guopinleida",
-    "source_job_id": "e10a9da2-98f3-4e63-8e46-905ec0ef09c5",
-    "company": "中核工程咨询",
-    "title": "中核工程咨询有限公司2027届秋季校园招聘正式启动！",
+    "source_job_id": "1aae988e-0302-4a13-9284-4b9a19441ac3",
+    "company": "中铁华铁工程设计集团",
+    "title": "中铁华铁2027年校园招聘公告",
     "location": [
-      "上海",
-      "全国",
       "北京",
-      "太原",
-      "成都"
+      "海口"
     ],
     "deadline": null,
     "publish_date": "2026-09-15",
-    "first_seen": "2026-09-19",
-    "category": "工程咨询",
-    "match_level": "B",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "工程咨询"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/DmjFQh69CDCiBdXjWN0fFg",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 58,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 13,
-      "ability_match": 16,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "建筑与AI复合背景可发挥"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "54af583067ff4ba7587c1b4f9691fdadb955c905dd3164517549479ce30758a4",
-    "source_id": "guopinleida",
-    "source_job_id": "c76a66e0-0dd3-4010-a8b6-a1fd28220fbc",
-    "company": "中机国际",
-    "title": "中机国际2027届校园招聘正式启动！",
-    "location": [
-      "北京",
-      "南京",
-      "杭州",
-      "深圳",
-      "西安",
-      "长沙"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-15",
-    "first_seen": "2026-09-19",
+    "first_seen": "2026-09-30",
     "category": "建筑设计",
     "match_level": "A",
     "job_group": "architecture",
@@ -1827,7 +2964,7 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/xHLB4IHAAGsbAx1ERkUvYg",
+    "detail_url": "https://mp.weixin.qq.com/s/VYT3NnCadYKYyvI4YFzlPA",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -1854,6 +2991,68 @@
     "score_risks": [
       "学历、届别或专业信息不完整",
       "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "5fe3d9428180e8130de225f11debdab6ae62bcde5c69c2f2e54e0c1be4e0816a",
+    "source_id": "guopinleida",
+    "source_job_id": "fab7517b-586d-477e-8499-e0148f82f9e6",
+    "company": "中建三局西北公司",
+    "title": "中建三局西北公司公司2027届“争先之星”校园招聘正式启动",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-03",
+    "first_seen": "2026-09-29",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/EUczoqLIY0TNFBtRVFdB0w",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 1
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
       "投递信息仍待核验"
     ],
     "status": "active"
@@ -1891,72 +3090,6 @@
     },
     "apply_url": null,
     "detail_url": "https://mp.weixin.qq.com/s/WZ-THgMwak5UT3fZk5C8TQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 66,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "096beca7eeb1c2dad94152fa5d2f1763c99093ce73319cb9382d9ee5bac2e56e",
-    "source_id": "guopinleida",
-    "source_job_id": "e8921cec-dae3-4d53-b9cd-6596a651ad74",
-    "company": "锦泓时装集团",
-    "title": "锦泓时装集团2027届校园招聘焕新启幕",
-    "location": [
-      "上海",
-      "北京",
-      "南京",
-      "嘉兴",
-      "成都",
-      "深圳",
-      "西安",
-      "重庆"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-15",
-    "first_seen": "2026-09-19",
-    "category": "展陈设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "展陈设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/rbiDuw40DfPaylg-avlN9Q",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -2070,20 +3203,19 @@
     "status": "active"
   },
   {
-    "fingerprint": "10568afb4864725b3bc4983d010d7acac5958cb2ad311de3cf9c85af617cafb3",
+    "fingerprint": "501d716594abe596808de34d2e5361e5dc8433f57724e5ecebc38cd58a11808f",
     "source_id": "guopinleida",
-    "source_job_id": "c61464ca-5b82-4f32-b793-5a3bf3339eca",
-    "company": "昂跑",
-    "title": "On昂跑 2027零售管培生正式启动！",
+    "source_job_id": "cf172a60-5d2f-4a4a-8a20-312d0a8ca737",
+    "company": "怡安",
+    "title": "怡安2027年度校园招聘正式启动",
     "location": [
       "上海",
       "北京",
-      "广州",
-      "香港"
+      "广州"
     ],
-    "deadline": "2026-11-30",
+    "deadline": "2026-10-16",
     "publish_date": "2026-09-14",
-    "first_seen": "2026-09-30",
+    "first_seen": "2026-09-17",
     "category": "不限专业优质岗",
     "match_level": "C",
     "job_group": "other",
@@ -2101,69 +3233,7 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/vlSAEo38Saz3WiuQ_SfSTg",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 73,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 14,
-      "ability_match": 11,
-      "growth": 10,
-      "application_cost": 2
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "头部外企平台估算"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "a81296bed97369f5ed44661bdab4976db09b919d75e020cdce83fa18e8f03b22",
-    "source_id": "guopinleida",
-    "source_job_id": "93a206a6-afef-4d01-b886-427841a5522a",
-    "company": "李锦记",
-    "title": "李锦记酱料中国区2027年校园招聘正式启动",
-    "location": [
-      "上海",
-      "全国",
-      "北京",
-      "重庆"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-14",
-    "first_seen": "2026-09-30",
-    "category": "不限专业优质岗",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "专业不限",
-      "头部企业或外企"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/q-p6mjt3An2bbXBlRPIo-w",
+    "detail_url": "https://mp.weixin.qq.com/s/tSEBMoCTJ2aG_f86jrij_g",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -2256,6 +3326,131 @@
     "status": "active"
   },
   {
+    "fingerprint": "a81296bed97369f5ed44661bdab4976db09b919d75e020cdce83fa18e8f03b22",
+    "source_id": "guopinleida",
+    "source_job_id": "93a206a6-afef-4d01-b886-427841a5522a",
+    "company": "李锦记",
+    "title": "李锦记酱料中国区2027年校园招聘正式启动",
+    "location": [
+      "上海",
+      "全国",
+      "北京",
+      "重庆"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-14",
+    "first_seen": "2026-09-30",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/q-p6mjt3An2bbXBlRPIo-w",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部外企平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "10568afb4864725b3bc4983d010d7acac5958cb2ad311de3cf9c85af617cafb3",
+    "source_id": "guopinleida",
+    "source_job_id": "c61464ca-5b82-4f32-b793-5a3bf3339eca",
+    "company": "昂跑",
+    "title": "On昂跑 2027零售管培生正式启动！",
+    "location": [
+      "上海",
+      "北京",
+      "广州",
+      "香港"
+    ],
+    "deadline": "2026-11-30",
+    "publish_date": "2026-09-14",
+    "first_seen": "2026-09-30",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/vlSAEo38Saz3WiuQ_SfSTg",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 73,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 14,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 2
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "头部外企平台估算"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "ac1bc7822d5bf54a9d7e1b8f599c9f4434b238d5cdf80e580d72e139647ac981",
     "source_id": "guopinleida",
     "source_job_id": "62a5c628-7587-40d5-afc0-195b96ed66f8",
@@ -2317,153 +3512,148 @@
     "status": "active"
   },
   {
-    "fingerprint": "501d716594abe596808de34d2e5361e5dc8433f57724e5ecebc38cd58a11808f",
+    "fingerprint": "cadc9f7c83b817e6362ab23319e390a0ecfed05e092ad379e873a2eb35cfffc9",
     "source_id": "guopinleida",
-    "source_job_id": "cf172a60-5d2f-4a4a-8a20-312d0a8ca737",
-    "company": "怡安",
-    "title": "怡安2027年度校园招聘正式启动",
+    "source_job_id": "68384415-58f7-47dd-9cd5-72ab0ab94f0a",
+    "company": "百济神州",
+    "title": "百济神州2027校园招聘正式启动！",
     "location": [
       "上海",
       "北京",
-      "广州"
-    ],
-    "deadline": "2026-10-16",
-    "publish_date": "2026-09-14",
-    "first_seen": "2026-09-17",
-    "category": "不限专业优质岗",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "专业不限",
-      "头部企业或外企"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/tSEBMoCTJ2aG_f86jrij_g",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 67,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 9,
-      "ability_match": 11,
-      "growth": 10,
-      "application_cost": 1
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部外企平台估算"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "7f9bb55830dbeea5400e348d38dba16194b862f08c64236651a1c1eda3d419d0",
-    "source_id": "guopinleida",
-    "source_job_id": "df87f010-b916-4251-bc61-776a6bac60fe",
-    "company": "bp中国",
-    "title": "bp中国2027校园招聘正式开启",
-    "location": [
-      "上海"
-    ],
-    "deadline": "2026-10-16",
-    "publish_date": "2026-09-13",
-    "first_seen": "2026-09-22",
-    "category": "不限专业优质岗",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "专业不限",
-      "头部企业或外企"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/ju8G4ExxgCUdOcn6DnLffA",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 67,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 9,
-      "ability_match": 11,
-      "growth": 10,
-      "application_cost": 1
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部外企平台估算"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "6ceb15584ce8998faa6b778d1e071ba77e020ce6162918e01001377f686a0cdb",
-    "source_id": "guopinleida",
-    "source_job_id": "c043b3ba-3402-43be-84cb-9c06e4278f3b",
-    "company": "世源科技",
-    "title": "世源科技工程有限公司2027校园招聘",
-    "location": [
-      "上海",
-      "北京",
-      "厦门",
-      "合肥",
-      "成都",
+      "广州",
       "武汉",
-      "深圳",
-      "西安"
+      "苏州"
     ],
     "deadline": null,
     "publish_date": "2026-09-13",
+    "first_seen": "2026-10-09",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/_ueb-3sQl9jaUAfaZ97IwA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部外企平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "12eee3c79d75fdcfabb07f453eae267851f20e29f9f13502afb4bb6d8355b3b7",
+    "source_id": "guopinleida",
+    "source_job_id": "1e0ef955-f016-46e8-bf77-f524c5991253",
+    "company": "太古集团",
+    "title": "SMP计划｜2027太古全球领导力发展计划正式启动",
+    "location": [
+      "全国"
+    ],
+    "deadline": "2026-10-31",
+    "publish_date": "2026-09-13",
+    "first_seen": "2026-09-29",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://mp.weixin.qq.com/s/hrg4IB14NtIRrDQr4ulkQw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 73,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 14,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 2
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "头部外企平台估算"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "705ebec1f0bdaa0ac57a6deef6df7a60675cbcff4f6e60ebf364ebed971807ed",
+    "source_id": "guopinleida",
+    "source_job_id": "acb691f7-cd74-4ee6-89ae-089bcf969f36",
+    "company": "浙江省建设投资集团",
+    "title": "浙建集团启动2027届校园招聘",
+    "location": [
+      "杭州"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-14",
     "first_seen": "2026-09-30",
-    "category": "建筑设计",
+    "category": "城市更新",
     "match_level": "A",
     "job_group": "architecture",
     "priority_rank": 2,
     "priority_label": "值得投",
     "match_reasons": [
-      "建筑设计"
+      "城市更新",
+      "城乡规划"
     ],
     "requirements": {
       "education": null,
@@ -2475,7 +3665,7 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/Mk-r9a01b9T9WcT-NEO2RA",
+    "detail_url": "https://mp.weixin.qq.com/s/IMHeNbaBbJ8rxPcHiuDOUA?scene=1&click_id=1073706048",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -2567,453 +3757,24 @@
     "status": "active"
   },
   {
-    "fingerprint": "705ebec1f0bdaa0ac57a6deef6df7a60675cbcff4f6e60ebf364ebed971807ed",
+    "fingerprint": "6ceb15584ce8998faa6b778d1e071ba77e020ce6162918e01001377f686a0cdb",
     "source_id": "guopinleida",
-    "source_job_id": "acb691f7-cd74-4ee6-89ae-089bcf969f36",
-    "company": "浙江省建设投资集团",
-    "title": "浙建集团启动2027届校园招聘",
-    "location": [
-      "杭州"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-14",
-    "first_seen": "2026-09-30",
-    "category": "城市更新",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "城市更新",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/IMHeNbaBbJ8rxPcHiuDOUA?scene=1&click_id=1073706048",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 66,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "12eee3c79d75fdcfabb07f453eae267851f20e29f9f13502afb4bb6d8355b3b7",
-    "source_id": "guopinleida",
-    "source_job_id": "1e0ef955-f016-46e8-bf77-f524c5991253",
-    "company": "太古集团",
-    "title": "SMP计划｜2027太古全球领导力发展计划正式启动",
-    "location": [
-      "全国"
-    ],
-    "deadline": "2026-10-31",
-    "publish_date": "2026-09-13",
-    "first_seen": "2026-09-29",
-    "category": "不限专业优质岗",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "专业不限",
-      "头部企业或外企"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/hrg4IB14NtIRrDQr4ulkQw",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 73,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 14,
-      "ability_match": 11,
-      "growth": 10,
-      "application_cost": 2
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "头部外企平台估算"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "64acef64f252369f32d18fd428d9572dd400ef084a22900677955b99594c7963",
-    "source_id": "guopinleida",
-    "source_job_id": "9a43ebd6-695c-4518-9e7b-f814e12b99d9",
-    "company": "中工国际",
-    "title": "中工国际2027届校园招聘正式启动",
-    "location": [
-      "北京",
-      "南京",
-      "海外"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-12",
-    "first_seen": "2026-09-24",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/qLRwUiWS7T_Z1fUuETZDNQ",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 66,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "23f128c944fd63fcd47d3a2e5a42b49135ce3ebb64092ddf881c4358854a3bff",
-    "source_id": "guopinleida",
-    "source_job_id": "dec1dd08-5213-4e20-9201-9ad49a91a37f",
-    "company": "泰康保险",
-    "title": "泰康保险集团2027年全球招聘正式启动",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-09",
-    "first_seen": "2026-09-24",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/by9qmCTgdBhhf0zW3OYo_g",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 72,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 22,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 2
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "771b32c1dfdb6c5807fae1c05ef8528e95996f54f8907af1c5d1a3231ba7a4b5",
-    "source_id": "guopinleida",
-    "source_job_id": "9382e23e-3830-482f-ac3b-c312e0a328c8",
-    "company": "中建五局",
-    "title": "中建五局“青苗计划”2027届校园招聘火热进行中",
-    "location": [
-      "全国",
-      "海外"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-08",
-    "first_seen": "2026-09-30",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/L2KP4nAv7v6A6lQnyp-Jgw",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 1
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "3bdea2ed04eff45ed4af45f29607ad4149e3ddcc58c1f269be06e5f8b838becb",
-    "source_id": "guopinleida",
-    "source_job_id": "a46f5730-baf4-4701-a761-c23b611bc063",
-    "company": "不凡帝范梅勒",
-    "title": "不凡帝范梅勒2027届校园招聘正式启动！",
-    "location": [
-      "上海",
-      "深圳"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-09",
-    "first_seen": "2026-09-30",
-    "category": "不限专业优质岗",
-    "match_level": "C",
-    "job_group": "other",
-    "priority_rank": 3,
-    "priority_label": "跨行尝试",
-    "match_reasons": [
-      "专业不限",
-      "头部企业或外企"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/xcMhjjPXA1c6FL-dK6mXug",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 67,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 9,
-      "ability_match": 11,
-      "growth": 10,
-      "application_cost": 1
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部外企平台估算"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "0e9751a008dab11f8277bc1548de5d5dac666bb51a1adf8f9ab39d6cee3789db",
-    "source_id": "guopinleida",
-    "source_job_id": "af30571d-c546-40c7-9921-17a93e5b1f43",
-    "company": "中建玖合发展集团",
-    "title": "中建玖合2027届“玖天星”秋季校园招聘启动",
+    "source_job_id": "c043b3ba-3402-43be-84cb-9c06e4278f3b",
+    "company": "世源科技",
+    "title": "世源科技工程有限公司2027校园招聘",
     "location": [
       "上海",
       "北京",
-      "广州",
-      "昆明"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-08",
-    "first_seen": "2026-09-22",
-    "category": "城市更新",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "城市更新",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/wQcxUV3zCXM94HFbG-5U8w",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 1
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "fabd0a6a80aa066932e6107aca6387c9d65c3979c62f94aa4f96c49b52cc7d7e",
-    "source_id": "guopinleida",
-    "source_job_id": "057aa182-42d1-4005-a62c-64fe7de5960d",
-    "company": "中国启源",
-    "title": "中国启源2027届校园招聘正式启动！",
-    "location": [
-      "咸阳",
+      "厦门",
+      "合肥",
       "成都",
+      "武汉",
+      "深圳",
       "西安"
     ],
     "deadline": null,
-    "publish_date": "2026-09-07",
-    "first_seen": "2026-09-24",
+    "publish_date": "2026-09-13",
+    "first_seen": "2026-09-30",
     "category": "建筑设计",
     "match_level": "A",
     "job_group": "architecture",
@@ -3032,7 +3793,7 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/RWMp084uGMZtvL_5CFFsEg",
+    "detail_url": "https://mp.weixin.qq.com/s/Mk-r9a01b9T9WcT-NEO2RA",
     "alternate_sources": [],
     "source_type": "job_board",
     "verification_status": "pending",
@@ -3064,39 +3825,27 @@
     "status": "active"
   },
   {
-    "fingerprint": "a3062e6e9c067756d0fd3ac59d55efe623d900bdb6432246a9a777047bc3d3cc",
-    "source_id": "guopinleida",
-    "source_job_id": "d5272298-97f9-45ec-97b6-2f097f5ff5f0",
-    "company": "精工钢构",
-    "title": "精工钢构集团2027届校园招聘正式启动！",
+    "fingerprint": "de689b6fef3aa6d638d8a5f0d8f130748cd83560ad4719e3986eea67871bf2d6",
+    "source_id": "hust",
+    "source_job_id": "2433650",
+    "company": "绿城中国浙江公司",
+    "title": "绿城中国浙江公司2027届秋季校园招聘（同道人）",
     "location": [
-      "上海",
-      "佛山",
-      "全国",
-      "六安",
-      "天津",
-      "宿迁",
-      "广州",
-      "武汉",
-      "海外",
-      "深圳",
-      "绍兴",
-      "苏州",
-      "重庆"
+      "未公布"
     ],
     "deadline": null,
-    "publish_date": "2026-09-08",
-    "first_seen": "2026-09-24",
+    "publish_date": "2026-10-09",
+    "first_seen": "2026-10-09",
     "category": "建筑设计",
     "match_level": "A",
     "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
+    "priority_rank": 1,
+    "priority_label": "优先投",
     "match_reasons": [
       "建筑设计"
     ],
     "requirements": {
-      "education": null,
+      "education": "本科",
       "graduation_year": 2027,
       "majors": [
         "建筑"
@@ -3105,127 +3854,94 @@
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/mk-4kH8dB2Y_jbNX0-0Byw",
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2433650.htm",
     "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
     "official_apply_url": null,
-    "opportunity_type": "full_time",
+    "opportunity_type": "mixed",
     "eligibility_status": "needs_confirmation",
     "eligibility_label": "需确认",
-    "score_total": 66,
+    "score_total": 87,
     "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 17,
+      "compensation_platform": 36,
+      "interview_probability": 19,
       "ability_match": 20,
-      "growth": 6,
-      "application_cost": 1
+      "growth": 10,
+      "application_cost": 2
     },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
     "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
-      "专业与设计院实习经历直接匹配"
+      "头部城市开发、设计管理或运营平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
     ],
     "score_risks": [
       "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
+      "待遇为公司层级估算"
     ],
     "status": "active"
   },
   {
-    "fingerprint": "ce12c8fec64d37cdae55197a123a39a611660b630a0eff4987d1068dc32464ec",
-    "source_id": "guopinleida",
-    "source_job_id": "6c635764-00dd-4663-b893-3c671a4db8f1",
-    "company": "中国煤科",
-    "title": "中国煤科2027届校园招聘",
+    "fingerprint": "f699173dd09bfa976b589a4ec33189613c637b028385d37fcab51a37d64a66eb",
+    "source_id": "hust",
+    "source_job_id": "2451650",
+    "company": "“梦想靠岸”招商银行海口分行2027秋季",
+    "title": "“梦想靠岸”招商银行海口分行2027秋季校园招聘公告",
     "location": [
-      "上海",
-      "丽江",
-      "乌鲁木齐",
-      "北京",
-      "南京",
-      "合肥",
-      "吕梁",
-      "吴忠",
-      "呼和浩特",
-      "唐山",
-      "大理",
-      "天津",
-      "太原",
-      "常州",
-      "忻州",
-      "拉萨",
-      "晋城",
-      "朔州",
-      "杭州",
-      "榆林",
-      "武汉",
-      "沈阳",
-      "济宁",
-      "淮北",
-      "深圳",
-      "灵武",
-      "石嘴山",
-      "石家庄",
-      "西安",
-      "鄂尔多斯",
-      "重庆",
-      "银川",
-      "雄安新区"
+      "未公布"
     ],
     "deadline": null,
-    "publish_date": "2026-09-08",
-    "first_seen": "2026-09-24",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
+    "publish_date": "2026-10-08",
+    "first_seen": "2026-10-09",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
     "match_reasons": [
-      "城乡规划"
+      "专业不限",
+      "头部企业或外企"
     ],
     "requirements": {
-      "education": null,
+      "education": "本科",
       "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
+      "majors": [],
       "experience_required": false,
       "qualification_required": false
     },
     "apply_url": null,
-    "detail_url": "https://mp.weixin.qq.com/s/aC8hB9fk1OMPGx6Nvopkeg",
+    "detail_url": "https://job.hust.edu.cn/zpinfo1/2451650.htm",
     "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "华中科技大学就业信息网",
     "official_apply_url": null,
-    "opportunity_type": "full_time",
+    "opportunity_type": "mixed",
     "eligibility_status": "needs_confirmation",
     "eligibility_label": "需确认",
-    "score_total": 66,
+    "score_total": 52,
     "score_breakdown": {
       "compensation_platform": 22,
-      "interview_probability": 17,
-      "ability_match": 20,
+      "interview_probability": 11,
+      "ability_match": 11,
       "growth": 6,
-      "application_cost": 1
+      "application_cost": 2
     },
     "salary_band": "待确认",
     "salary_basis": "待确认",
-    "score_confidence": "低",
+    "score_confidence": "中",
     "score_summary": "信息尚不完整，先核验资格与待遇再投递",
     "score_strengths": [
-      "专业与设计院实习经历直接匹配"
+      "招聘来源已核验"
     ],
     "score_risks": [
       "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
+      "公司与待遇信息不足"
     ],
     "status": "active"
   },
