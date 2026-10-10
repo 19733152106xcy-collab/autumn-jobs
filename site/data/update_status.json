@@ -1,7 +1,7 @@
 {
   "updated_date": "2026-10-10",
-  "active_jobs": 64,
-  "today_added": 2,
+  "active_jobs": 141,
+  "today_added": 77,
   "source_counts": {
     "cadg": {
       "discovered": 0,
@@ -49,19 +49,19 @@
       "excluded": 0
     },
     "cscec8": {
-      "discovered": 41,
+      "discovered": 42,
       "included": 5,
-      "excluded": 36
+      "excluded": 37
     },
     "bucea": {
-      "discovered": 230,
+      "discovered": 252,
       "included": 9,
-      "excluded": 221
+      "excluded": 243
     },
     "guopinleida": {
-      "discovered": 1700,
-      "included": 45,
-      "excluded": 1655
+      "discovered": 5749,
+      "included": 122,
+      "excluded": 5627
     },
     "hust": {
       "discovered": 17,

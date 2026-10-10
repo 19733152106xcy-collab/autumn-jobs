@@ -137,6 +137,27 @@
       "requirements": "需核对具体岗位的学历、专业与届别；公告不代表所有岗位可投"
     },
     {
+      "id": "d29b58153a04da0737e1",
+      "company": "深信服",
+      "industry": "网络与数据安全",
+      "title": "27届客户经理",
+      "location": [
+        "广东省深圳市南山区"
+      ],
+      "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24451&zpxxId=125043",
+      "apply_url": null,
+      "deadline": null,
+      "publish_date": "2026-09-23",
+      "first_seen": "2026-10-10",
+      "source_id": "bucea",
+      "source_name": "北京建筑大学就业网",
+      "verification": "verified",
+      "salary": "未公布（底薪、提成与达标条件需确认）",
+      "kind": "job",
+      "eligibility": "needs_confirmation",
+      "requirements": "需核对具体岗位的学历、专业与届别；公告不代表所有岗位可投"
+    },
+    {
       "id": "1ae2d15b46791d32bc9b",
       "company": "绿盟科技",
       "industry": "网络与数据安全",
@@ -727,6 +748,27 @@
       "first_seen": "2026-10-10",
       "source_id": "guopinleida",
       "source_name": "国聘雷达",
+      "verification": "pending",
+      "salary": "未公布（底薪、提成与达标条件需确认）",
+      "kind": "job",
+      "eligibility": "needs_confirmation",
+      "requirements": "需核对具体岗位的学历、专业与届别；公告不代表所有岗位可投"
+    },
+    {
+      "id": "74254dde8049fd2973e3",
+      "company": "海康威视",
+      "industry": "补充优质企业",
+      "title": "材料研发等 【国内营销/技术支持类】 销售（2027公告列出）",
+      "location": [
+        "浙江省杭州市滨江区"
+      ],
+      "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24374&zpxxId=124962",
+      "apply_url": null,
+      "deadline": null,
+      "publish_date": "2026-09-10",
+      "first_seen": "2026-10-10",
+      "source_id": "bucea",
+      "source_name": "北京建筑大学就业网",
       "verification": "pending",
       "salary": "未公布（底薪、提成与达标条件需确认）",
       "kind": "job",
@@ -1771,6 +1813,27 @@
       "source_id": "guopinleida",
       "source_name": "国聘雷达",
       "verification": "pending",
+      "salary": "未公布（底薪、提成与达标条件需确认）",
+      "kind": "lead",
+      "eligibility": "needs_confirmation",
+      "requirements": "需核对具体岗位的学历、专业与届别；公告不代表所有岗位可投"
+    },
+    {
+      "id": "a867d3e08ddcda02eb84",
+      "company": "海康威视",
+      "industry": "补充优质企业",
+      "title": "海康威视2027校园招聘火热招聘中",
+      "location": [
+        "浙江省杭州市滨江区"
+      ],
+      "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24374&zpxxId=124962",
+      "apply_url": null,
+      "deadline": null,
+      "publish_date": "2026-09-10",
+      "first_seen": "2026-10-10",
+      "source_id": "bucea",
+      "source_name": "北京建筑大学就业网",
+      "verification": "verified",
       "salary": "未公布（底薪、提成与达标条件需确认）",
       "kind": "lead",
       "eligibility": "needs_confirmation",
@@ -2824,16 +2887,16 @@
     {
       "company": "深信服",
       "industry": "网络与数据安全",
-      "job_count": 1,
+      "job_count": 2,
       "lead_count": 1,
       "checked_date": "2026-10-10",
       "status": "已找到销售岗位",
       "sources": [
-        "https://mp.weixin.qq.com/s/FCRcfbY8jfOPwjH97SJAzg",
+        "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24452&zpxxId=125043",
+        "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24451&zpxxId=125043",
         "https://mp.weixin.qq.com/s/tBepcnSahMW3uXUsBn013g",
         "https://mp.weixin.qq.com/s/vlVqsy66a2BhGOjOB_T5Mg",
-        "https://mp.weixin.qq.com/s/nPzlYw0EVLY9Kq1-NuLZFA",
-        "http://mp.weixin.qq.com/s?__biz=MjM5MzQzNTc1MA==&mid=2650845311&idx=1&sn=2b2e6c945c2d7ff2163d831673b6a41e&chksm=bd6309768a1480607cdb9d3c40d140ed163ad50bcc08ad69c654dbca9fa16a1d2b85eaf99e0a#rd"
+        "https://mp.weixin.qq.com/s/nPzlYw0EVLY9Kq1-NuLZFA"
       ],
       "search_url": "https://www.bing.com/search?q=%E6%B7%B1%E4%BF%A1%E6%9C%8D%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
@@ -3107,11 +3170,12 @@
     {
       "company": "海康威视",
       "industry": "补充优质企业",
-      "job_count": 1,
-      "lead_count": 2,
+      "job_count": 2,
+      "lead_count": 3,
       "checked_date": "2026-10-10",
       "status": "已找到销售岗位",
       "sources": [
+        "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24374&zpxxId=124962",
         "https://mp.weixin.qq.com/s/qtA7eWQpz6XNnKYuEiNfBg",
         "https://mp.weixin.qq.com/s/OTj3YM2PHtGBnt12pFEI2A"
       ],
@@ -3299,8 +3363,8 @@
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/ynlhObymBR4GTbE1M8UHHQ",
-        "http://mp.weixin.qq.com/s?__biz=MzA3MTkyMzczNg==&mid=2718141129&idx=1&sn=d71cf865b35c95556ca175f8514b9383&chksm=b8d10bbe8fa682a88fdd29c6d60f82f06d2379c2b34271bb6705d39959382286c6acf648c61b#rd",
-        "https://mp.weixin.qq.com/s/8nrFaxSzK0NrX8MKLVmQkA"
+        "https://mp.weixin.qq.com/s/8nrFaxSzK0NrX8MKLVmQkA",
+        "http://mp.weixin.qq.com/s?__biz=MzA3MTkyMzczNg==&mid=2718141129&idx=1&sn=d71cf865b35c95556ca175f8514b9383&chksm=b8d10bbe8fa682a88fdd29c6d60f82f06d2379c2b34271bb6705d39959382286c6acf648c61b#rd"
       ],
       "search_url": "https://www.bing.com/search?q=%E6%96%BD%E8%80%90%E5%BE%B7%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
