@@ -1,0 +1,82 @@
+jobs:
+  - source_id: sales_keyence
+    company: 基恩士
+    title: 2027销售工程师/销售
+    location: [全国]
+    detail_url: https://www.keyence.com.cn/ss/careers/recruitment.jsp?ad=gamisc20178career115
+    apply_url: https://keyence.zhiye.com/campus/detail?jobAdId=85237bb7-cccc-40a8-beeb-cbcb6e97ea86
+    salary_text: 官网本科月薪12000–15000元，随城市变化；第一年参考年收入18–22万元为预测值，非保证。需服从分配、拜访客户。
+    description: 2027届本科及以上应届毕业生，专业不限；毕业时间2026年9月1日到2027年8月31日；面向企业最终用户的顾问式B2B销售。本科月薪12000至15000元，因工作地点而异；参考年收入为预测值而非保证收入。
+    source_type: official
+    verification_status: official
+    source_name: 基恩士中国招聘官网
+  - source_id: sales_glodon
+    company: 广联达
+    title: 27届校招-产品销售工程师
+    location: [全国, 西安, 北京, 上海]
+    detail_url: https://www.nowcoder.com/jobs/detail/469469
+    apply_url: https://campus.glodon.com/
+    description: 2027届毕业生，本科及以上，土木、建筑工程相关专业；负责企业数字建筑产品销售、客户开拓与方案演示。历史建筑保护工程是否属于该岗位建筑工程口径需HR确认；薪资面议。
+    source_type: job_board
+    verification_status: verified
+    source_name: 广联达企业发布（牛客）
+  - source_id: sales_glodon
+    company: 广联达
+    title: 2027解决方案销售工程师
+    location: [全国]
+    detail_url: https://career.nankai.edu.cn/correcruit/content/id/118802.html
+    apply_url: https://campus.glodon.com/
+    description: 南开大学2027校招公告列出EOE解决方案销售工程师，本科岗位开放；各岗位专业要求以官网为准，需核对具体销售岗学历和专业。
+    source_type: university
+    verification_status: verified
+    source_name: 南开大学就业网
+  - source_id: sales_kingdee
+    company: 金蝶
+    title: 2027客户经营（昆明）
+    location: [昆明]
+    detail_url: https://www.shushuqiuzhi.com/job/589660
+    apply_url: null
+    description: 2027应届毕业生，统招本科及以上，计算机、会计电算化相关专业优先而非必须；负责金蝶企业软件销售与推广。聚合岗位页信息，最终以官网JD为准。
+    source_type: job_board
+    verification_status: pending
+    source_name: 鼠鼠求职（需核验官网）
+  - source_id: sales_nsfocus
+    company: 绿盟科技
+    title: 2027市场管培生-销售方向
+    location: [北京]
+    detail_url: https://job.hdu.edu.cn/campus/view?id=10011
+    apply_url: https://app.mokahr.com/campus_apply/nsfocus/29118#/jobs
+    description: 2027届校招市场管培生销售方向；本科及以上，岗位详情要求信息安全、通信或计算机相关专业，建筑背景专业不符合明确列举，需HR确认。
+    source_type: university
+    verification_status: verified
+    source_name: 杭州电子科技大学就业网（专业限制另据岗位页）
+  - source_id: sales_sinotrans
+    company: 中国外运
+    title: 常州分公司营销中心-销售（2027届秋招）
+    location: [常州]
+    detail_url: https://jobs.uhomes.com/jobs/v01qDx0R
+    apply_url: null
+    description: 2027届秋招销售岗，大专及以上，国际贸易、外贸英语等物流相关专业优先；对销售有热情，学习沟通能力。聚合岗位信息需核验，中国外运2027正式批公告由大连海事大学发布。
+    source_type: job_board
+    verification_status: pending
+    source_name: 异乡人才（需核验官网）
+  - source_id: sales_sangfor
+    company: 深信服
+    title: 深信服27届-客户经理（专业不设限）
+    location: [全国]
+    detail_url: https://51uns.bysjy.com.cn/Announce/Details/3592044?schoolCode=10700
+    apply_url: https://hr.sangfor.com/
+    description: 2027届正式校园招聘，客户经理，本科及以上，专业不设限。面向企业级网络安全、云计算与AI产品客户。薪资按录用条件与绩效另行确认。
+    source_type: university
+    verification_status: verified
+    source_name: 西安理工大学就业网
+  - source_id: sales_qianxin
+    company: 奇安信
+    title: 青少班-市场营销方向（2027少年大将军）
+    location: [北京, 杭州, 广州, 成都, 南京, 青岛, 深圳, 上海, 济南]
+    detail_url: https://campus.qianxin.com/campus/jobSearch
+    apply_url: https://campus.qianxin.com/campus/jobSearch
+    description: 官网要求2027届优秀应届生，专业不限；对营销有兴趣，沟通协调及抗压能力。官网该岗位未明示最低学历，需确认本科录用口径。
+    source_type: official
+    verification_status: official
+    source_name: 奇安信官方校园招聘

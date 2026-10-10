@@ -24,6 +24,7 @@ class RawJob(BaseModel):
     apply_url: str | None = None
     source_job_id: str | None = None
     description: str = ""
+    salary_text: str | None = None
     deadline: date | None = None
     publish_date: date | None = None
     official_status: Literal["open", "closed", "unknown", "suspect"] = "unknown"

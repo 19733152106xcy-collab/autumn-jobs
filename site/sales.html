@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>2027 ToB销售岗位</title><link rel="icon" href="data:,"><link rel="stylesheet" href="assets/style.css"><link rel="stylesheet" href="assets/sales.css"></head>
+<body><main>
+<nav><a href="index.html">返回原岗位库</a> · <a href="https://github.com/19733152106xcy-collab/autumn-jobs/actions/workflows/daily-update.yml" target="_blank" rel="noopener noreferrer">每日更新记录</a></nav>
+<h1>2027 ToB销售岗位</h1>
+<p class="muted">企业销售 / 客户经理 / 渠道 / 商务拓展。独立检索，不受建筑岗位筛选限制。默认保留待核验机会，不收实习、门店导购或明确要求硕士的岗位。</p>
+<p id="sales-update" role="status">正在读取数据…</p>
+<section class="controls" aria-label="销售筛选">
+<label>公司或岗位<input id="sales-search" type="search" placeholder="例如：深信服、客户经理"></label>
+<label>行业<select id="sales-industry"><option value="">全部行业</option></select></label>
+<label>城市<select id="sales-city"><option value="">全部城市</option></select></label>
+<label>资格<select id="sales-eligibility"><option value="">可尝试 + 待核验</option><option value="eligible">本科专业条件符合</option><option value="needs_confirmation">需确认专业 / 学历</option></select></label>
+<label>内容<select id="sales-kind"><option value="job">销售岗位信息（含待核验）</option><option value="lead">销售方向校招公告</option><option value="all">岗位 + 公告</option></select></label>
+<label>阅读状态<select id="sales-saved"><option value="new">未处理</option><option value="all">全部（含折叠）</option><option value="saved">已处理</option></select></label>
+</section>
+<p id="sales-count" role="status" aria-live="polite"></p>
+<p class="muted">排序先看资格明确的岗位，再看官方核验信息；不把品牌名气当作高薪证明。薪资以岗位原文为准，销售年收入不等于无责底薪。</p>
+<div id="sales-list"></div>
+<details class="sales-audit"><summary id="sales-audit-title">公司检索清单</summary><p class="muted">“未发现”只表示配置来源未找到，不代表公司不招聘。截图60家公司全部列入，补充企业单列。动态招聘系统可能需要打开官网核验。</p><div id="sales-audit-list"></div></details>
+<p class="muted">已投递 / 不感兴趣记录仅保存在当前浏览器；换电脑或清理浏览器不会同步。没有登录和后台。</p>
+</main><script type="module" src="assets/sales.js"></script></body></html>

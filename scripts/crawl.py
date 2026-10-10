@@ -17,6 +17,7 @@ from autumn_jobs.adapters.gankinterview import (
 from autumn_jobs.adapters.guopinleida import crawl_guopinleida_jobs, load_guopinleida_settings
 from autumn_jobs.adapters.hust import crawl_hust_jobs, load_hust_settings
 from autumn_jobs.pipeline import run_pipeline
+from autumn_jobs.sales import build_sales
 from autumn_jobs.sources import (
     SourceHealth,
     crawl_configured_sources,
@@ -87,6 +88,11 @@ def main() -> None:
     for job in load_verified_jobs(Path("config/verified_jobs.yaml")):
         source_jobs.setdefault(job.source_id, []).append(job)
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()
+    sales_sources = {key: list(rows) for key, rows in source_jobs.items()}
+    for job in load_verified_jobs(Path("config/sales_verified.yaml")):
+        sales_sources.setdefault(job.source_id, []).append(job)
+    sales = build_sales(sales_sources, Path("config/sales_companies.yaml"), Path("site/data/sales.json"), today)
+    print(json.dumps({"sales_jobs": len(sales["jobs"]), "sales_leads": len(sales["leads"])}, ensure_ascii=False))
     source_status = update_source_status(
         Path("data/state/source_status.json"), health, datetime.now(ZoneInfo("Asia/Shanghai"))
     )

@@ -55,7 +55,7 @@ def crawl_guopinleida_jobs(settings: dict[str, int]) -> list[RawJob]:
                     title=str(row["title"]),
                     location=[str(value) for value in locations] or ["未公布"],
                     detail_url=str(row.get("detailUrl") or f"{BASE_URL}/jobs/{job_id}"),
-                    apply_url=None,
+                    apply_url=str(row.get("applyUrl")) if row.get("applyUrl") else None,
                     description=str(row.get("description") or ""),
                     deadline=_parse_date(row.get("deadline")),
                     publish_date=_parse_date(row.get("publishedAt")),

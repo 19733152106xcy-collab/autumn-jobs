@@ -1,0 +1,19 @@
+nav { margin-bottom:24px; }
+.controls label { display:flex; flex-direction:column; gap:6px; font-size:14px; }
+.controls input,.controls select { min-height:44px; max-width:100%; }
+.sales-company { background:#fff; border:1px solid #cbd5e1; border-radius:8px; padding:16px; margin:16px 0; }
+.sales-heading { display:flex; flex-wrap:wrap; align-items:center; gap:12px; justify-content:space-between; }
+.sales-heading h2 { margin:0; font-size:20px; }
+.sales-company summary { cursor:pointer; padding:12px 0; }
+.sales-row { border-top:1px solid #e2e8f0; padding:16px 0; overflow-wrap:anywhere; }
+.sales-row h3 { margin:0 0 8px; font-size:17px; }
+.sales-row p { margin:8px 0; }
+.sales-actions { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+.sales-actions button,.sales-heading button,.sales-actions a { min-height:44px; padding:10px 12px; }
+.sales-tag { display:inline-block; padding:4px 8px; background:#eef2ff; color:#273b75; border-radius:4px; font-size:14px; margin-right:8px; }
+.sales-audit { padding:16px 0; }
+.sales-audit summary { cursor:pointer; font-size:18px; }
+.sales-audit-row { border-bottom:1px solid #e2e8f0; padding:12px 0; overflow-wrap:anywhere; }
+button { cursor:pointer; }
+:focus-visible { outline:3px solid #2563eb; outline-offset:3px; }
+@media(max-width:600px) { .controls label { width:100%; } .controls input,.controls select { width:100%; } .sales-company { padding:12px; } }
