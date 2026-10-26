@@ -1,6 +1,60 @@
 {
-  "updated_date": "2026-10-25",
+  "updated_date": "2026-10-26",
   "jobs": [
+    {
+      "fingerprint": "8e5618fa330e6278a4185d283318e037a3cf1132ba5d3baec22f4306e3c9905d",
+      "company": "ATOMIC岱澳集团",
+      "title": "ATOMIC岱澳集团2027校园招聘正式启动！",
+      "location": [
+        "上海",
+        "北京",
+        "南京",
+        "大连",
+        "广州",
+        "成都",
+        "深圳",
+        "苏州",
+        "西安"
+      ],
+      "deadline": null,
+      "publish_date": "2026-08-30",
+      "first_seen": "2026-10-26",
+      "category": "不限专业优质岗",
+      "match_level": "C",
+      "apply_url": "https://www.novarecruit.cn/careers/jobs/32c704f0-0d4a-45fa-bbf1-3e2bc93921ce",
+      "detail_url": "https://mp.weixin.qq.com/s/0bwqBD6_mcGki8dE9Liy3A",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "mixed",
+      "job_group": "other",
+      "priority_rank": 3,
+      "priority_label": "跨行尝试",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 67,
+      "score_breakdown": {
+        "compensation_platform": 36,
+        "interview_probability": 9,
+        "ability_match": 11,
+        "growth": 10,
+        "application_cost": 1
+      },
+      "salary_band": "A",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部外企平台估算"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
     {
       "fingerprint": "eeab3adea1f5d44b4cf474068cb803994627d94f59997a81d62c692d45d518a4",
       "company": "腾讯游戏",
@@ -101,56 +155,6 @@
       ]
     },
     {
-      "fingerprint": "cfac2ca8de78d7dbde21987b7be6f7a51549b1a35cbd69bbf0c011245c9f9845",
-      "company": "清华同衡",
-      "title": "清华同衡暑期实习招聘正式启动",
-      "location": [
-        "北京",
-        "成都",
-        "西安",
-        "郑州"
-      ],
-      "deadline": null,
-      "publish_date": "2026-06-17",
-      "first_seen": "2026-10-25",
-      "category": "历史建筑保护",
-      "match_level": "A",
-      "apply_url": "https://thupdi1.zhiye.com/intern",
-      "detail_url": "https://mp.weixin.qq.com/s/3twT_uu_8Q-sPBTDPDEBxQ",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "internship",
-      "job_group": "architecture",
-      "priority_rank": 2,
-      "priority_label": "值得投",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 75,
-      "score_breakdown": {
-        "compensation_platform": 33,
-        "interview_probability": 13,
-        "ability_match": 20,
-        "growth": 7,
-        "application_cost": 2
-      },
-      "salary_band": "B",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "头部建筑设计平台估算",
-        "专业与设计院实习经历直接匹配"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "待遇为公司层级估算",
-        "投递信息仍待核验"
-      ]
-    },
-    {
       "fingerprint": "41ca18ffc72f95362fc78aefeaa9e39f059e49dbac90a9e07e982b82da52c4a3",
       "company": "中建八局",
       "title": "中建八局2027届“新砼人”秋季校园招聘正式启动",
@@ -190,64 +194,6 @@
       "score_strengths": [
         "央国企工程平台估算",
         "专业与设计院实习经历直接匹配"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "待遇为公司层级估算",
-        "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "6388fb062cb34d492a9480da1dfc0c6e82d1aacd84a43d2e1a87ce10fc8bf8d9",
-      "company": "GE医疗集团",
-      "title": "GE医疗2027届校园招聘正式启动！",
-      "location": [
-        "上海",
-        "乌鲁木齐",
-        "北京",
-        "南京",
-        "天津",
-        "太原",
-        "广州",
-        "成都",
-        "杭州",
-        "济南",
-        "福州",
-        "西安",
-        "长沙"
-      ],
-      "deadline": null,
-      "publish_date": "2026-08-30",
-      "first_seen": "2026-10-25",
-      "category": "不限专业优质岗",
-      "match_level": "C",
-      "apply_url": "https://app.mokahr.com/m/campus-recruitment/gehc/142250",
-      "detail_url": "https://mp.weixin.qq.com/s/knwZ0l3mOHR0OgokWuLcNA",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "full_time",
-      "job_group": "other",
-      "priority_rank": 3,
-      "priority_label": "跨行尝试",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 67,
-      "score_breakdown": {
-        "compensation_platform": 36,
-        "interview_probability": 9,
-        "ability_match": 11,
-        "growth": 10,
-        "application_cost": 1
-      },
-      "salary_band": "A",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "头部外企平台估算"
       ],
       "score_risks": [
         "学历、届别或专业信息不完整",
@@ -5158,53 +5104,6 @@
       ]
     },
     {
-      "fingerprint": "8885673768df82211f83c544f19ee9bbdecf89152f964b8ae353620cc9133e19",
-      "company": "中国联合工程",
-      "title": "中国联合工程有限公司“薪火计划”27届实习生招聘公告（可转正）",
-      "location": [
-        "杭州"
-      ],
-      "deadline": null,
-      "publish_date": "2026-06-04",
-      "first_seen": "2026-10-10",
-      "category": "建筑设计",
-      "match_level": "A",
-      "apply_url": "https://chinacuc.zhiye.com/intern",
-      "detail_url": "https://mp.weixin.qq.com/s/dDDNWreYT9qovtK5HdvaSg",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "internship",
-      "job_group": "architecture",
-      "priority_rank": 2,
-      "priority_label": "值得投",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 75,
-      "score_breakdown": {
-        "compensation_platform": 29,
-        "interview_probability": 17,
-        "ability_match": 20,
-        "growth": 8,
-        "application_cost": 1
-      },
-      "salary_band": "B",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "央国企工程平台估算",
-        "专业与设计院实习经历直接匹配"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
-        "待遇为公司层级估算",
-        "投递信息仍待核验"
-      ]
-    },
-    {
       "fingerprint": "9a78f10e2685749801747a8313017d0857028c6f9bed6acddee82e8f21de53f9",
       "company": "中国核电",
       "title": "中国核电2027届校园招聘正式启动！",
@@ -7252,52 +7151,6 @@
       "score_summary": "可作为补充机会，先核验关键信息",
       "score_strengths": [],
       "score_risks": [
-        "公司与待遇信息不足",
-        "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "382ec9473e9f9bc54c2c644689ea5395518cc7fdb50893b6488ee6ae8ed87522",
-      "company": "成都设计咨询集团",
-      "title": "成都设计咨询集团有限公司2027届秋季校园招聘的公告",
-      "location": [
-        "成都"
-      ],
-      "deadline": "2026-10-25",
-      "publish_date": "2026-09-16",
-      "first_seen": "2026-09-22",
-      "category": "建筑设计",
-      "match_level": "A",
-      "apply_url": "@简章内投递",
-      "detail_url": "https://www.cddc2021.com/recruitinfo/621.html?step=1",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "full_time",
-      "job_group": "architecture",
-      "priority_rank": 2,
-      "priority_label": "值得投",
-      "status": "active",
-      "eligibility_status": "needs_confirmation",
-      "eligibility_label": "需确认",
-      "score_total": 66,
-      "score_breakdown": {
-        "compensation_platform": 22,
-        "interview_probability": 17,
-        "ability_match": 20,
-        "growth": 6,
-        "application_cost": 1
-      },
-      "salary_band": "待确认",
-      "salary_basis": "待确认",
-      "score_confidence": "低",
-      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-      "score_strengths": [
-        "专业与设计院实习经历直接匹配"
-      ],
-      "score_risks": [
-        "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
         "投递信息仍待核验"
       ]
