@@ -1,7 +1,7 @@
 {
-  "updated_date": "2026-10-26",
-  "active_jobs": 162,
-  "today_added": 1,
+  "updated_date": "2026-10-27",
+  "active_jobs": 163,
+  "today_added": 7,
   "source_counts": {
     "cadg": {
       "discovered": 0,
@@ -24,6 +24,11 @@
       "excluded": 4
     },
     "cscec": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "xauat": {
       "discovered": 0,
       "included": 0,
       "excluded": 0
@@ -54,9 +59,9 @@
       "excluded": 258
     },
     "guopinleida": {
-      "discovered": 6499,
-      "included": 144,
-      "excluded": 6355
+      "discovered": 6523,
+      "included": 145,
+      "excluded": 6378
     },
     "hust": {
       "discovered": 25,
