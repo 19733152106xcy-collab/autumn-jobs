@@ -1,985 +1,5 @@
 [
   {
-    "fingerprint": "fb65978696ade42e113b49246502ccece94b74fe78beb45cf289dd9c07062df3",
-    "source_id": "ccdc",
-    "source_job_id": null,
-    "company": "中国中建设计研究院",
-    "title": "建证美好 与你同行 | 中建设计研究院 2023春季校园招聘正式启航",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": null,
-    "first_seen": "2026-10-28",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://ccdc.cscec.com/rlzy/xyzp/202510/3907231.html",
-    "alternate_sources": [],
-    "source_type": "public_article",
-    "verification_status": "pending",
-    "source_name": null,
-    "official_apply_url": null,
-    "opportunity_type": "mixed",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 1
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "4546eccbc31084e5d8b294ff6c318d93b79b55341a00e4c8586597bc65648c00",
-    "source_id": "ccdc",
-    "source_job_id": null,
-    "company": "中国中建设计研究院",
-    "title": "“智”造幸福 “建”证未来 中建设计研究院2023校园招聘正式启动",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": null,
-    "first_seen": "2026-10-28",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://ccdc.cscec.com/rlzy/xyzp/202510/3907233.html",
-    "alternate_sources": [],
-    "source_type": "public_article",
-    "verification_status": "pending",
-    "source_name": null,
-    "official_apply_url": null,
-    "opportunity_type": "mixed",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 1
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
-    "source_id": "cscec8",
-    "source_job_id": "2751",
-    "company": "中建八局第二建设",
-    "title": "中建八局二公司2027届暑期实习招聘",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-12",
-    "first_seen": "2026-07-27",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-    "opportunity_type": "internship",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 82,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 21,
-      "ability_match": 20,
-      "growth": 7,
-      "application_cost": 5
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "待遇平台与匹配度较好，建议优先投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "待遇为公司层级估算",
-      "实习岗位，需确认转正机会"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "8ef8f857f60bcf8d18b0c8c027f39365b63a5c0e0f5b94e399027bf9c643de26",
-    "source_id": "cscec8",
-    "source_job_id": "2761",
-    "company": "中建八局装饰工程",
-    "title": "装饰公司2027届校园招聘",
-    "location": [
-      "全国"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-27",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 81,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 20,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 4
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "736d26d0a769a0398b0f7af99db308742461eeb59383fd94d900f67f986be9f9",
-    "source_id": "cscec8",
-    "source_job_id": "2776",
-    "company": "上海中建东孚投资发展",
-    "title": "东孚公司2027届校园招聘",
-    "location": [
-      "上海，济南，北京，广州，深圳"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-09-17",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 90,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 20,
-      "ability_match": 20,
-      "growth": 10,
-      "application_cost": 4
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部城市开发、设计管理或运营平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
-    "source_id": "cscec8",
-    "source_job_id": "2757",
-    "company": "中建八局设计管理总院",
-    "title": "设计管理总院2027届校园招聘",
-    "location": [
-      "上海浦东新区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-26",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 81,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 20,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 4
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "23d6da81619e207b3a617a4f4ab9b88422003f91c1a097eb2c89b1004332dd84",
-    "source_id": "cscec8",
-    "source_job_id": "2777",
-    "company": "中建八局北京建设投资",
-    "title": "北京公司2027届校园招聘",
-    "location": [
-      "北京，河北"
-    ],
-    "deadline": null,
-    "publish_date": "2026-06-18",
-    "first_seen": "2026-07-27",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计",
-      "城市设计",
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
-    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
-    "alternate_sources": [],
-    "source_type": "official",
-    "verification_status": "official",
-    "source_name": "中国建筑第八工程局招聘系统",
-    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 81,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 20,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 4
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "b80693100c788f8a5a305735a236613f444ea95eef0091901b97efe119c3b72f",
-    "source_id": "bucea",
-    "source_job_id": "125074:24520",
-    "company": "广东省城乡规划设计研究院科技集团",
-    "title": "广东省城乡规划设计研究院科技集团股份有限公司2027届校园招聘",
-    "location": [
-      "广东省广州海珠区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-10-12",
-    "first_seen": "2026-10-09",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24520&zpxxId=125074",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 69,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 2
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "a327066dc592d5a4381cf4d7b5418cee04561c035d7bb55fc7a6d918b8b5e08d",
-    "source_id": "bucea",
-    "source_job_id": "125083:24471",
-    "company": "清华大学建筑设计研究院",
-    "title": "规划设计师（2027校园招聘）",
-    "location": [
-      "北京海淀区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-10-08",
-    "first_seen": "2026-10-09",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24471&zpxxId=125083",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 24,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 3
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "49111ca5951e58aa0dce6269126ff3ea0d8a4aba20cd51a8505c6533c6ffd726",
-    "source_id": "bucea",
-    "source_job_id": "125083:24469",
-    "company": "清华大学建筑设计研究院",
-    "title": "建筑设计师（2027校园招聘）",
-    "location": [
-      "北京海淀区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-10-08",
-    "first_seen": "2026-10-09",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24469&zpxxId=125083",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 24,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 3
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "7c967e597c8f79b768b48c3051228aa985e828f09b8a66404bcb371c13af3ac7",
-    "source_id": "bucea",
-    "source_job_id": "124996:24403",
-    "company": "四川省建筑设计研究院",
-    "title": "建筑设计师",
-    "location": [
-      "四川省成都武侯区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-14",
-    "first_seen": "2026-09-17",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24403&zpxxId=124996",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 69,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 2
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "66fd294ee07f6b9a9da7220700202d3e302e93c0cdfd2399d736086b5e311fb4",
-    "source_id": "bucea",
-    "source_job_id": "124980:24394",
-    "company": "北京大象建筑设计",
-    "title": "初级建筑设计师",
-    "location": [
-      "北京海淀区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-14",
-    "first_seen": "2026-09-17",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": null,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24394&zpxxId=124980",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 75,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 24,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 3
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "ea0271c14e4c88aeafb87424a53d84350c42f0d5e68b4a26bc4f49e012a54f2a",
-    "source_id": "bucea",
-    "source_job_id": "124947:24354",
-    "company": "同圆设计集团",
-    "title": "建筑设计师",
-    "location": [
-      "山东省济南历下区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-10",
-    "first_seen": "2026-09-17",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24354&zpxxId=124947",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 69,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 2
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "e7e91a3b4cce91c6645a06c47a8b3ba0822b8c716960079438e6ceb921beb2cb",
-    "source_id": "bucea",
-    "source_job_id": "124946:24366",
-    "company": "基准方中建筑设计股份有限公司北京分公司",
-    "title": "基准方中2027届校园招聘",
-    "location": [
-      "北京朝阳区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-10",
-    "first_seen": "2026-09-17",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24366&zpxxId=124946",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 78,
-    "score_breakdown": {
-      "compensation_platform": 29,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 8,
-      "application_cost": 2
-    },
-    "salary_band": "B",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "央国企工程平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "6a9fc8ad3f474452acdb86ec80a8481f74ef44ff79728eeecd3d4e44c2c13be4",
-    "source_id": "bucea",
-    "source_job_id": "124888:24316",
-    "company": "北京绿城投资",
-    "title": "绿城中国2027届校园招聘",
-    "location": [
-      "北京东城区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-07",
-    "first_seen": "2026-09-17",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24316&zpxxId=124888",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "mixed",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 87,
-    "score_breakdown": {
-      "compensation_platform": 36,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 10,
-      "application_cost": 2
-    },
-    "salary_band": "A",
-    "salary_basis": "估算",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "头部城市开发、设计管理或运营平台估算",
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "待遇为公司层级估算"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "1eed0c136aa4914d70e2f937cc27db72e5c44bc32244a5257f06385759c23b69",
-    "source_id": "bucea",
-    "source_job_id": "124884:24329",
-    "company": "碧桂园生活服务集团",
-    "title": "项目管理管培生",
-    "location": [
-      "北京朝阳区"
-    ],
-    "deadline": null,
-    "publish_date": "2026-09-07",
-    "first_seen": "2026-09-17",
-    "category": "项目管理",
-    "match_level": "B",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "项目管理"
-    ],
-    "requirements": {
-      "education": "本科",
-      "graduation_year": 2027,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24329&zpxxId=124884",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "北京建筑大学就业网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "eligible",
-    "eligibility_label": "可投",
-    "score_total": 67,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 20,
-      "ability_match": 16,
-      "growth": 6,
-      "application_cost": 3
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "综合条件尚可，值得安排投递",
-    "score_strengths": [
-      "建筑与AI复合背景可发挥",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
     "fingerprint": "78ebc53e0e1f8df8a41ee6ac7972e47fc88507141dc5c38b6aeab63d661f9bfd",
     "source_id": "guopinleida",
     "source_job_id": "c585b1ec-2b36-4bea-915c-ae62526a5819",
@@ -10293,6 +9313,986 @@
     "status": "active"
   },
   {
+    "fingerprint": "fb65978696ade42e113b49246502ccece94b74fe78beb45cf289dd9c07062df3",
+    "source_id": "ccdc",
+    "source_job_id": null,
+    "company": "中国中建设计研究院",
+    "title": "建证美好 与你同行 | 中建设计研究院 2023春季校园招聘正式启航",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": null,
+    "first_seen": "2026-10-28",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://ccdc.cscec.com/rlzy/xyzp/202510/3907231.html",
+    "alternate_sources": [],
+    "source_type": "public_article",
+    "verification_status": "pending",
+    "source_name": null,
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 1
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "4546eccbc31084e5d8b294ff6c318d93b79b55341a00e4c8586597bc65648c00",
+    "source_id": "ccdc",
+    "source_job_id": null,
+    "company": "中国中建设计研究院",
+    "title": "“智”造幸福 “建”证未来 中建设计研究院2023校园招聘正式启动",
+    "location": [
+      "未公布"
+    ],
+    "deadline": null,
+    "publish_date": null,
+    "first_seen": "2026-10-28",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://ccdc.cscec.com/rlzy/xyzp/202510/3907233.html",
+    "alternate_sources": [],
+    "source_type": "public_article",
+    "verification_status": "pending",
+    "source_name": null,
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 17,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 1
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
+    "source_id": "cscec8",
+    "source_job_id": "2751",
+    "company": "中建八局第二建设",
+    "title": "中建八局二公司2027届暑期实习招聘",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-12",
+    "first_seen": "2026-07-27",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
+    "opportunity_type": "internship",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 82,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 21,
+      "ability_match": 20,
+      "growth": 7,
+      "application_cost": 5
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "待遇平台与匹配度较好，建议优先投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "待遇为公司层级估算",
+      "实习岗位，需确认转正机会"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "8ef8f857f60bcf8d18b0c8c027f39365b63a5c0e0f5b94e399027bf9c643de26",
+    "source_id": "cscec8",
+    "source_job_id": "2761",
+    "company": "中建八局装饰工程",
+    "title": "装饰公司2027届校园招聘",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-27",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2761",
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 81,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 20,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 4
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "736d26d0a769a0398b0f7af99db308742461eeb59383fd94d900f67f986be9f9",
+    "source_id": "cscec8",
+    "source_job_id": "2776",
+    "company": "上海中建东孚投资发展",
+    "title": "东孚公司2027届校园招聘",
+    "location": [
+      "上海，济南，北京，广州，深圳"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-09-17",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 90,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 20,
+      "ability_match": 20,
+      "growth": 10,
+      "application_cost": 4
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部城市开发、设计管理或运营平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "0c363196affd7d0bb64702438181c4536a0e8be22ad3e19a1f94ffe050afbfbf",
+    "source_id": "cscec8",
+    "source_job_id": "2757",
+    "company": "中建八局设计管理总院",
+    "title": "设计管理总院2027届校园招聘",
+    "location": [
+      "上海浦东新区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-26",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2757",
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 81,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 20,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 4
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "23d6da81619e207b3a617a4f4ab9b88422003f91c1a097eb2c89b1004332dd84",
+    "source_id": "cscec8",
+    "source_job_id": "2777",
+    "company": "中建八局北京建设投资",
+    "title": "北京公司2027届校园招聘",
+    "location": [
+      "北京，河北"
+    ],
+    "deadline": null,
+    "publish_date": "2026-06-18",
+    "first_seen": "2026-07-27",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计",
+      "城市设计",
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "alternate_sources": [],
+    "source_type": "official",
+    "verification_status": "official",
+    "source_name": "中国建筑第八工程局招聘系统",
+    "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2777",
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 81,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 20,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 4
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "b80693100c788f8a5a305735a236613f444ea95eef0091901b97efe119c3b72f",
+    "source_id": "bucea",
+    "source_job_id": "125074:24520",
+    "company": "广东省城乡规划设计研究院科技集团",
+    "title": "广东省城乡规划设计研究院科技集团股份有限公司2027届校园招聘",
+    "location": [
+      "广东省广州海珠区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-12",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24520&zpxxId=125074",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 69,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "a327066dc592d5a4381cf4d7b5418cee04561c035d7bb55fc7a6d918b8b5e08d",
+    "source_id": "bucea",
+    "source_job_id": "125083:24471",
+    "company": "清华大学建筑设计研究院",
+    "title": "规划设计师（2027校园招聘）",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-08",
+    "first_seen": "2026-10-09",
+    "category": "城乡规划",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "城乡规划"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24471&zpxxId=125083",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "49111ca5951e58aa0dce6269126ff3ea0d8a4aba20cd51a8505c6533c6ffd726",
+    "source_id": "bucea",
+    "source_job_id": "125083:24469",
+    "company": "清华大学建筑设计研究院",
+    "title": "建筑设计师（2027校园招聘）",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-10-08",
+    "first_seen": "2026-10-09",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24469&zpxxId=125083",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "7c967e597c8f79b768b48c3051228aa985e828f09b8a66404bcb371c13af3ac7",
+    "source_id": "bucea",
+    "source_job_id": "124996:24403",
+    "company": "四川省建筑设计研究院",
+    "title": "建筑设计师",
+    "location": [
+      "四川省成都武侯区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-14",
+    "first_seen": "2026-09-17",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24403&zpxxId=124996",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 69,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "66fd294ee07f6b9a9da7220700202d3e302e93c0cdfd2399d736086b5e311fb4",
+    "source_id": "bucea",
+    "source_job_id": "124980:24394",
+    "company": "北京大象建筑设计",
+    "title": "初级建筑设计师",
+    "location": [
+      "北京海淀区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-14",
+    "first_seen": "2026-09-17",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24394&zpxxId=124980",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 75,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 24,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "ea0271c14e4c88aeafb87424a53d84350c42f0d5e68b4a26bc4f49e012a54f2a",
+    "source_id": "bucea",
+    "source_job_id": "124947:24354",
+    "company": "同圆设计集团",
+    "title": "建筑设计师",
+    "location": [
+      "山东省济南历下区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-10",
+    "first_seen": "2026-09-17",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24354&zpxxId=124947",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 69,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 6,
+      "application_cost": 2
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "e7e91a3b4cce91c6645a06c47a8b3ba0822b8c716960079438e6ceb921beb2cb",
+    "source_id": "bucea",
+    "source_job_id": "124946:24366",
+    "company": "基准方中建筑设计股份有限公司北京分公司",
+    "title": "基准方中2027届校园招聘",
+    "location": [
+      "北京朝阳区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-10",
+    "first_seen": "2026-09-17",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24366&zpxxId=124946",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 78,
+    "score_breakdown": {
+      "compensation_platform": 29,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 8,
+      "application_cost": 2
+    },
+    "salary_band": "B",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "央国企工程平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "6a9fc8ad3f474452acdb86ec80a8481f74ef44ff79728eeecd3d4e44c2c13be4",
+    "source_id": "bucea",
+    "source_job_id": "124888:24316",
+    "company": "北京绿城投资",
+    "title": "绿城中国2027届校园招聘",
+    "location": [
+      "北京东城区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-07",
+    "first_seen": "2026-09-17",
+    "category": "建筑设计",
+    "match_level": "A",
+    "job_group": "architecture",
+    "priority_rank": 1,
+    "priority_label": "优先投",
+    "match_reasons": [
+      "建筑设计"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [
+        "建筑"
+      ],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24316&zpxxId=124888",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 87,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 19,
+      "ability_match": 20,
+      "growth": 10,
+      "application_cost": 2
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部城市开发、设计管理或运营平台估算",
+      "专业与设计院实习经历直接匹配",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "1eed0c136aa4914d70e2f937cc27db72e5c44bc32244a5257f06385759c23b69",
+    "source_id": "bucea",
+    "source_job_id": "124884:24329",
+    "company": "碧桂园生活服务集团",
+    "title": "项目管理管培生",
+    "location": [
+      "北京朝阳区"
+    ],
+    "deadline": null,
+    "publish_date": "2026-09-07",
+    "first_seen": "2026-09-17",
+    "category": "项目管理",
+    "match_level": "B",
+    "job_group": "architecture",
+    "priority_rank": 2,
+    "priority_label": "值得投",
+    "match_reasons": [
+      "项目管理"
+    ],
+    "requirements": {
+      "education": "本科",
+      "graduation_year": 2027,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": null,
+    "detail_url": "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24329&zpxxId=124884",
+    "alternate_sources": [],
+    "source_type": "university",
+    "verification_status": "verified",
+    "source_name": "北京建筑大学就业网",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "eligible",
+    "eligibility_label": "可投",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 22,
+      "interview_probability": 20,
+      "ability_match": 16,
+      "growth": 6,
+      "application_cost": 3
+    },
+    "salary_band": "待确认",
+    "salary_basis": "待确认",
+    "score_confidence": "中",
+    "score_summary": "综合条件尚可，值得安排投递",
+    "score_strengths": [
+      "建筑与AI复合背景可发挥",
+      "招聘来源已核验"
+    ],
+    "score_risks": [
+      "公司与待遇信息不足"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "987f0ef6ec9579c3c3c1d9dc4f55ba183af14151ed14b1811c01ac7a7e959435",
     "source_id": "hust",
     "source_job_id": "2463395",
@@ -10393,67 +10393,6 @@
     "source_name": "华中科技大学就业信息网",
     "official_apply_url": null,
     "opportunity_type": "mixed",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 69,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 19,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 2
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "中",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配",
-      "招聘来源已核验"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足"
-    ],
-    "status": "active"
-  },
-  {
-    "fingerprint": "d8c730d5528044a8c8fb6a9e1d65806a468815edc7eeac4ff0e859609bc18ad4",
-    "source_id": "hust",
-    "source_job_id": "2454460",
-    "company": "广州市规划院GZPI·2027",
-    "title": "广州市规划院GZPI·2027校园招聘正式启动！",
-    "location": [
-      "未公布"
-    ],
-    "deadline": null,
-    "publish_date": "2026-10-14",
-    "first_seen": "2026-10-15",
-    "category": "建筑设计",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 1,
-    "priority_label": "优先投",
-    "match_reasons": [
-      "建筑设计"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": 2027,
-      "majors": [
-        "建筑"
-      ],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": null,
-    "detail_url": "https://job.hust.edu.cn/zpinfo1/2454460.htm",
-    "alternate_sources": [],
-    "source_type": "university",
-    "verification_status": "verified",
-    "source_name": "华中科技大学就业信息网",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
     "eligibility_status": "needs_confirmation",
     "eligibility_label": "需确认",
     "score_total": 69,

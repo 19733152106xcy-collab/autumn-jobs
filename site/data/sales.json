@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "scope": "2027届本科ToB销售；不承诺全网覆盖",
   "jobs": [
     {
@@ -283,35 +283,6 @@
       "apply_url": "https://www.wenjuan.com/s/UZBZJvhceK/",
       "deadline": null,
       "publish_date": "2026-09-19",
-      "first_seen": "2026-10-10",
-      "source_id": "guopinleida",
-      "source_name": "国聘雷达",
-      "verification": "pending",
-      "salary": "未公布（底薪、提成与达标条件需确认）",
-      "kind": "job",
-      "eligibility": "needs_confirmation",
-      "requirements": "需核对具体岗位的学历、专业与届别；公告不代表所有岗位可投"
-    },
-    {
-      "id": "d493bae0cc2c91ade75e",
-      "company": "亚信安全",
-      "industry": "网络与数据安全",
-      "title": "大客户销售（2027公告列出）",
-      "location": [
-        "北京",
-        "南京",
-        "南昌",
-        "郑州",
-        "广州",
-        "南宁",
-        "重庆",
-        "成都",
-        "昆明"
-      ],
-      "detail_url": "https://mp.weixin.qq.com/s/epwzuKTQcg2aypjagA3A2Q",
-      "apply_url": "https://asiainfo-sec.jobs.feishu.cn/campus/position/list",
-      "deadline": "2026-10-30",
-      "publish_date": "2026-09-02",
       "first_seen": "2026-10-10",
       "source_id": "guopinleida",
       "source_name": "国聘雷达",
@@ -1202,35 +1173,6 @@
       "apply_url": "邮箱投递：hr@sinowealth.com",
       "deadline": null,
       "publish_date": "2026-08-21",
-      "first_seen": "2026-10-10",
-      "source_id": "guopinleida",
-      "source_name": "国聘雷达",
-      "verification": "pending",
-      "salary": "未公布（底薪、提成与达标条件需确认）",
-      "kind": "lead",
-      "eligibility": "needs_confirmation",
-      "requirements": "需核对具体岗位的学历、专业与届别；公告不代表所有岗位可投"
-    },
-    {
-      "id": "aa96bf3a3d5e7b4ce9c2",
-      "company": "亚信安全",
-      "industry": "网络与数据安全",
-      "title": "亚信安全2027届校园招聘 全球启动",
-      "location": [
-        "北京",
-        "南京",
-        "南昌",
-        "郑州",
-        "广州",
-        "南宁",
-        "重庆",
-        "成都",
-        "昆明"
-      ],
-      "detail_url": "https://mp.weixin.qq.com/s/epwzuKTQcg2aypjagA3A2Q",
-      "apply_url": "https://asiainfo-sec.jobs.feishu.cn/campus/position/list",
-      "deadline": "2026-10-30",
-      "publish_date": "2026-09-02",
       "first_seen": "2026-10-10",
       "source_id": "guopinleida",
       "source_name": "国聘雷达",
@@ -2594,8 +2536,8 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://hr.sensetime.com/campus/?c=1",
         "https://hr-jobs.sensetime.com/edu/m/",
@@ -2610,7 +2552,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/zHndjYWvtKp-pidlu16-FA",
@@ -2626,7 +2568,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://myjob.dlmu.edu.cn/campus/view/id/868532"
@@ -2638,7 +2580,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E6%8B%93%E5%B0%94%E6%80%9D%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2648,7 +2590,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E6%A0%BC%E7%81%B5%E6%B7%B1%E7%9E%B3%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2658,8 +2600,8 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://www.arcsoft.com.cn/job/JobList.html",
         "https://mp.weixin.qq.com/s/bdQm64RAhmzEiDcXZ9aD-Q",
@@ -2672,7 +2614,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/pzpV0RBk-LoWR4wFLnqnpA"
@@ -2684,7 +2626,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%BD%93%E8%99%B9%E7%A7%91%E6%8A%80%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2694,7 +2636,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E4%BA%91%E4%BB%8E%E7%A7%91%E6%8A%80%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2704,7 +2646,7 @@
       "industry": "企业级AI",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%85%89%E4%BA%91%E7%A7%91%E6%8A%80%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2714,8 +2656,8 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/vguBvqFzissctmlkWAtj0A",
         "https://mp.weixin.qq.com/s/maKWPfg7z7Lao-2nxwnOTw",
@@ -2729,7 +2671,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 1,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://career.hebut.edu.cn/home/correcruit/content/id/80371.html",
@@ -2742,7 +2684,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/-BSsdPVR7ZEKz0MJzxyxoQ"
@@ -2754,8 +2696,8 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/puz-1HqTPxOFODk0QAF0yQ",
         "http://mp.weixin.qq.com/s?__biz=MjM5NTM4MDUyMg==&mid=2656029085&idx=1&sn=0cd9cf5ff8b0cbbea37687a28e8ce681&chksm=bd4205d88a358cce5f0737fd701b6ad5f3011c9ab52cd9c7d79df9f6903290e380c93096709b#rd"
@@ -2767,7 +2709,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E6%B3%9B%E5%BE%AE%E7%BD%91%E7%BB%9C%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2777,7 +2719,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E8%93%9D%E5%87%8C%E8%BD%AF%E4%BB%B6%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2787,7 +2729,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E9%94%80%E5%94%AE%E6%98%93%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2797,7 +2739,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E7%BA%B7%E4%BA%AB%E9%94%80%E5%AE%A2%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2807,7 +2749,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E8%85%BE%E8%AE%AF%E4%BC%81%E7%82%B9%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2817,7 +2759,7 @@
       "industry": "企业软件与SaaS",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E9%92%89%E9%92%89%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2827,7 +2769,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E7%A7%BB%E8%BF%9C%E9%80%9A%E4%BF%A1%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2837,7 +2779,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E7%BE%8E%E6%A0%BC%E6%99%BA%E8%83%BD%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2847,7 +2789,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://job.tuya.com/"
@@ -2859,7 +2801,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/zFLP5buig6hhAd-g8reFCw"
@@ -2871,7 +2813,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 2,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/nsTcrdqFUrmt-B5QlQwPhQ"
@@ -2883,7 +2825,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/GIQyLjpogrsE-BCRZ_hSdg"
@@ -2895,7 +2837,7 @@
       "industry": "智能硬件与物联网",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/pFHJdo6yxLfHo2GmhoYaFA"
@@ -2907,8 +2849,8 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/s3wrMzzXvf8jNgqRqVADZg"
       ],
@@ -2919,8 +2861,8 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/gYcnppJAspmFr3ak45iSGQ"
       ],
@@ -2931,8 +2873,8 @@
       "industry": "智能硬件与物联网",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/FoWwHfRQandVyS6rQYsWrA"
       ],
@@ -2943,7 +2885,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://hr.focuschina.com/ic217874.html"
@@ -2955,7 +2897,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E8%BF%9E%E8%BF%9E%E6%95%B0%E5%AD%97%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2965,7 +2907,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E4%B8%9C%E6%96%B9%E5%98%89%E7%9B%9B%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -2975,7 +2917,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://www.ctsfreight.com/cn/hr/index.html"
@@ -2987,12 +2929,12 @@
       "industry": "企业出海服务",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://myjob.dlmu.edu.cn/campus/view/id/868903",
-        "https://mp.weixin.qq.com/s/nLVYiG6wRHtQP3RNIDzCEA",
-        "https://jobs.uhomes.com/jobs/v01qDx0R"
+        "https://jobs.uhomes.com/jobs/v01qDx0R",
+        "https://mp.weixin.qq.com/s/nLVYiG6wRHtQP3RNIDzCEA"
       ],
       "search_url": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%BF%90%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
@@ -3001,7 +2943,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%98%89%E8%AF%9A%E5%9B%BD%E9%99%85%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3011,7 +2953,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%AF%86%E5%B0%94%E5%85%8B%E5%8D%AB%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3021,7 +2963,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E7%BA%B5%E8%85%BE%E9%9B%86%E5%9B%A2%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3031,7 +2973,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%BA%97%E5%B0%8F%E7%A7%98%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3041,7 +2983,7 @@
       "industry": "企业出海服务",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E9%A2%86%E6%98%9F%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3051,14 +2993,14 @@
       "industry": "网络与数据安全",
       "job_count": 2,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24452&zpxxId=125043",
         "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24451&zpxxId=125043",
+        "https://51uns.bysjy.com.cn/Announce/Details/3592044?schoolCode=10700",
         "https://mp.weixin.qq.com/s/FCRcfbY8jfOPwjH97SJAzg",
-        "https://mp.weixin.qq.com/s/tBepcnSahMW3uXUsBn013g",
-        "https://mp.weixin.qq.com/s/vlVqsy66a2BhGOjOB_T5Mg"
+        "https://mp.weixin.qq.com/s/tBepcnSahMW3uXUsBn013g"
       ],
       "search_url": "https://www.bing.com/search?q=%E6%B7%B1%E4%BF%A1%E6%9C%8D%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
@@ -3067,12 +3009,12 @@
       "industry": "网络与数据安全",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
+        "https://campus.qianxin.com/campus/jobSearch",
         "https://mp.weixin.qq.com/s/efoNAJmRvKo3Mrt6czMIYw",
-        "https://mp.weixin.qq.com/s/BficbYNO6qKVAE0UmowZcA",
-        "https://campus.qianxin.com/campus/jobSearch"
+        "https://mp.weixin.qq.com/s/BficbYNO6qKVAE0UmowZcA"
       ],
       "search_url": "https://www.bing.com/search?q=%E5%A5%87%E5%AE%89%E4%BF%A1%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
@@ -3081,7 +3023,7 @@
       "industry": "网络与数据安全",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%90%AF%E6%98%8E%E6%98%9F%E8%BE%B0%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3091,7 +3033,7 @@
       "industry": "网络与数据安全",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%A4%A9%E8%9E%8D%E4%BF%A1%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3101,22 +3043,22 @@
       "industry": "网络与数据安全",
       "job_count": 1,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
+        "https://job.hdu.edu.cn/campus/view?id=10011",
         "https://mp.weixin.qq.com/s/1ylUbx1uTbWODX9IiMs9WQ",
-        "https://mp.weixin.qq.com/s/NkIQJ5XKegQfovSOp-iauQ",
-        "https://job.hdu.edu.cn/campus/view?id=10011"
+        "https://mp.weixin.qq.com/s/NkIQJ5XKegQfovSOp-iauQ"
       ],
       "search_url": "https://www.bing.com/search?q=%E7%BB%BF%E7%9B%9F%E7%A7%91%E6%8A%80%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
     {
       "company": "亚信安全",
       "industry": "网络与数据安全",
-      "job_count": 1,
-      "lead_count": 1,
-      "checked_date": "2026-10-30",
-      "status": "已找到销售岗位",
+      "job_count": 0,
+      "lead_count": 0,
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/epwzuKTQcg2aypjagA3A2Q"
       ],
@@ -3127,7 +3069,7 @@
       "industry": "网络与数据安全",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/1z8WBwEV8W6qqOF4ikqTGg"
@@ -3139,7 +3081,7 @@
       "industry": "网络与数据安全",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%AE%89%E6%81%92%E4%BF%A1%E6%81%AF%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3149,8 +3091,8 @@
       "industry": "网络与数据安全",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://job.ustc.edu.cn/Recruitment/info.aspx?itemid=29278",
         "https://mp.weixin.qq.com/s/d-cH4TE9IsB1xEig85agAA",
@@ -3163,7 +3105,7 @@
       "industry": "网络与数据安全",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E4%BF%A1%E5%AE%89%E4%B8%96%E7%BA%AA%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3173,7 +3115,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/62vqPDSB_s0EWi5BNWFbIQ",
@@ -3188,7 +3130,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/CRxy0i6jkq7iFZk0FHLXLA"
@@ -3200,7 +3142,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/bh00GFmjXSDc89UxxbLVww"
@@ -3212,8 +3154,8 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/vnL_bKmZkNEIiMUstSVJLA"
       ],
@@ -3224,8 +3166,8 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/B5EIPUJg8mGM2dJZXxdQyw"
       ],
@@ -3236,7 +3178,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E6%8B%93%E6%96%AF%E8%BE%BE%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3246,8 +3188,8 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/1dJu2Area--4vW4zjVAgEw"
       ],
@@ -3258,7 +3200,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/AovVe6nVlPTsocrgetnIoQ?scene=1"
@@ -3270,7 +3212,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E9%81%A8%E5%8D%9A%E6%99%BA%E8%83%BD%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3280,7 +3222,7 @@
       "industry": "工业机器人与智能制造",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E6%A2%85%E5%8D%A1%E6%9B%BC%E5%BE%B7%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3290,8 +3232,8 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
-      "status": "发现校招，但未发现匹配销售岗",
+      "checked_date": "2026-10-31",
+      "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://mp.weixin.qq.com/s/ypgSht75whHD-tW7qXp5IQ",
         "http://mp.weixin.qq.com/s?__biz=MzIzNDQxOTUzNg==&mid=2247518128&idx=1&sn=daf93145d057265ef2f4a3fdbbcc14e4&chksm=e8f4638fdf83ea993f169cb18049eaab24f6eb76a209d4b307316eb310efc38f7b238ae15dec#rd",
@@ -3306,7 +3248,7 @@
       "industry": "补充优质企业",
       "job_count": 1,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/KA7OqLKR2Z3hT9t5yozQ3g",
@@ -3319,7 +3261,7 @@
       "industry": "补充优质企业",
       "job_count": 1,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/St8uD_RnOizRh8HU-TEh2g",
@@ -3335,7 +3277,7 @@
       "industry": "补充优质企业",
       "job_count": 2,
       "lead_count": 4,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://job.bucea.edu.cn/front/zwxx.jspa?xqzwId=24374&zpxxId=124962",
@@ -3350,7 +3292,7 @@
       "industry": "补充优质企业",
       "job_count": 2,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/Frw2oWhM2nQJYmpYT1pvFw",
@@ -3366,7 +3308,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/GeQn5DWY-J1G0LgPObVhDA",
@@ -3380,7 +3322,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 3,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/Sxcd6XRz-wrjSUfLhRVS4Q",
@@ -3396,7 +3338,7 @@
       "industry": "补充优质企业",
       "job_count": 1,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/VZ9PmzdQ3NbDtbNMRJOEnA",
@@ -3412,7 +3354,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/7NB-7AojfQ7q_HdCOznWRA",
@@ -3428,7 +3370,7 @@
       "industry": "补充优质企业",
       "job_count": 2,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/Chi7P0bJeTvgoO6lO85AHw",
@@ -3444,7 +3386,7 @@
       "industry": "补充优质企业",
       "job_count": 3,
       "lead_count": 4,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/7YNOBpJfPOltJ6B7n0ZeaQ",
@@ -3460,7 +3402,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/qzSwCVG6Vcxb1i13d2F8OA",
@@ -3473,7 +3415,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E8%87%B4%E8%BF%9C%E4%BA%92%E8%81%94%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3483,7 +3425,7 @@
       "industry": "补充优质企业",
       "job_count": 2,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/fVrbV2se3ciGgdUY_ZVBTg"
@@ -3495,7 +3437,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/yIL9nTxJSM4yUMHg1ZjHjQ",
@@ -3508,7 +3450,7 @@
       "industry": "补充优质企业",
       "job_count": 1,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/",
@@ -3523,7 +3465,7 @@
       "industry": "补充优质企业",
       "job_count": 2,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/fmwyV7YyIwDCbPM6kM9c9w",
@@ -3538,7 +3480,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "有销售方向公告，需核验",
       "sources": [
         "https://mp.weixin.qq.com/s/gTpybf7wP21TjX4mBJJQ4w",
@@ -3551,7 +3493,7 @@
       "industry": "补充优质企业",
       "job_count": 3,
       "lead_count": 1,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
         "https://mp.weixin.qq.com/s/7v7tCmBuywYc91a2FJF-cg",
@@ -3565,7 +3507,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E7%BD%97%E5%85%8B%E9%9F%A6%E5%B0%94%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3575,7 +3517,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E8%BE%BE%E7%B4%A2%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3585,7 +3527,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=Autodesk%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3595,12 +3537,12 @@
       "industry": "补充优质企业",
       "job_count": 1,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
+        "https://www.keyence.com.cn/ss/careers/recruitment.jsp?ad=gamisc20178career115",
         "https://mp.weixin.qq.com/s/zFgY0izAOCYqZW7CeJFtBQ",
-        "https://mp.weixin.qq.com/s/mZrTxKVVROsTHouc1MtbzQ",
-        "https://www.keyence.com.cn/ss/careers/recruitment.jsp?ad=gamisc20178career115"
+        "https://mp.weixin.qq.com/s/mZrTxKVVROsTHouc1MtbzQ"
       ],
       "search_url": "https://www.bing.com/search?q=%E5%9F%BA%E6%81%A9%E5%A3%AB%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
@@ -3609,7 +3551,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [
         "https://career.hebut.edu.cn/home/correcruit/content/id/80460.html"
@@ -3621,7 +3563,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E6%AC%A7%E5%A7%86%E9%BE%99%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3631,14 +3573,14 @@
       "industry": "补充优质企业",
       "job_count": 3,
       "lead_count": 2,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "已找到销售岗位",
       "sources": [
+        "https://www.nowcoder.com/jobs/detail/469469",
+        "https://career.nankai.edu.cn/correcruit/content/id/118802.html",
         "https://mp.weixin.qq.com/s/AAvgCKywzv0p42T_Pn5Ryw",
         "https://mp.weixin.qq.com/s/I1TsnCqOKQmPtX2bkz0_Sg",
-        "https://mp.weixin.qq.com/s/3qYfTThmQr45pMUHplv7Lw",
-        "https://www.nowcoder.com/jobs/detail/469469",
-        "https://career.nankai.edu.cn/correcruit/content/id/118802.html"
+        "https://mp.weixin.qq.com/s/3qYfTThmQr45pMUHplv7Lw"
       ],
       "search_url": "https://www.bing.com/search?q=%E5%B9%BF%E8%81%94%E8%BE%BE%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
     },
@@ -3647,7 +3589,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E5%93%81%E8%8C%97%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
@@ -3657,7 +3599,7 @@
       "industry": "补充优质企业",
       "job_count": 0,
       "lead_count": 0,
-      "checked_date": "2026-10-30",
+      "checked_date": "2026-10-31",
       "status": "配置来源暂未发现，非断言没有招聘",
       "sources": [],
       "search_url": "https://www.bing.com/search?q=%E9%B2%81%E7%8F%AD%E8%BD%AF%E4%BB%B6%202027%20%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E9%94%80%E5%94%AE%20%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%20%E6%9C%AC%E7%A7%91"
