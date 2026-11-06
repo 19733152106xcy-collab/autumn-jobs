@@ -2,27 +2,27 @@
   "cadg": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 61,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 62,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-07-31T23:54:12.232827+08:00",
-    "consecutive_failures": 59,
+    "consecutive_failures": 60,
     "last_error": "RepeatedEmptyDiscovery"
   },
   "biad": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 61,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 62,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-07-31T23:54:12.232827+08:00",
-    "consecutive_failures": 59,
+    "consecutive_failures": 60,
     "last_error": "RepeatedEmptyDiscovery"
   },
   "brdr": {
     "status": "ok",
     "discovered": 3,
     "consecutive_empty": 0,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
-    "last_success": "2026-11-05T11:40:06.723632+08:00",
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
+    "last_success": "2026-11-06T11:35:04.352608+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
@@ -30,71 +30,71 @@
     "status": "ok",
     "discovered": 4,
     "consecutive_empty": 0,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
-    "last_success": "2026-11-05T11:40:06.723632+08:00",
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
+    "last_success": "2026-11-06T11:35:04.352608+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "cscec": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 61,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 62,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-07-31T23:54:12.232827+08:00",
-    "consecutive_failures": 59,
+    "consecutive_failures": 60,
     "last_error": "RepeatedEmptyDiscovery"
   },
   "xauat": {
-    "status": "ok",
+    "status": "failed",
     "discovered": 0,
-    "consecutive_empty": 1,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 0,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-11-05T11:40:06.723632+08:00",
-    "consecutive_failures": 0,
-    "last_error": null
+    "consecutive_failures": 1,
+    "last_error": "ConnectError"
   },
   "tongji": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 61,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 62,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-07-31T23:54:12.232827+08:00",
-    "consecutive_failures": 59,
+    "consecutive_failures": 60,
     "last_error": "RepeatedEmptyDiscovery"
   },
   "zju": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 61,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 62,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-07-31T23:54:12.232827+08:00",
-    "consecutive_failures": 59,
+    "consecutive_failures": 60,
     "last_error": "RepeatedEmptyDiscovery"
   },
   "chinaconstruction": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 61,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 62,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-07-31T23:54:12.232827+08:00",
-    "consecutive_failures": 59,
+    "consecutive_failures": 60,
     "last_error": "RepeatedEmptyDiscovery"
   },
   "cscec8": {
     "status": "ok",
     "discovered": 42,
     "consecutive_empty": 0,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
-    "last_success": "2026-11-05T11:40:06.723632+08:00",
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
+    "last_success": "2026-11-06T11:35:04.352608+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "bucea": {
     "status": "ok",
-    "discovered": 281,
+    "discovered": 282,
     "consecutive_empty": 0,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
-    "last_success": "2026-11-05T11:40:06.723632+08:00",
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
+    "last_success": "2026-11-06T11:35:04.352608+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
@@ -102,27 +102,27 @@
     "status": "failed",
     "discovered": 0,
     "consecutive_empty": 0,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-10-30T10:49:57.587774+08:00",
-    "consecutive_failures": 6,
-    "last_error": "RemoteProtocolError"
+    "consecutive_failures": 7,
+    "last_error": "ConnectError"
   },
   "hust": {
     "status": "ok",
-    "discovered": 16,
+    "discovered": 15,
     "consecutive_empty": 0,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
-    "last_success": "2026-11-05T11:40:06.723632+08:00",
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
+    "last_success": "2026-11-06T11:35:04.352608+08:00",
     "consecutive_failures": 0,
     "last_error": null
   },
   "gankinterview": {
     "status": "suspect",
     "discovered": 0,
-    "consecutive_empty": 55,
-    "last_run": "2026-11-05T11:40:06.723632+08:00",
+    "consecutive_empty": 56,
+    "last_run": "2026-11-06T11:35:04.352608+08:00",
     "last_success": "2026-09-17T15:28:02.350566+08:00",
-    "consecutive_failures": 53,
+    "consecutive_failures": 54,
     "last_error": "RepeatedEmptyDiscovery"
   }
 }
