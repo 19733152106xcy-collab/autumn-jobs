@@ -1,6 +1,6 @@
 {
-  "updated_date": "2026-11-03",
-  "active_jobs": 160,
+  "updated_date": "2026-11-10",
+  "active_jobs": 161,
   "today_added": 1,
   "source_counts": {
     "cadg": {
@@ -28,6 +28,11 @@
       "included": 0,
       "excluded": 0
     },
+    "xauat": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
     "tongji": {
       "discovered": 0,
       "included": 0,
@@ -49,14 +54,14 @@
       "excluded": 37
     },
     "bucea": {
-      "discovered": 275,
+      "discovered": 297,
       "included": 10,
-      "excluded": 265
+      "excluded": 287
     },
     "hust": {
-      "discovered": 19,
-      "included": 2,
-      "excluded": 17
+      "discovered": 17,
+      "included": 3,
+      "excluded": 14
     },
     "gankinterview": {
       "discovered": 0,
