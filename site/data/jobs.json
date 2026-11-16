@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-11-10",
+  "updated_date": "2026-11-16",
   "jobs": [
     {
       "fingerprint": "7ff4ad2e8a6e832682cfc33fb00b57c16468e5788a023d09d13af2f463fed4b5",
@@ -8017,53 +8017,6 @@
       "score_risks": [
         "学历、届别或专业信息不完整",
         "待遇为公司层级估算"
-      ]
-    },
-    {
-      "fingerprint": "a986eb11e2d82ce66ea546106e0699a407abb0604cbb1057f2bb1b07ddd0d381",
-      "company": "中建八局第二建设",
-      "title": "中建八局二公司2027届暑期实习招聘",
-      "location": [
-        "全国"
-      ],
-      "deadline": null,
-      "publish_date": "2026-06-12",
-      "first_seen": "2026-07-27",
-      "category": "建筑设计",
-      "match_level": "A",
-      "apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-      "detail_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-      "source_type": "official",
-      "verification_status": "official",
-      "source_name": "中国建筑第八工程局招聘系统",
-      "official_apply_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2751",
-      "opportunity_type": "internship",
-      "job_group": "architecture",
-      "priority_rank": 1,
-      "priority_label": "优先投",
-      "status": "active",
-      "eligibility_status": "eligible",
-      "eligibility_label": "可投",
-      "score_total": 82,
-      "score_breakdown": {
-        "compensation_platform": 29,
-        "interview_probability": 21,
-        "ability_match": 20,
-        "growth": 7,
-        "application_cost": 5
-      },
-      "salary_band": "B",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "待遇平台与匹配度较好，建议优先投递",
-      "score_strengths": [
-        "央国企工程平台估算",
-        "专业与设计院实习经历直接匹配",
-        "招聘来源已核验"
-      ],
-      "score_risks": [
-        "待遇为公司层级估算",
-        "实习岗位，需确认转正机会"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
-  "updated_date": "2026-11-10",
-  "active_jobs": 161,
-  "today_added": 1,
+  "updated_date": "2026-11-16",
+  "active_jobs": 160,
+  "today_added": 0,
   "source_counts": {
     "cadg": {
       "discovered": 0,
@@ -49,19 +49,14 @@
       "excluded": 0
     },
     "cscec8": {
-      "discovered": 42,
-      "included": 5,
+      "discovered": 41,
+      "included": 4,
       "excluded": 37
     },
     "bucea": {
-      "discovered": 297,
+      "discovered": 301,
       "included": 10,
-      "excluded": 287
-    },
-    "hust": {
-      "discovered": 17,
-      "included": 3,
-      "excluded": 14
+      "excluded": 291
     },
     "gankinterview": {
       "discovered": 0,
