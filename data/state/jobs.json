@@ -1225,65 +1225,6 @@
     "status": "active"
   },
   {
-    "fingerprint": "0687e99a0d983b2b820e9b56b6dd6b51fc4845d6eaf8a9c55d4ccdfb4b7aa5b6",
-    "source_id": "guopinleida",
-    "source_job_id": "a0f315da-d198-4c72-9dbd-cc250d9baeb1",
-    "company": "宁波市自然资源和规划局所属事业单位",
-    "title": "宁波市自然资源和规划局所属事业单位公开招聘工作人员公告",
-    "location": [
-      "宁波"
-    ],
-    "deadline": "2026-11-22",
-    "publish_date": "2026-11-15",
-    "first_seen": "2026-11-20",
-    "category": "城乡规划",
-    "match_level": "A",
-    "job_group": "architecture",
-    "priority_rank": 2,
-    "priority_label": "值得投",
-    "match_reasons": [
-      "城乡规划"
-    ],
-    "requirements": {
-      "education": null,
-      "graduation_year": null,
-      "majors": [],
-      "experience_required": false,
-      "qualification_required": false
-    },
-    "apply_url": "https://bmxt.nbhr.org.cn/Home/ExamFileViewer?examFile=%E6%8B%9B%E8%80%83%E7%AE%80%E7%AB%A0",
-    "detail_url": "https://rsj.ningbo.gov.cn/col/col1229676740/art/2026/art_4b300423780543e09090b163dd0a5ab8.html",
-    "alternate_sources": [],
-    "source_type": "job_board",
-    "verification_status": "pending",
-    "source_name": "国聘雷达",
-    "official_apply_url": null,
-    "opportunity_type": "full_time",
-    "eligibility_status": "needs_confirmation",
-    "eligibility_label": "需确认",
-    "score_total": 66,
-    "score_breakdown": {
-      "compensation_platform": 22,
-      "interview_probability": 17,
-      "ability_match": 20,
-      "growth": 6,
-      "application_cost": 1
-    },
-    "salary_band": "待确认",
-    "salary_basis": "待确认",
-    "score_confidence": "低",
-    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
-    "score_strengths": [
-      "专业与设计院实习经历直接匹配"
-    ],
-    "score_risks": [
-      "学历、届别或专业信息不完整",
-      "公司与待遇信息不足",
-      "投递信息仍待核验"
-    ],
-    "status": "active"
-  },
-  {
     "fingerprint": "2cc1c0b43c1049ff62017f317c86258218365da72c79dc604f0de4889881012a",
     "source_id": "guopinleida",
     "source_job_id": "796141e6-3353-413f-8e3e-78ffc699774d",
@@ -10872,6 +10813,72 @@
     "status": "active"
   },
   {
+    "fingerprint": "3447157142ecc870abb3c2494120b43757bac9b3ff5c1bf88114a428d3aaa8fd",
+    "source_id": "guopinleida",
+    "source_job_id": "dad6aec3-4816-4130-8f24-1a70568d9296",
+    "company": "腾讯IEG",
+    "title": "腾讯IEG校招《金铲铲之战》策划日常大揭秘！",
+    "location": [
+      "上海",
+      "北京",
+      "广州",
+      "成都",
+      "杭州",
+      "武汉",
+      "深圳"
+    ],
+    "deadline": null,
+    "publish_date": "2026-05-12",
+    "first_seen": "2026-11-23",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://join.qq.com",
+    "detail_url": "http://mp.weixin.qq.com/s/W_awdJIZ7EnUHCea3AiYSA",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "full_time",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部科技或金融平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
     "fingerprint": "b396d5e688ef8241def057b9bbdeaaec7410fa206e29acca283bd75e888e4a32",
     "source_id": "guopinleida",
     "source_job_id": "f9210753-7bba-4973-b389-fd8b2b1e45f9",
@@ -11193,6 +11200,66 @@
     "score_risks": [
       "学历、届别或专业信息不完整",
       "公司与待遇信息不足",
+      "投递信息仍待核验"
+    ],
+    "status": "active"
+  },
+  {
+    "fingerprint": "42af85e6f27ac76e5c61d12d3d43ac9dab4a315c340f7af91fad3c2ef77bfe48",
+    "source_id": "guopinleida",
+    "source_job_id": "60ea04b9-a274-4ac1-bb62-b2a6c7c39a6d",
+    "company": "百济神州",
+    "title": "百济神州商业团队校园招聘正式启动(可转正)",
+    "location": [
+      "全国"
+    ],
+    "deadline": null,
+    "publish_date": "2026-03-05",
+    "first_seen": "2026-11-23",
+    "category": "不限专业优质岗",
+    "match_level": "C",
+    "job_group": "other",
+    "priority_rank": 3,
+    "priority_label": "跨行尝试",
+    "match_reasons": [
+      "专业不限",
+      "头部企业或外企"
+    ],
+    "requirements": {
+      "education": null,
+      "graduation_year": null,
+      "majors": [],
+      "experience_required": false,
+      "qualification_required": false
+    },
+    "apply_url": "https://app.mokahr.com/campus-recruitment/beigene/118622",
+    "detail_url": "https://mp.weixin.qq.com/s/CZzMZw-hoEkbbY7hCOFDjw",
+    "alternate_sources": [],
+    "source_type": "job_board",
+    "verification_status": "pending",
+    "source_name": "国聘雷达",
+    "official_apply_url": null,
+    "opportunity_type": "mixed",
+    "eligibility_status": "needs_confirmation",
+    "eligibility_label": "需确认",
+    "score_total": 67,
+    "score_breakdown": {
+      "compensation_platform": 36,
+      "interview_probability": 9,
+      "ability_match": 11,
+      "growth": 10,
+      "application_cost": 1
+    },
+    "salary_band": "A",
+    "salary_basis": "估算",
+    "score_confidence": "中",
+    "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+    "score_strengths": [
+      "头部外企平台估算"
+    ],
+    "score_risks": [
+      "学历、届别或专业信息不完整",
+      "待遇为公司层级估算",
       "投递信息仍待核验"
     ],
     "status": "active"

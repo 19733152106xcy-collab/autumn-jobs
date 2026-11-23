@@ -1,9 +1,14 @@
 {
-  "updated_date": "2026-11-22",
-  "active_jobs": 173,
-  "today_added": 0,
+  "updated_date": "2026-11-23",
+  "active_jobs": 174,
+  "today_added": 2,
   "source_counts": {
     "cadg": {
+      "discovered": 0,
+      "included": 0,
+      "excluded": 0
+    },
+    "biad": {
       "discovered": 0,
       "included": 0,
       "excluded": 0
@@ -28,11 +33,6 @@
       "included": 0,
       "excluded": 0
     },
-    "tongji": {
-      "discovered": 0,
-      "included": 0,
-      "excluded": 0
-    },
     "zju": {
       "discovered": 0,
       "included": 0,
@@ -49,14 +49,14 @@
       "excluded": 37
     },
     "bucea": {
-      "discovered": 286,
+      "discovered": 287,
       "included": 10,
-      "excluded": 276
+      "excluded": 277
     },
     "guopinleida": {
       "discovered": 7505,
-      "included": 154,
-      "excluded": 7351
+      "included": 155,
+      "excluded": 7350
     },
     "gankinterview": {
       "discovered": 0,
