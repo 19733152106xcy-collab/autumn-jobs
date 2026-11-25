@@ -1,7 +1,7 @@
 {
-  "updated_date": "2026-11-24",
-  "active_jobs": 174,
-  "today_added": 1,
+  "updated_date": "2026-11-25",
+  "active_jobs": 177,
+  "today_added": 3,
   "source_counts": {
     "cadg": {
       "discovered": 0,
@@ -54,9 +54,9 @@
       "excluded": 278
     },
     "guopinleida": {
-      "discovered": 7483,
-      "included": 155,
-      "excluded": 7328
+      "discovered": 7545,
+      "included": 158,
+      "excluded": 7387
     },
     "gankinterview": {
       "discovered": 0,
