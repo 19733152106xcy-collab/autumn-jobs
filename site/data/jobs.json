@@ -1,6 +1,100 @@
 {
-  "updated_date": "2026-11-27",
+  "updated_date": "2026-11-28",
   "jobs": [
+    {
+      "fingerprint": "6fb7e9c6439bff439336fcb56d5b094ee67e87deb48ea33a16a801104e8d94e1",
+      "company": "北京市怀柔区国有企业",
+      "title": "北京市怀柔区2027年国有企业管培生公开招聘公告",
+      "location": [
+        "北京"
+      ],
+      "deadline": "2027-02-26",
+      "publish_date": "2026-11-22",
+      "first_seen": "2026-11-28",
+      "category": "城乡规划",
+      "match_level": "A",
+      "apply_url": "https://www.gongzhao.net/cms/front/zppcZw.act?pcid=2c913081a19bd9b701a1e8726f527c8c&path=zppcZw&preview=",
+      "detail_url": "https://www.bjhr.gov.cn/zwgk/tzgg/202611/t20261123_4955743.html?sessionid=",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "full_time",
+      "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
+      "status": "active",
+      "eligibility_status": "eligible",
+      "eligibility_label": "可投",
+      "score_total": 72,
+      "score_breakdown": {
+        "compensation_platform": 22,
+        "interview_probability": 22,
+        "ability_match": 20,
+        "growth": 6,
+        "application_cost": 2
+      },
+      "salary_band": "待确认",
+      "salary_basis": "待确认",
+      "score_confidence": "低",
+      "score_summary": "综合条件尚可，值得安排投递",
+      "score_strengths": [
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "公司与待遇信息不足",
+        "投递信息仍待核验"
+      ]
+    },
+    {
+      "fingerprint": "c87ea91025d048eee4d36fea0223fc7a6215c28c5e88a7dd02c5e95bcfeaa8b4",
+      "company": "中建西南院",
+      "title": "中建西南院27届校招提前批速递！暑期菁英实习生计划",
+      "location": [
+        "全国",
+        "成都",
+        "济南"
+      ],
+      "deadline": null,
+      "publish_date": "2026-05-13",
+      "first_seen": "2026-11-28",
+      "category": "建筑设计",
+      "match_level": "A",
+      "apply_url": "https://xnjz.zhiye.com/intern/jobs",
+      "detail_url": "https://mp.weixin.qq.com/s/nqh2ZVGaqFMCUHAtgF5KQw",
+      "source_type": "job_board",
+      "verification_status": "pending",
+      "source_name": "国聘雷达",
+      "official_apply_url": null,
+      "opportunity_type": "mixed",
+      "job_group": "architecture",
+      "priority_rank": 2,
+      "priority_label": "值得投",
+      "status": "active",
+      "eligibility_status": "needs_confirmation",
+      "eligibility_label": "需确认",
+      "score_total": 79,
+      "score_breakdown": {
+        "compensation_platform": 33,
+        "interview_probability": 17,
+        "ability_match": 20,
+        "growth": 8,
+        "application_cost": 1
+      },
+      "salary_band": "B",
+      "salary_basis": "估算",
+      "score_confidence": "中",
+      "score_summary": "信息尚不完整，先核验资格与待遇再投递",
+      "score_strengths": [
+        "头部建筑设计平台估算",
+        "专业与设计院实习经历直接匹配"
+      ],
+      "score_risks": [
+        "学历、届别或专业信息不完整",
+        "待遇为公司层级估算",
+        "投递信息仍待核验"
+      ]
+    },
     {
       "fingerprint": "cfac2ca8de78d7dbde21987b7be6f7a51549b1a35cbd69bbf0c011245c9f9845",
       "company": "清华同衡",
@@ -141,53 +235,6 @@
         "学历、届别或专业信息不完整",
         "公司与待遇信息不足",
         "投递信息仍待核验"
-      ]
-    },
-    {
-      "fingerprint": "688b2248ee318f3722e363604bd12bf1e1ab7a022dc1a80904dc0a021db91264",
-      "company": "湖北省电力规划设计研究院",
-      "title": "湖北省电力规划设计研究院2027届“启明星计划”实习生招聘",
-      "location": [
-        "武汉"
-      ],
-      "deadline": null,
-      "publish_date": "2026-06-15",
-      "first_seen": "2026-11-25",
-      "category": "城乡规划",
-      "match_level": "A",
-      "apply_url": "https://app.mokahr.com/campus-recruitment/hbpower/95447?locale=zh-CN",
-      "detail_url": "https://mp.weixin.qq.com/s/uq6ZLhtpFNyim08q612TQA",
-      "source_type": "job_board",
-      "verification_status": "pending",
-      "source_name": "国聘雷达",
-      "official_apply_url": null,
-      "opportunity_type": "internship",
-      "job_group": "architecture",
-      "priority_rank": 2,
-      "priority_label": "值得投",
-      "status": "active",
-      "eligibility_status": "eligible",
-      "eligibility_label": "可投",
-      "score_total": 76,
-      "score_breakdown": {
-        "compensation_platform": 29,
-        "interview_probability": 18,
-        "ability_match": 20,
-        "growth": 7,
-        "application_cost": 2
-      },
-      "salary_band": "B",
-      "salary_basis": "估算",
-      "score_confidence": "中",
-      "score_summary": "综合条件尚可，值得安排投递",
-      "score_strengths": [
-        "央国企工程平台估算",
-        "专业与设计院实习经历直接匹配"
-      ],
-      "score_risks": [
-        "待遇为公司层级估算",
-        "投递信息仍待核验",
-        "实习岗位，需确认转正机会"
       ]
     },
     {
